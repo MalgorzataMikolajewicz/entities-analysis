@@ -1,0 +1,5314 @@
+Microsoft Windows [Version 10.0.19042.1052]
+(c) Microsoft Corporation. Wszelkie prawa zastrzeżone.
+
+C:\Users\adamz>d:
+
+D:\>cd gocha
+
+D:\Gocha>cd learn
+
+D:\Gocha\learn>python essential_words2.py
+Enter the web address to get the essential wordshttps://www.biography.com/us-first-lady/michelle-obama
+Representative name for the entity: Michelle Obama
+Entity type: PERSON
+Salience score: 0.8092421889305115
+mid: /m/025s5v9
+wikipedia_url: https://en.wikipedia.org/wiki/Michelle_Obama
+Mention text: Michelle Obama
+Mention type: PROPER
+Mention text: lawyer
+Mention type: COMMON
+Mention text: first lady
+Mention type: COMMON
+Mention text: wife
+Mention type: COMMON
+Mention text: Michelle
+Mention type: PROPER
+Mention text: Michelle
+Mention type: PROPER
+Mention text: Michelle
+Mention type: PROPER
+Mention text: Michelle
+Mention type: PROPER
+Mention text: Michelle
+Mention type: PROPER
+Mention text: Michelle
+Mention type: PROPER
+Mention text: Michelle
+Mention type: PROPER
+Mention text: Michelle
+Mention type: PROPER
+Mention text: Michelle
+Mention type: PROPER
+Mention text: Michelle
+Mention type: PROPER
+Mention text: Michelle
+Mention type: PROPER
+Mention text: Michelle
+Mention type: PROPER
+Mention text: Michelle
+Mention type: PROPER
+Mention text: Michelle
+Mention type: PROPER
+Mention text: Michelle
+Mention type: PROPER
+Mention text: Michelle
+Mention type: PROPER
+Mention text: Michelle
+Mention type: PROPER
+Mention text: Michelle
+Mention type: PROPER
+Mention text: Michelle
+Mention type: PROPER
+Mention text: Michelle
+Mention type: PROPER
+Mention text: Michelle
+Mention type: PROPER
+Mention text: Michelle
+Mention type: PROPER
+Mention text: Michelle
+Mention type: PROPER
+Mention text: Michelle
+Mention type: PROPER
+Mention text: Michelle
+Mention type: PROPER
+Mention text: Michelle
+Mention type: PROPER
+Mention text: Michelle
+Mention type: PROPER
+Mention text: Michelle
+Mention type: PROPER
+Mention text: Michelle
+Mention type: PROPER
+Mention text: Michelle
+Mention type: PROPER
+Mention text: Michelle
+Mention type: PROPER
+Mention text: Michelle
+Mention type: PROPER
+Mention text: Michelle
+Mention type: PROPER
+Mention text: MICHELLE OBAMA
+Mention type: PROPER
+Mention text: Michelle
+Mention type: PROPER
+Mention text: Michelle
+Mention type: PROPER
+Mention text: Michelle
+Mention type: PROPER
+Mention text: Michelle
+Mention type: PROPER
+Mention text: Michelle
+Mention type: PROPER
+Mention text: Michelle
+Mention type: PROPER
+Mention text: Michelle
+Mention type: PROPER
+Mention text: Michelle
+Mention type: PROPER
+Mention text: Michelle
+Mention type: PROPER
+Mention text: Michelle
+Mention type: PROPER
+Mention text: Michelle
+Mention type: PROPER
+Mention text: Michelle
+Mention type: PROPER
+Mention text: Michelle
+Mention type: PROPER
+Mention text: Michelle
+Mention type: PROPER
+Mention text: Michelle
+Mention type: PROPER
+Mention text: Michelle
+Mention type: PROPER
+Mention text: Michelle
+Mention type: PROPER
+Mention text: Michelle
+Mention type: PROPER
+Mention text: Michelle
+Mention type: PROPER
+Mention text: Michelle Obama
+Mention type: PROPER
+Mention text: Michelle
+Mention type: PROPER
+Mention text: Michelle Obama
+Mention type: PROPER
+Mention text: Michelle Obama
+Mention type: PROPER
+Mention text: first lady
+Mention type: COMMON
+Mention text: Michelle Obama
+Mention type: PROPER
+Mention text: first lady
+Mention type: COMMON
+Mention text: Michelle LaVaughn Robinson
+Mention type: PROPER
+Mention text: https://www.biography.com/us-first-lady/michelle-obama
+Mention type: PROPER
+
+
+Representative name for the entity: Barack Obama
+Entity type: PERSON
+Salience score: 0.014311688020825386
+mid: /m/02mjmr
+wikipedia_url: https://en.wikipedia.org/wiki/Barack_Obama
+Mention text: president
+Mention type: COMMON
+Mention text: Barack Obama
+Mention type: PROPER
+Mention text: Barack
+Mention type: PROPER
+Mention text: Barack
+Mention type: PROPER
+Mention text: Barack
+Mention type: PROPER
+Mention text: Barack
+Mention type: PROPER
+Mention text: Barack
+Mention type: PROPER
+Mention text: Barack
+Mention type: PROPER
+Mention text: Barack
+Mention type: PROPER
+Mention text: Barack
+Mention type: PROPER
+Mention text: Barack
+Mention type: PROPER
+Mention text: Barack
+Mention type: PROPER
+Mention text: Barack
+Mention type: PROPER
+Mention text: Barack
+Mention type: PROPER
+Mention text: Barack
+Mention type: PROPER
+Mention text: Barack
+Mention type: PROPER
+Mention text: Barack
+Mention type: PROPER
+Mention text: Barack
+Mention type: PROPER
+Mention text: Barack
+Mention type: PROPER
+Mention text: Barack Obama
+Mention type: PROPER
+Mention text: Barack Obama
+Mention type: PROPER
+Mention text: President
+Mention type: COMMON
+Mention text: Barack Obama
+Mention type: PROPER
+Mention text: President
+Mention type: COMMON
+Mention text: Barack Obama
+Mention type: PROPER
+Mention text: Barack Obama
+Mention type: PROPER
+Mention text: Obamas
+Mention type: PROPER
+
+
+Representative name for the entity: United States
+Entity type: LOCATION
+Salience score: 0.007891347631812096
+mid: /m/09c7w0
+wikipedia_url: https://en.wikipedia.org/wiki/United_States
+Mention text: United States
+Mention type: PROPER
+Mention text: U.S.
+Mention type: PROPER
+Mention text: United States
+Mention type: PROPER
+Mention text: U.S.
+Mention type: PROPER
+Mention text: U.S.
+Mention type: PROPER
+Mention text: United States
+Mention type: PROPER
+Mention text: U.S.
+Mention type: PROPER
+Mention text: U.S.
+Mention type: PROPER
+Mention text: U.S.
+Mention type: PROPER
+Mention text: U.S.
+Mention type: PROPER
+Mention text: U.S.
+Mention type: PROPER
+Mention text: American
+Mention type: PROPER
+Mention text: American
+Mention type: PROPER
+Mention text: American
+Mention type: PROPER
+Mention text: American
+Mention type: PROPER
+Mention text: America
+Mention type: PROPER
+Mention text: United States
+Mention type: PROPER
+Mention text: United States
+Mention type: PROPER
+Mention text: Americans
+Mention type: PROPER
+
+
+Representative name for the entity: daughters
+Entity type: PERSON
+Salience score: 0.006761830300092697
+Mention text: daughters
+Mention type: COMMON
+Mention text: women
+Mention type: COMMON
+
+
+Representative name for the entity: Whitney M. Young Magnet High School
+Entity type: LOCATION
+Salience score: 0.005831549875438213
+wikipedia_url: https://en.wikipedia.org/wiki/Whitney_M._Young_Magnet_High_School
+mid: /m/09rs7mx
+Mention text: Whitney M. Young Magnet High School
+Mention type: PROPER
+
+
+Representative name for the entity: Marian
+Entity type: PERSON
+Salience score: 0.0056713349185884
+wikipedia_url: https://en.wikipedia.org/wiki/Marian_Shields_Robinson
+mid: /m/05f55jg
+Mention text: mother
+Mention type: COMMON
+Mention text: Marian
+Mention type: PROPER
+Mention text: secretary
+Mention type: COMMON
+Mention text: Marian
+Mention type: PROPER
+Mention text: grandmother
+Mention type: COMMON
+
+
+Representative name for the entity: Chicago
+Entity type: LOCATION
+Salience score: 0.0030475533567368984
+mid: /m/01_d4
+wikipedia_url: https://en.wikipedia.org/wiki/Chicago
+Mention text: Chicago
+Mention type: PROPER
+Mention text: Chicago
+Mention type: PROPER
+Mention text: Chicago
+Mention type: PROPER
+Mention text: Chicago
+Mention type: PROPER
+Mention text: Chicago
+Mention type: PROPER
+Mention text: Chicago
+Mention type: PROPER
+Mention text: Chicago
+Mention type: PROPER
+Mention text: Chicago
+Mention type: PROPER
+Mention text: Chicago
+Mention type: PROPER
+Mention text: Chicago
+Mention type: PROPER
+Mention text: City of Chicago
+Mention type: PROPER
+
+
+Representative name for the entity: Harvard Law School
+Entity type: ORGANIZATION
+Salience score: 0.002788853831589222
+wikipedia_url: https://en.wikipedia.org/wiki/Harvard_Law_School
+mid: /m/014zws
+Mention text: Harvard Law School
+Mention type: PROPER
+
+
+Representative name for the entity: first lady
+Entity type: PERSON
+Salience score: 0.0021488359197974205
+Mention text: first lady
+Mention type: COMMON
+Mention text: first lady
+Mention type: COMMON
+Mention text: first lady
+Mention type: COMMON
+Mention text: first lady
+Mention type: COMMON
+
+
+Representative name for the entity: Donald Trump
+Entity type: PERSON
+Salience score: 0.0018378974637016654
+mid: /m/0cqt90
+wikipedia_url: https://en.wikipedia.org/wiki/Donald_Trump
+Mention text: Donald Trump
+Mention type: PROPER
+Mention text: candidate
+Mention type: COMMON
+Mention text: Trump
+Mention type: PROPER
+Mention text: President
+Mention type: COMMON
+Mention text: devotee
+Mention type: COMMON
+
+
+Representative name for the entity: program
+Entity type: OTHER
+Salience score: 0.0018251714063808322
+Mention text: program
+Mention type: COMMON
+
+
+Representative name for the entity: daughters
+Entity type: PERSON
+Salience score: 0.0017495079664513469
+Mention text: daughters
+Mention type: COMMON
+
+
+Representative name for the entity: experiences
+Entity type: OTHER
+Salience score: 0.0017259177984669805
+Mention text: experiences
+Mention type: COMMON
+
+
+Representative name for the entity: President
+Entity type: PERSON
+Salience score: 0.0015158872120082378
+Mention text: President
+Mention type: COMMON
+Mention text: president
+Mention type: COMMON
+
+
+Representative name for the entity: first lady
+Entity type: PERSON
+Salience score: 0.0015120400348678231
+Mention text: first lady
+Mention type: COMMON
+Mention text: first lady
+Mention type: COMMON
+
+
+Representative name for the entity: husband
+Entity type: PERSON
+Salience score: 0.0014839426148682833
+Mention text: husband
+Mention type: COMMON
+
+
+Representative name for the entity: Fraser Robinson
+Entity type: PERSON
+Salience score: 0.0014720235485583544
+mid: /m/03ls6sh
+Mention text: father
+Mention type: COMMON
+Mention text: Fraser Robinson
+Mention type: PROPER
+Mention text: Robinson
+Mention type: PROPER
+
+
+Representative name for the entity: Malia Obama
+Entity type: PERSON
+Salience score: 0.0013335540425032377
+mid: /m/0gh6dh1
+wikipedia_url: https://fr.wikipedia.org/wiki/Malia_Obama
+Mention text: Malia
+Mention type: PROPER
+Mention text: Malia
+Mention type: PROPER
+Mention text: Malia Obama
+Mention type: PROPER
+Mention text: daughter
+Mention type: COMMON
+
+
+Representative name for the entity: husband
+Entity type: PERSON
+Salience score: 0.0013319944264367223
+Mention text: husband
+Mention type: COMMON
+Mention text: husband
+Mention type: COMMON
+
+
+Representative name for the entity: Clinton
+Entity type: PERSON
+Salience score: 0.00119582109618932
+Mention text: Clinton
+Mention type: PROPER
+Mention text: Clinton
+Mention type: PROPER
+
+
+Representative name for the entity: leadership-training program
+Entity type: OTHER
+Salience score: 0.001162395696155727
+Mention text: leadership-training program
+Mention type: COMMON
+
+
+Representative name for the entity: writer
+Entity type: PERSON
+Salience score: 0.0011385786347091198
+Mention text: writer
+Mention type: COMMON
+
+
+Representative name for the entity: attention
+Entity type: OTHER
+Salience score: 0.0011288967216387391
+Mention text: attention
+Mention type: COMMON
+Mention text: attention
+Mention type: COMMON
+
+
+Representative name for the entity: first lady
+Entity type: PERSON
+Salience score: 0.0011168684577569366
+Mention text: first lady
+Mention type: COMMON
+
+
+Representative name for the entity: family
+Entity type: PERSON
+Salience score: 0.0009992356644943357
+Mention text: family
+Mention type: COMMON
+
+
+Representative name for the entity: grade
+Entity type: OTHER
+Salience score: 0.0009638359188102186
+Mention text: grade
+Mention type: COMMON
+
+
+Representative name for the entity: people
+Entity type: PERSON
+Salience score: 0.0009550771792419255
+Mention text: people
+Mention type: COMMON
+
+
+Representative name for the entity: family
+Entity type: PERSON
+Salience score: 0.0009489034418947995
+Mention text: family
+Mention type: COMMON
+
+
+Representative name for the entity: women
+Entity type: PERSON
+Salience score: 0.0009424089221283793
+Mention text: women
+Mention type: COMMON
+
+
+Representative name for the entity: school
+Entity type: ORGANIZATION
+Salience score: 0.0009201198117807508
+Mention text: school
+Mention type: COMMON
+
+
+Representative name for the entity: magnet high school
+Entity type: ORGANIZATION
+Salience score: 0.0009193390724249184
+Mention text: magnet high school
+Mention type: COMMON
+
+
+Representative name for the entity: school
+Entity type: ORGANIZATION
+Salience score: 0.0009186092647723854
+Mention text: school
+Mention type: COMMON
+
+
+Representative name for the entity: part
+Entity type: OTHER
+Salience score: 0.0009141264017671347
+Mention text: part
+Mention type: COMMON
+
+
+Representative name for the entity: White House
+Entity type: LOCATION
+Salience score: 0.0008998803095892072
+wikipedia_url: https://en.wikipedia.org/wiki/White_House
+mid: /m/081sq
+Mention text: White House
+Mention type: PROPER
+Mention text: White House
+Mention type: PROPER
+Mention text: White House
+Mention type: PROPER
+Mention text: White House
+Mention type: PROPER
+Mention text: White House
+Mention type: PROPER
+Mention text: White House
+Mention type: PROPER
+Mention text: White House
+Mention type: PROPER
+
+
+Representative name for the entity: Princeton University
+Entity type: ORGANIZATION
+Salience score: 0.0008820848306640983
+wikipedia_url: https://en.wikipedia.org/wiki/Princeton_University
+mid: /m/05zl0
+Mention text: Princeton University
+Mention type: PROPER
+
+
+Representative name for the entity: people
+Entity type: PERSON
+Salience score: 0.0008794557652436197
+Mention text: people
+Mention type: COMMON
+
+
+Representative name for the entity: childhood
+Entity type: OTHER
+Salience score: 0.0008763095829635859
+Mention text: childhood
+Mention type: COMMON
+
+
+Representative name for the entity: president
+Entity type: PERSON
+Salience score: 0.0008732350543141365
+Mention text: woman
+Mention type: COMMON
+Mention text: president
+Mention type: COMMON
+
+
+Representative name for the entity: husband
+Entity type: PERSON
+Salience score: 0.0008724043145775795
+Mention text: husband
+Mention type: COMMON
+Mention text: man
+Mention type: COMMON
+
+
+Representative name for the entity: children
+Entity type: PERSON
+Salience score: 0.0008621721644885838
+Mention text: children
+Mention type: COMMON
+
+
+Representative name for the entity: classes
+Entity type: OTHER
+Salience score: 0.0008287442033179104
+Mention text: classes
+Mention type: COMMON
+
+
+Representative name for the entity: memoir
+Entity type: WORK_OF_ART
+Salience score: 0.0008031519246287644
+Mention text: memoir
+Mention type: COMMON
+
+
+Representative name for the entity: education
+Entity type: OTHER
+Salience score: 0.0007724210154265165
+Mention text: education
+Mention type: COMMON
+
+
+Representative name for the entity: Craig
+Entity type: PERSON
+Salience score: 0.0007646429003216326
+Mention text: brother
+Mention type: COMMON
+Mention text: Craig
+Mention type: PROPER
+Mention text: Craig
+Mention type: PROPER
+Mention text: Craig
+Mention type: PROPER
+
+
+Representative name for the entity: education
+Entity type: OTHER
+Salience score: 0.0007593547343276441
+Mention text: education
+Mention type: COMMON
+
+
+Representative name for the entity: Hillary Clinton
+Entity type: PERSON
+Salience score: 0.0007439936161972582
+wikipedia_url: https://en.wikipedia.org/wiki/Hillary_Clinton
+mid: /m/0d06m5
+Mention text: Hillary Clinton
+Mention type: PROPER
+Mention text: first lady
+Mention type: COMMON
+Mention text: Hillary Clinton
+Mention type: PROPER
+Mention text: Hillary Clinton
+Mention type: PROPER
+
+
+Representative name for the entity: courses
+Entity type: OTHER
+Salience score: 0.0007345707272179425
+Mention text: courses
+Mention type: COMMON
+
+
+Representative name for the entity: law
+Entity type: OTHER
+Salience score: 0.0007127554272301495
+Mention text: law
+Mention type: COMMON
+
+
+Representative name for the entity: demonstrations
+Entity type: EVENT
+Salience score: 0.0007127554272301495
+Mention text: demonstrations
+Mention type: COMMON
+
+
+Representative name for the entity: people
+Entity type: PERSON
+Salience score: 0.0007083386881276965
+Mention text: people
+Mention type: COMMON
+Mention text: people
+Mention type: COMMON
+
+
+Representative name for the entity: issues
+Entity type: OTHER
+Salience score: 0.0006784321740269661
+Mention text: issues
+Mention type: COMMON
+
+
+Representative name for the entity: age
+Entity type: OTHER
+Salience score: 0.0006702912505716085
+Mention text: age
+Mention type: COMMON
+
+
+Representative name for the entity: brother
+Entity type: PERSON
+Salience score: 0.000666954496409744
+Mention text: brother
+Mention type: COMMON
+
+
+Representative name for the entity: age
+Entity type: OTHER
+Salience score: 0.000666954496409744
+Mention text: age
+Mention type: COMMON
+
+
+Representative name for the entity: grade
+Entity type: OTHER
+Salience score: 0.0006656902842223644
+Mention text: grade
+Mention type: COMMON
+
+
+Representative name for the entity: city
+Entity type: LOCATION
+Salience score: 0.0006651252042502165
+Mention text: city
+Mention type: COMMON
+
+
+Representative name for the entity: brother
+Entity type: PERSON
+Salience score: 0.0006641013314947486
+Mention text: brother
+Mention type: COMMON
+
+
+Representative name for the entity: students
+Entity type: PERSON
+Salience score: 0.0006636342732235789
+Mention text: students
+Mention type: COMMON
+
+
+Representative name for the entity: quarters
+Entity type: OTHER
+Salience score: 0.0006206987891346216
+Mention text: quarters
+Mention type: COMMON
+
+
+Representative name for the entity: meals
+Entity type: OTHER
+Salience score: 0.0006199710187502205
+Mention text: meals
+Mention type: COMMON
+
+
+Representative name for the entity: living
+Entity type: OTHER
+Salience score: 0.0006187617545947433
+Mention text: living
+Mention type: COMMON
+
+
+Representative name for the entity: living room
+Entity type: LOCATION
+Salience score: 0.0006096594734117389
+Mention text: living room
+Mention type: COMMON
+
+
+Representative name for the entity: home
+Entity type: LOCATION
+Salience score: 0.0006082928157411516
+Mention text: home
+Mention type: COMMON
+
+
+Representative name for the entity: activities
+Entity type: OTHER
+Salience score: 0.0006066243513487279
+Mention text: activities
+Mention type: COMMON
+
+
+Representative name for the entity: footsteps
+Entity type: OTHER
+Salience score: 0.0006056904676370323
+Mention text: footsteps
+Mention type: COMMON
+
+
+Representative name for the entity: professors
+Entity type: PERSON
+Salience score: 0.0006052644457668066
+Mention text: professors
+Mention type: COMMON
+
+
+Representative name for the entity: lives
+Entity type: OTHER
+Salience score: 0.0005988728953525424
+Mention text: lives
+Mention type: COMMON
+Mention text: lives
+Mention type: COMMON
+
+
+Representative name for the entity: house
+Entity type: LOCATION
+Salience score: 0.000589907169342041
+Mention text: house
+Mention type: COMMON
+
+
+Representative name for the entity: city-pump operator
+Entity type: ORGANIZATION
+Salience score: 0.0005873307236470282
+Mention text: city-pump operator
+Mention type: COMMON
+
+
+Representative name for the entity: Sidley Austin
+Entity type: ORGANIZATION
+Salience score: 0.000552038662135601
+mid: /m/09mfkl
+wikipedia_url: https://en.wikipedia.org/wiki/Sidley_Austin
+Mention text: firm
+Mention type: COMMON
+Mention text: Sidley Austin
+Mention type: PROPER
+Mention text: Sidley Austin
+Mention type: PROPER
+
+
+Representative name for the entity: Gerald Ford
+Entity type: PERSON
+Salience score: 0.0005511873168870807
+mid: /m/0c_md_
+wikipedia_url: https://en.wikipedia.org/wiki/Gerald_Ford
+Mention text: Vice President husband
+Mention type: COMMON
+Mention text: Gerald Ford
+Mention type: PROPER
+Mention text: President
+Mention type: COMMON
+
+
+Representative name for the entity: poverty
+Entity type: OTHER
+Salience score: 0.0005434580380097032
+Mention text: poverty
+Mention type: COMMON
+
+
+Representative name for the entity: precinct captain
+Entity type: PERSON
+Salience score: 0.0005388405988924205
+Mention text: precinct captain
+Mention type: COMMON
+
+
+Representative name for the entity: home
+Entity type: LOCATION
+Salience score: 0.0005378190544433892
+Mention text: home
+Mention type: COMMON
+
+
+Representative name for the entity: series
+Entity type: WORK_OF_ART
+Salience score: 0.0005369421560317278
+Mention text: series
+Mention type: COMMON
+
+
+Representative name for the entity: twins
+Entity type: PERSON
+Salience score: 0.0005369357531890273
+Mention text: twins
+Mention type: COMMON
+
+
+Representative name for the entity: bungalow
+Entity type: LOCATION
+Salience score: 0.0005361577495932579
+Mention text: bungalow
+Mention type: COMMON
+
+
+Representative name for the entity: sheet
+Entity type: OTHER
+Salience score: 0.000535462808329612
+Mention text: sheet
+Mention type: COMMON
+
+
+Representative name for the entity: room divider
+Entity type: OTHER
+Salience score: 0.000535462808329612
+Mention text: room divider
+Mention type: COMMON
+
+
+Representative name for the entity: emphasis
+Entity type: OTHER
+Salience score: 0.0005342623917385936
+Mention text: emphasis
+Mention type: COMMON
+
+
+Representative name for the entity: Both
+Entity type: PERSON
+Salience score: 0.0005337361944839358
+Mention text: Both
+Mention type: COMMON
+
+
+Representative name for the entity: biology
+Entity type: OTHER
+Salience score: 0.0005332495202310383
+Mention text: biology
+Mention type: COMMON
+
+
+Representative name for the entity: student government treasurer
+Entity type: PERSON
+Salience score: 0.0005327967810444534
+Mention text: student government treasurer
+Mention type: COMMON
+
+
+Representative name for the entity: class salutatorian
+Entity type: PERSON
+Salience score: 0.0005323736695572734
+Mention text: class salutatorian
+Mention type: COMMON
+
+
+Representative name for the entity: cum laude
+Entity type: OTHER
+Salience score: 0.0005319765186868608
+Mention text: cum laude
+Mention type: COMMON
+
+
+Representative name for the entity: hiring
+Entity type: OTHER
+Salience score: 0.0005316023016348481
+Mention text: hiring
+Mention type: COMMON
+
+
+Representative name for the entity: enrollment
+Entity type: OTHER
+Salience score: 0.0005316023016348481
+Mention text: enrollment
+Mention type: COMMON
+
+
+Representative name for the entity: people
+Entity type: PERSON
+Salience score: 0.0005212891846895218
+Mention text: people
+Mention type: COMMON
+
+
+Representative name for the entity: family
+Entity type: PERSON
+Salience score: 0.0005211876705288887
+Mention text: family
+Mention type: COMMON
+Mention text: family
+Mention type: COMMON
+
+
+Representative name for the entity: President
+Entity type: PERSON
+Salience score: 0.0004807075019925833
+Mention text: President
+Mention type: COMMON
+Mention text: President
+Mention type: COMMON
+
+
+Representative name for the entity: Illinois
+Entity type: LOCATION
+Salience score: 0.00047572649782523513
+wikipedia_url: https://en.wikipedia.org/wiki/Illinois
+mid: /m/03v0t
+Mention text: Illinois
+Mention type: PROPER
+Mention text: Illinois
+Mention type: PROPER
+
+
+Representative name for the entity: fitness program
+Entity type: OTHER
+Salience score: 0.0004712029767688364
+Mention text: fitness program
+Mention type: COMMON
+
+
+Representative name for the entity: Democratic
+Entity type: ORGANIZATION
+Salience score: 0.00046523165656253695
+mid: /m/0d075m
+wikipedia_url: https://en.wikipedia.org/wiki/Democratic_Party_(United_States)
+Mention text: Democratic
+Mention type: PROPER
+Mention text: Democratic
+Mention type: PROPER
+Mention text: Democratic
+Mention type: PROPER
+
+
+Representative name for the entity: people
+Entity type: PERSON
+Salience score: 0.0004616313090082258
+Mention text: people
+Mention type: COMMON
+
+
+Representative name for the entity: Richard Daley
+Entity type: PERSON
+Salience score: 0.00044952789903618395
+wikipedia_url: https://en.wikipedia.org/wiki/Richard_M._Daley
+mid: /m/0b0s3
+Mention text: Richard Daley
+Mention type: PROPER
+Mention text: Mayor
+Mention type: COMMON
+
+
+Representative name for the entity: president
+Entity type: PERSON
+Salience score: 0.00043632887536659837
+Mention text: president
+Mention type: COMMON
+
+
+Representative name for the entity: vice president
+Entity type: PERSON
+Salience score: 0.00043632887536659837
+Mention text: vice president
+Mention type: COMMON
+
+
+Representative name for the entity: girl
+Entity type: PERSON
+Salience score: 0.00042272821883670986
+Mention text: girl
+Mention type: COMMON
+
+
+Representative name for the entity: work
+Entity type: OTHER
+Salience score: 0.00041140703251585364
+Mention text: work
+Mention type: COMMON
+
+
+Representative name for the entity: daughters
+Entity type: PERSON
+Salience score: 0.00040905168862082064
+Mention text: daughters
+Mention type: COMMON
+
+
+Representative name for the entity: Rahm Emanuel
+Entity type: PERSON
+Salience score: 0.00040590373100712895
+wikipedia_url: https://en.wikipedia.org/wiki/Rahm_Emanuel
+mid: /m/0256f7
+Mention text: Rahm Emanuel
+Mention type: PROPER
+Mention text: Politician
+Mention type: COMMON
+Mention text: Chief of Staff
+Mention type: COMMON
+
+
+Representative name for the entity: J.D.
+Entity type: PERSON
+Salience score: 0.0003917750727850944
+Mention text: J.D.
+Mention type: PROPER
+
+
+Representative name for the entity: adults
+Entity type: PERSON
+Salience score: 0.0003838917473331094
+Mention text: adults
+Mention type: COMMON
+
+
+Representative name for the entity: husband
+Entity type: PERSON
+Salience score: 0.0003795983793679625
+Mention text: husband
+Mention type: COMMON
+
+
+Representative name for the entity: South Side
+Entity type: LOCATION
+Salience score: 0.0003713986079674214
+mid: /m/02w_y5r
+wikipedia_url: https://en.wikipedia.org/wiki/South_Side,_Chicago
+Mention text: South Side
+Mention type: PROPER
+Mention text: South Side
+Mention type: PROPER
+
+
+Representative name for the entity: Mitt Romney
+Entity type: PERSON
+Salience score: 0.00036945671308785677
+wikipedia_url: https://en.wikipedia.org/wiki/Mitt_Romney
+mid: /m/0271_s
+Mention text: Mitt Romney
+Mention type: PROPER
+Mention text: nominee
+Mention type: COMMON
+Mention text: Mitt Romney
+Mention type: PROPER
+
+
+Representative name for the entity: Netflix
+Entity type: ORGANIZATION
+Salience score: 0.0003602170618250966
+mid: /m/017rf_
+wikipedia_url: https://en.wikipedia.org/wiki/Netflix
+Mention text: Netflix
+Mention type: PROPER
+Mention text: Netflix
+Mention type: PROPER
+Mention text: Netflix
+Mention type: PROPER
+
+
+Representative name for the entity: family
+Entity type: PERSON
+Salience score: 0.0003537664015311748
+Mention text: family
+Mention type: COMMON
+
+
+Representative name for the entity: law school
+Entity type: ORGANIZATION
+Salience score: 0.0003453096142038703
+Mention text: law school
+Mention type: COMMON
+
+
+Representative name for the entity: school
+Entity type: ORGANIZATION
+Salience score: 0.0003448456118348986
+Mention text: school
+Mention type: COMMON
+
+
+Representative name for the entity: husband
+Entity type: PERSON
+Salience score: 0.0003342078416608274
+Mention text: husband
+Mention type: COMMON
+
+
+Representative name for the entity: Spiegel
+Entity type: ORGANIZATION
+Salience score: 0.0003177774487994611
+mid: /m/0bw1nt
+wikipedia_url: https://en.wikipedia.org/wiki/Spiegel_(catalog)
+Mention text: Spiegel
+Mention type: PROPER
+
+
+Representative name for the entity: French
+Entity type: LOCATION
+Salience score: 0.0003150767588522285
+Mention text: French
+Mention type: PROPER
+
+
+Representative name for the entity: B.A.
+Entity type: LOCATION
+Salience score: 0.0003143243957310915
+Mention text: B.A.
+Mention type: PROPER
+
+
+Representative name for the entity: Sociology
+Entity type: OTHER
+Salience score: 0.0003143243957310915
+mid: /m/06ms6
+wikipedia_url: https://en.wikipedia.org/wiki/Sociology
+Mention text: Sociology
+Mention type: PROPER
+
+
+Representative name for the entity: Trinity United Church of Christ
+Entity type: LOCATION
+Salience score: 0.00031369601492770016
+mid: /m/03nr66x
+wikipedia_url: https://en.wikipedia.org/wiki/Trinity_United_Church_of_Christ
+Mention text: Trinity United Church of Christ
+Mention type: PROPER
+
+
+Representative name for the entity: assistant commissioner
+Entity type: PERSON
+Salience score: 0.0003116951556876302
+Mention text: assistant commissioner
+Mention type: COMMON
+
+
+Representative name for the entity: community
+Entity type: OTHER
+Salience score: 0.00031116537866182625
+Mention text: community
+Mention type: COMMON
+
+
+Representative name for the entity: work
+Entity type: OTHER
+Salience score: 0.0003107007360085845
+Mention text: work
+Mention type: COMMON
+
+
+Representative name for the entity: daughters
+Entity type: PERSON
+Salience score: 0.0003057205758523196
+Mention text: daughters
+Mention type: COMMON
+
+
+Representative name for the entity: Elizabeth Alexander
+Entity type: PERSON
+Salience score: 0.0003034805413335562
+wikipedia_url: https://en.wikipedia.org/wiki/Elizabeth_Alexander_(poet)
+mid: /m/03qhntg
+Mention text: Elizabeth Alexander
+Mention type: PROPER
+Mention text: poet
+Mention type: COMMON
+
+
+Representative name for the entity: Harvey Weinstein
+Entity type: PERSON
+Salience score: 0.00030310943839140236
+mid: /m/05hj_k
+wikipedia_url: https://en.wikipedia.org/wiki/Harvey_Weinstein
+Mention text: Harvey Weinstein
+Mention type: PROPER
+Mention text: producer
+Mention type: COMMON
+
+
+Representative name for the entity: nomination
+Entity type: OTHER
+Salience score: 0.00029769804677926004
+Mention text: nomination
+Mention type: COMMON
+
+
+Representative name for the entity: nomination
+Entity type: OTHER
+Salience score: 0.0002974944072775543
+Mention text: nomination
+Mention type: COMMON
+
+
+Representative name for the entity: president
+Entity type: PERSON
+Salience score: 0.0002932265924755484
+Mention text: president
+Mention type: COMMON
+
+
+Representative name for the entity: presidency
+Entity type: OTHER
+Salience score: 0.0002925109292846173
+Mention text: presidency
+Mention type: COMMON
+
+
+Representative name for the entity: career
+Entity type: OTHER
+Salience score: 0.0002842694811988622
+Mention text: career
+Mention type: COMMON
+
+
+Representative name for the entity: public service
+Entity type: OTHER
+Salience score: 0.0002842694811988622
+Mention text: public service
+Mention type: COMMON
+
+
+Representative name for the entity: careers
+Entity type: OTHER
+Salience score: 0.0002841422101482749
+Mention text: careers
+Mention type: COMMON
+
+
+Representative name for the entity: student services
+Entity type: OTHER
+Salience score: 0.0002840194501914084
+Mention text: student services
+Mention type: COMMON
+
+
+Representative name for the entity: speech
+Entity type: EVENT
+Salience score: 0.00028356790426187217
+Mention text: speech
+Mention type: COMMON
+
+
+Representative name for the entity: country
+Entity type: LOCATION
+Salience score: 0.0002828008437063545
+Mention text: country
+Mention type: COMMON
+
+
+Representative name for the entity: National Portrait Gallery
+Entity type: ORGANIZATION
+Salience score: 0.0002823222312144935
+wikipedia_url: https://en.wikipedia.org/wiki/National_Portrait_Gallery_(United_States)
+mid: /m/02mv9q
+Mention text: National Portrait Gallery
+Mention type: PROPER
+
+
+Representative name for the entity: American Factory
+Entity type: WORK_OF_ART
+Salience score: 0.00027927273185923696
+mid: /g/11h03ggrdf
+wikipedia_url: https://en.wikipedia.org/wiki/American_Factory
+Mention text: American Factory
+Mention type: PROPER
+Mention text: documentary
+Mention type: COMMON
+Mention text: American Factory
+Mention type: PROPER
+
+
+Representative name for the entity: first lady
+Entity type: PERSON
+Salience score: 0.00027823715936392546
+Mention text: first lady
+Mention type: COMMON
+
+
+Representative name for the entity: reelection
+Entity type: EVENT
+Salience score: 0.0002775875909719616
+Mention text: reelection
+Mention type: COMMON
+
+
+Representative name for the entity: fashion choices
+Entity type: OTHER
+Salience score: 0.00027474405942484736
+Mention text: fashion choices
+Mention type: COMMON
+
+
+Representative name for the entity: Democratic National Convention
+Entity type: EVENT
+Salience score: 0.0002709591353777796
+wikipedia_url: https://en.wikipedia.org/wiki/Democratic_National_Convention
+mid: /m/02d2xb
+Mention text: Democratic National Convention
+Mention type: PROPER
+Mention text: Democratic National Convention
+Mention type: PROPER
+Mention text: Democratic National Convention
+Mention type: PROPER
+
+
+Representative name for the entity: community
+Entity type: OTHER
+Salience score: 0.0002702882920857519
+Mention text: community
+Mention type: COMMON
+
+
+Representative name for the entity: families
+Entity type: PERSON
+Salience score: 0.00027015694649890065
+Mention text: families
+Mention type: COMMON
+
+
+Representative name for the entity: presidency
+Entity type: OTHER
+Salience score: 0.00026990886544808745
+Mention text: presidency
+Mention type: COMMON
+
+
+Representative name for the entity: community-service program
+Entity type: OTHER
+Salience score: 0.000267915049334988
+Mention text: community-service program
+Mention type: COMMON
+
+
+Representative name for the entity: adjustment
+Entity type: OTHER
+Salience score: 0.00026250359951518476
+Mention text: move
+Mention type: COMMON
+Mention text: adjustment
+Mention type: COMMON
+
+
+Representative name for the entity: games
+Entity type: CONSUMER_GOOD
+Salience score: 0.00026186718605458736
+Mention text: games
+Mention type: COMMON
+
+
+Representative name for the entity: child
+Entity type: PERSON
+Salience score: 0.00025537266628816724
+Mention text: child
+Mention type: COMMON
+
+
+Representative name for the entity: sport
+Entity type: OTHER
+Salience score: 0.0002545533934608102
+Mention text: sport
+Mention type: COMMON
+
+
+Representative name for the entity: first lady
+Entity type: PERSON
+Salience score: 0.00025393033865839243
+Mention text: first lady
+Mention type: COMMON
+
+
+Representative name for the entity: first lady
+Entity type: PERSON
+Salience score: 0.0002537147083785385
+Mention text: first lady
+Mention type: COMMON
+
+
+Representative name for the entity: history
+Entity type: OTHER
+Salience score: 0.00025045289658010006
+Mention text: history
+Mention type: COMMON
+Mention text: history
+Mention type: COMMON
+
+
+Representative name for the entity: office
+Entity type: LOCATION
+Salience score: 0.0002495496883057058
+Mention text: office
+Mention type: COMMON
+
+
+Representative name for the entity: affairs
+Entity type: OTHER
+Salience score: 0.00024933775421231985
+Mention text: affairs
+Mention type: COMMON
+
+
+Representative name for the entity: affairs
+Entity type: OTHER
+Salience score: 0.00024923708406277
+Mention text: affairs
+Mention type: COMMON
+
+
+Representative name for the entity: side
+Entity type: OTHER
+Salience score: 0.0002490452607162297
+Mention text: side
+Mention type: COMMON
+
+
+Representative name for the entity: summer intern
+Entity type: OTHER
+Salience score: 0.0002488176105543971
+Mention text: summer intern
+Mention type: COMMON
+
+
+Representative name for the entity: readers
+Entity type: PERSON
+Salience score: 0.00024143847986124456
+Mention text: readers
+Mention type: COMMON
+
+
+Representative name for the entity: families
+Entity type: PERSON
+Salience score: 0.00023762813361827284
+Mention text: families
+Mention type: COMMON
+
+
+Representative name for the entity: daughters
+Entity type: PERSON
+Salience score: 0.0002336775214644149
+Mention text: daughters
+Mention type: COMMON
+
+
+Representative name for the entity: daughters
+Entity type: PERSON
+Salience score: 0.0002336775214644149
+Mention text: daughters
+Mention type: COMMON
+
+
+Representative name for the entity: daughters
+Entity type: PERSON
+Salience score: 0.0002314796729478985
+Mention text: daughters
+Mention type: COMMON
+
+
+Representative name for the entity: couple
+Entity type: PERSON
+Salience score: 0.00022931249986868352
+Mention text: couple
+Mention type: COMMON
+
+
+Representative name for the entity: lawyer
+Entity type: PERSON
+Salience score: 0.00022839831945020705
+Mention text: lawyer
+Mention type: COMMON
+
+
+Representative name for the entity: work relationship
+Entity type: OTHER
+Salience score: 0.00022814258409198374
+Mention text: work relationship
+Mention type: COMMON
+
+
+Representative name for the entity: love
+Entity type: OTHER
+Salience score: 0.00022802305466029793
+Mention text: love
+Mention type: COMMON
+
+
+Representative name for the entity: firm
+Entity type: ORGANIZATION
+Salience score: 0.0002277984021930024
+Mention text: firm
+Mention type: COMMON
+
+
+Representative name for the entity: area
+Entity type: LOCATION
+Salience score: 0.0002277984021930024
+Mention text: area
+Mention type: COMMON
+
+
+Representative name for the entity: assistant
+Entity type: PERSON
+Salience score: 0.00022769255156163126
+Mention text: assistant
+Mention type: COMMON
+
+
+Representative name for the entity: executive director
+Entity type: PERSON
+Salience score: 0.00022759060084354132
+Mention text: executive director
+Mention type: COMMON
+
+
+Representative name for the entity: executive director
+Entity type: PERSON
+Salience score: 0.00022739730775356293
+Mention text: executive director
+Mention type: COMMON
+
+
+Representative name for the entity: community relations
+Entity type: OTHER
+Salience score: 0.00022739730775356293
+Mention text: community  relations
+Mention type: COMMON
+
+
+Representative name for the entity: inauguration
+Entity type: EVENT
+Salience score: 0.0002273055142723024
+Mention text: inauguration
+Mention type: COMMON
+
+
+Representative name for the entity: campaign obligations
+Entity type: OTHER
+Salience score: 0.00022696604719385505
+Mention text: campaign obligations
+Mention type: COMMON
+
+
+Representative name for the entity: trail
+Entity type: LOCATION
+Salience score: 0.00022688732133246958
+Mention text: trail
+Mention type: COMMON
+
+
+Representative name for the entity: mother
+Entity type: PERSON
+Salience score: 0.00022688732133246958
+Mention text: mother
+Mention type: COMMON
+
+
+Representative name for the entity: stories
+Entity type: WORK_OF_ART
+Salience score: 0.00022180068481247872
+Mention text: stories
+Mention type: COMMON
+
+
+Representative name for the entity: families
+Entity type: PERSON
+Salience score: 0.00021918743732385337
+Mention text: families
+Mention type: COMMON
+
+
+Representative name for the entity: family
+Entity type: PERSON
+Salience score: 0.00021918743732385337
+Mention text: family
+Mention type: COMMON
+
+
+Representative name for the entity: family
+Entity type: PERSON
+Salience score: 0.00021909273345954716
+Mention text: family
+Mention type: COMMON
+
+
+Representative name for the entity: people
+Entity type: PERSON
+Salience score: 0.000216717817238532
+Mention text: people
+Mention type: COMMON
+
+
+Representative name for the entity: schools
+Entity type: ORGANIZATION
+Salience score: 0.00021310341253411025
+Mention text: schools
+Mention type: COMMON
+
+
+Representative name for the entity: school
+Entity type: ORGANIZATION
+Salience score: 0.00021304309484548867
+Mention text: school
+Mention type: COMMON
+
+
+Representative name for the entity: party
+Entity type: ORGANIZATION
+Salience score: 0.00020859208598267287
+Mention text: party
+Mention type: COMMON
+
+
+Representative name for the entity: Biography
+Entity type: WORK_OF_ART
+Salience score: 0.0002069840847980231
+mid: /m/017fp
+wikipedia_url: https://en.wikipedia.org/wiki/Biography
+Mention text: Biography
+Mention type: COMMON
+Mention text: Biography
+Mention type: PROPER
+
+
+Representative name for the entity: job
+Entity type: OTHER
+Salience score: 0.000200590628082864
+Mention text: job
+Mention type: COMMON
+
+
+Representative name for the entity: adviser
+Entity type: PERSON
+Salience score: 0.00020047574071213603
+Mention text: adviser
+Mention type: COMMON
+
+
+Representative name for the entity: romance
+Entity type: OTHER
+Salience score: 0.00020036601927131414
+Mention text: romance
+Mention type: COMMON
+
+
+Representative name for the entity: dating
+Entity type: OTHER
+Salience score: 0.0002001603861572221
+Mention text: dating
+Mention type: COMMON
+
+
+Representative name for the entity: marketing
+Entity type: OTHER
+Salience score: 0.00020006371778436005
+Mention text: marketing
+Mention type: COMMON
+
+
+Representative name for the entity: branch
+Entity type: LOCATION
+Salience score: 0.00020006371778436005
+Mention text: branch
+Mention type: COMMON
+
+
+Representative name for the entity: associate
+Entity type: PERSON
+Salience score: 0.00020006371778436005
+Mention text: associate
+Mention type: COMMON
+
+
+Representative name for the entity: intellectual property
+Entity type: OTHER
+Salience score: 0.00020006371778436005
+Mention text: intellectual property
+Mention type: COMMON
+
+
+Representative name for the entity: development
+Entity type: OTHER
+Salience score: 0.00019997076014988124
+Mention text: development
+Mention type: COMMON
+
+
+Representative name for the entity: planning
+Entity type: OTHER
+Salience score: 0.00019997076014988124
+Mention text: planning
+Mention type: COMMON
+
+
+Representative name for the entity: sector
+Entity type: OTHER
+Salience score: 0.0001998812222154811
+Mention text: sector
+Mention type: COMMON
+
+
+Representative name for the entity: skills
+Entity type: OTHER
+Salience score: 0.0001998812222154811
+Mention text: skills
+Mention type: COMMON
+
+
+Representative name for the entity: nominee
+Entity type: PERSON
+Salience score: 0.00019986156257800758
+Mention text: nominee
+Mention type: COMMON
+
+
+Representative name for the entity: nomination
+Entity type: OTHER
+Salience score: 0.00019986156257800758
+Mention text: nomination
+Mention type: COMMON
+
+
+Representative name for the entity: associate dean
+Entity type: PERSON
+Salience score: 0.00019979485659860075
+Mention text: associate dean
+Mention type: COMMON
+
+
+Representative name for the entity: board member
+Entity type: PERSON
+Salience score: 0.0001995528000406921
+Mention text: board member
+Mention type: COMMON
+
+
+Representative name for the entity: audience
+Entity type: PERSON
+Salience score: 0.0001994771882891655
+Mention text: audience
+Mention type: COMMON
+
+
+Representative name for the entity: eye
+Entity type: OTHER
+Salience score: 0.0001994771882891655
+Mention text: eye
+Mention type: COMMON
+
+
+Representative name for the entity: run
+Entity type: EVENT
+Salience score: 0.00019933268777094781
+Mention text: run
+Mention type: COMMON
+
+
+Representative name for the entity: honor
+Entity type: OTHER
+Salience score: 0.00019507622346282005
+Mention text: honor
+Mention type: COMMON
+
+
+Representative name for the entity: law
+Entity type: OTHER
+Salience score: 0.00019468209939077497
+Mention text: law
+Mention type: COMMON
+
+
+Representative name for the entity: hit
+Entity type: WORK_OF_ART
+Salience score: 0.0001939278154168278
+Mention text: hit
+Mention type: COMMON
+
+
+Representative name for the entity: volunteer work
+Entity type: OTHER
+Salience score: 0.00019244513532612473
+Mention text: volunteer work
+Mention type: COMMON
+
+
+Representative name for the entity: speech
+Entity type: EVENT
+Salience score: 0.00019236761727370322
+Mention text: speech
+Mention type: COMMON
+
+
+Representative name for the entity: part
+Entity type: OTHER
+Salience score: 0.00019231125770602375
+Mention text: part
+Mention type: COMMON
+
+
+Representative name for the entity: communities
+Entity type: LOCATION
+Salience score: 0.0001922597730299458
+Mention text: communities
+Mention type: COMMON
+
+
+Representative name for the entity: education
+Entity type: OTHER
+Salience score: 0.00019200891256332397
+Mention text: education
+Mention type: COMMON
+
+
+Representative name for the entity: education
+Entity type: OTHER
+Salience score: 0.00019197225628886372
+Mention text: education
+Mention type: COMMON
+
+
+Representative name for the entity: victory speech
+Entity type: OTHER
+Salience score: 0.00019064516527578235
+Mention text: victory speech
+Mention type: COMMON
+
+
+Representative name for the entity: speeches
+Entity type: WORK_OF_ART
+Salience score: 0.00019058992620557547
+Mention text: speeches
+Mention type: COMMON
+
+
+Representative name for the entity: career
+Entity type: OTHER
+Salience score: 0.00019058992620557547
+Mention text: career
+Mention type: COMMON
+
+
+Representative name for the entity: speech
+Entity type: EVENT
+Salience score: 0.0001904832461150363
+Mention text: speech
+Mention type: COMMON
+
+
+Representative name for the entity: nation
+Entity type: LOCATION
+Salience score: 0.0001904316886793822
+Mention text: nation
+Mention type: COMMON
+
+
+Representative name for the entity: clinic
+Entity type: LOCATION
+Salience score: 0.00018418842228129506
+Mention text: clinic
+Mention type: COMMON
+
+
+Representative name for the entity: conversation
+Entity type: EVENT
+Salience score: 0.0001810183748602867
+Mention text: conversation
+Mention type: COMMON
+
+
+Representative name for the entity: all
+Entity type: OTHER
+Salience score: 0.0001808272791095078
+Mention text: all
+Mention type: COMMON
+
+
+Representative name for the entity: courage
+Entity type: OTHER
+Salience score: 0.00018029657076112926
+Mention text: courage
+Mention type: COMMON
+
+
+Representative name for the entity: support
+Entity type: OTHER
+Salience score: 0.0001794483687262982
+Mention text: support
+Mention type: COMMON
+
+
+Representative name for the entity: support
+Entity type: OTHER
+Salience score: 0.00017940459656529129
+Mention text: support
+Mention type: COMMON
+
+
+Representative name for the entity: appearances
+Entity type: EVENT
+Salience score: 0.00017712466069497168
+Mention text: appearances
+Mention type: COMMON
+
+
+Representative name for the entity: BIOGRAPHY
+Entity type: WORK_OF_ART
+Salience score: 0.0001755866687744856
+Mention text: BIOGRAPHY
+Mention type: COMMON
+
+
+Representative name for the entity: women
+Entity type: PERSON
+Salience score: 0.0001755607663653791
+Mention text: women
+Mention type: COMMON
+
+
+Representative name for the entity: career
+Entity type: OTHER
+Salience score: 0.0001755607663653791
+Mention text: career
+Mention type: COMMON
+
+
+Representative name for the entity: education
+Entity type: OTHER
+Salience score: 0.00017550990742165595
+Mention text: education
+Mention type: COMMON
+
+
+Representative name for the entity: garden
+Entity type: LOCATION
+Salience score: 0.00017546021263115108
+Mention text: garden
+Mention type: COMMON
+
+
+Representative name for the entity: kitchens
+Entity type: LOCATION
+Salience score: 0.00017218361608684063
+Mention text: kitchens
+Mention type: COMMON
+
+
+Representative name for the entity: something
+Entity type: OTHER
+Salience score: 0.00017175880202557892
+Mention text: something
+Mention type: COMMON
+
+
+Representative name for the entity: Eleanor Roosevelt
+Entity type: PERSON
+Salience score: 0.0001696866238489747
+mid: /m/02n9k
+wikipedia_url: https://en.wikipedia.org/wiki/Eleanor_Roosevelt
+Mention text: wife
+Mention type: COMMON
+Mention text: Eleanor Roosevelt
+Mention type: PROPER
+
+
+Representative name for the entity: campaign
+Entity type: ORGANIZATION
+Salience score: 0.00016898397007025778
+Mention text: campaign
+Mention type: COMMON
+
+
+Representative name for the entity: Lead
+Entity type: OTHER
+Salience score: 0.0001685668685240671
+Mention text: Lead
+Mention type: COMMON
+
+
+Representative name for the entity: thoughts
+Entity type: OTHER
+Salience score: 0.00016853565466590226
+Mention text: thoughts
+Mention type: COMMON
+
+
+Representative name for the entity: thought
+Entity type: OTHER
+Salience score: 0.00016841533943079412
+Mention text: thought
+Mention type: COMMON
+
+
+Representative name for the entity: thoughts
+Entity type: OTHER
+Salience score: 0.00016838632291182876
+Mention text: thoughts
+Mention type: COMMON
+
+
+Representative name for the entity: hot-button issue
+Entity type: OTHER
+Salience score: 0.0001683295122347772
+Mention text: hot-button issue
+Mention type: COMMON
+
+
+Representative name for the entity: country
+Entity type: LOCATION
+Salience score: 0.0001675336534390226
+Mention text: country
+Mention type: COMMON
+
+
+Representative name for the entity: term
+Entity type: EVENT
+Salience score: 0.00016748272173572332
+Mention text: term
+Mention type: COMMON
+
+
+Representative name for the entity: lives
+Entity type: OTHER
+Salience score: 0.0001671578938839957
+Mention text: lives
+Mention type: COMMON
+
+
+Representative name for the entity: secretary of state
+Entity type: PERSON
+Salience score: 0.00016707388567738235
+Mention text: secretary of state
+Mention type: COMMON
+
+
+Representative name for the entity: senator
+Entity type: PERSON
+Salience score: 0.00016707388567738235
+Mention text: senator
+Mention type: COMMON
+
+
+Representative name for the entity: woman
+Entity type: PERSON
+Salience score: 0.00016707388567738235
+Mention text: woman
+Mention type: COMMON
+
+
+Representative name for the entity: voice
+Entity type: OTHER
+Salience score: 0.00016644239076413214
+Mention text: voice
+Mention type: COMMON
+
+
+Representative name for the entity: rebuke
+Entity type: EVENT
+Salience score: 0.00016625231364741921
+Mention text: rebuke
+Mention type: COMMON
+
+
+Representative name for the entity: support
+Entity type: OTHER
+Salience score: 0.00016560494259465486
+Mention text: support
+Mention type: COMMON
+
+
+Representative name for the entity: Franklin D. Roosevelt
+Entity type: PERSON
+Salience score: 0.00016555808542761952
+mid: /m/02yy8
+wikipedia_url: https://en.wikipedia.org/wiki/Franklin_D._Roosevelt
+Mention text: Franklin D. Roosevelt
+Mention type: PROPER
+Mention text: President
+Mention type: COMMON
+
+
+Representative name for the entity: health
+Entity type: OTHER
+Salience score: 0.00016553339082747698
+Mention text: health
+Mention type: COMMON
+
+
+Representative name for the entity: sports
+Entity type: OTHER
+Salience score: 0.00016539747593924403
+Mention text: sports
+Mention type: COMMON
+
+
+Representative name for the entity: class
+Entity type: OTHER
+Salience score: 0.00016537569172214717
+Mention text: class
+Mention type: COMMON
+
+
+Representative name for the entity: work
+Entity type: OTHER
+Salience score: 0.00016210951434914023
+Mention text: work
+Mention type: COMMON
+
+
+Representative name for the entity: childhood obesity
+Entity type: OTHER
+Salience score: 0.00016090195276774466
+Mention text: childhood obesity
+Mention type: COMMON
+
+
+Representative name for the entity: University of Chicago Hospitals
+Entity type: ORGANIZATION
+Salience score: 0.00015821399574633688
+wikipedia_url: https://en.wikipedia.org/wiki/University_of_Chicago_Medical_Center
+mid: /m/0dh_gt
+Mention text: University of Chicago  Hospitals
+Mention type: PROPER
+Mention text: University of Chicago Medical Center
+Mention type: PROPER
+
+
+Representative name for the entity: series
+Entity type: WORK_OF_ART
+Salience score: 0.00015645913663320243
+Mention text: series
+Mention type: COMMON
+
+
+Representative name for the entity: Michelle Obama Podcast
+Entity type: WORK_OF_ART
+Salience score: 0.0001559308875584975
+Mention text: podcast
+Mention type: COMMON
+Mention text: Michelle Obama Podcast
+Mention type: PROPER
+
+
+Representative name for the entity: few
+Entity type: PERSON
+Salience score: 0.00015537592116743326
+Mention text: few
+Mention type: COMMON
+
+
+Representative name for the entity: husband
+Entity type: PERSON
+Salience score: 0.00015525775961577892
+Mention text: husband
+Mention type: COMMON
+
+
+Representative name for the entity: difference
+Entity type: OTHER
+Salience score: 0.00015520950546488166
+Mention text: difference
+Mention type: COMMON
+
+
+Representative name for the entity: book
+Entity type: WORK_OF_ART
+Salience score: 0.0001551641325931996
+Mention text: book
+Mention type: COMMON
+
+
+Representative name for the entity: girls
+Entity type: PERSON
+Salience score: 0.0001543256948934868
+Mention text: girls
+Mention type: COMMON
+
+
+Representative name for the entity: age
+Entity type: OTHER
+Salience score: 0.0001543256948934868
+Mention text: age
+Mention type: COMMON
+
+
+Representative name for the entity: issues
+Entity type: OTHER
+Salience score: 0.00015418490511365235
+Mention text: issues
+Mention type: COMMON
+
+
+Representative name for the entity: lawn
+Entity type: LOCATION
+Salience score: 0.00015418459952343255
+Mention text: lawn
+Mention type: COMMON
+
+
+Representative name for the entity: soup kitchens
+Entity type: LOCATION
+Salience score: 0.00015416242240462452
+Mention text: soup kitchens
+Mention type: COMMON
+
+
+Representative name for the entity: movement
+Entity type: OTHER
+Salience score: 0.00015411828644573689
+Mention text: movement
+Mention type: COMMON
+
+
+Representative name for the entity: graders
+Entity type: PERSON
+Salience score: 0.0001540965895401314
+Mention text: graders
+Mention type: COMMON
+
+
+Representative name for the entity: efforts
+Entity type: OTHER
+Salience score: 0.00015407514001708478
+Mention text: efforts
+Mention type: COMMON
+
+
+Representative name for the entity: hope
+Entity type: OTHER
+Salience score: 0.00015373254427686334
+Mention text: hope
+Mention type: COMMON
+
+
+Representative name for the entity: youth leadership summit
+Entity type: EVENT
+Salience score: 0.00015370406617876142
+Mention text: youth leadership summit
+Mention type: COMMON
+
+
+Representative name for the entity: social media
+Entity type: OTHER
+Salience score: 0.00015370406617876142
+Mention text: social media
+Mention type: COMMON
+
+
+Representative name for the entity: mind
+Entity type: OTHER
+Salience score: 0.00015362117846962065
+Mention text: mind
+Mention type: COMMON
+
+
+Representative name for the entity: accusations
+Entity type: OTHER
+Salience score: 0.00015351606998592615
+Mention text: accusations
+Mention type: COMMON
+
+
+Representative name for the entity: sexual harassment
+Entity type: OTHER
+Salience score: 0.00015351606998592615
+Mention text: sexual harassment
+Mention type: COMMON
+
+
+Representative name for the entity: power
+Entity type: OTHER
+Salience score: 0.00015351606998592615
+Mention text: power
+Mention type: COMMON
+
+
+Representative name for the entity: love
+Entity type: OTHER
+Salience score: 0.0001524475374026224
+Mention text: love
+Mention type: COMMON
+
+
+Representative name for the entity: voice
+Entity type: OTHER
+Salience score: 0.00015241278742905706
+Mention text: voice
+Mention type: COMMON
+
+
+Representative name for the entity: praise
+Entity type: OTHER
+Salience score: 0.00015240882930811495
+Mention text: praise
+Mention type: COMMON
+
+
+Representative name for the entity: statement
+Entity type: WORK_OF_ART
+Salience score: 0.00014996049867477268
+Mention text: statement
+Mention type: COMMON
+
+
+Representative name for the entity: Most
+Entity type: OTHER
+Salience score: 0.00014983145229052752
+Mention text: Most
+Mention type: COMMON
+
+
+Representative name for the entity: lesson
+Entity type: OTHER
+Salience score: 0.00014834651665296406
+Mention text: lesson
+Mention type: COMMON
+
+
+Representative name for the entity: women
+Entity type: PERSON
+Salience score: 0.00014798730262555182
+Mention text: women
+Mention type: COMMON
+
+
+Representative name for the entity: Chicago Council on Global Affairs
+Entity type: ORGANIZATION
+Salience score: 0.0001471865107305348
+wikipedia_url: https://en.wikipedia.org/wiki/Chicago_Council_on_Global_Affairs
+mid: /m/0d42gh
+Mention text: Chicago Council on Global Affairs
+Mention type: PROPER
+
+
+Representative name for the entity: U.S. Senator
+Entity type: ORGANIZATION
+Salience score: 0.00014707665832247585
+wikipedia_url: https://en.wikipedia.org/wiki/United_States_Senate
+mid: /m/07t58
+Mention text: U.S. Senator
+Mention type: PROPER
+Mention text: U.S. Senate
+Mention type: PROPER
+
+
+Representative name for the entity: Nixon
+Entity type: PERSON
+Salience score: 0.00014538734103552997
+wikipedia_url: https://en.wikipedia.org/wiki/Richard_Nixon
+mid: /m/06c97
+Mention text: Nixon
+Mention type: PROPER
+Mention text: President
+Mention type: COMMON
+
+
+Representative name for the entity: world
+Entity type: LOCATION
+Salience score: 0.0001444099616492167
+Mention text: world
+Mention type: COMMON
+
+
+Representative name for the entity: world
+Entity type: LOCATION
+Salience score: 0.00014435067714657634
+Mention text: world
+Mention type: COMMON
+
+
+Representative name for the entity: daughter
+Entity type: PERSON
+Salience score: 0.00014287176600191742
+Mention text: daughter
+Mention type: COMMON
+
+
+Representative name for the entity: practice
+Entity type: OTHER
+Salience score: 0.00014151819050312042
+Mention text: practice
+Mention type: COMMON
+
+
+Representative name for the entity: presidency
+Entity type: OTHER
+Salience score: 0.0001414446742273867
+Mention text: presidency
+Mention type: COMMON
+
+
+Representative name for the entity: mind
+Entity type: OTHER
+Salience score: 0.00014078944514039904
+Mention text: mind
+Mention type: COMMON
+
+
+Representative name for the entity: sexual harassment
+Entity type: EVENT
+Salience score: 0.00014076677325647324
+Mention text: sexual harassment
+Mention type: COMMON
+
+
+Representative name for the entity: area
+Entity type: LOCATION
+Salience score: 0.0001405955117661506
+Mention text: area
+Mention type: COMMON
+
+
+Representative name for the entity: appearances
+Entity type: EVENT
+Salience score: 0.00014057527005206794
+Mention text: appearances
+Mention type: COMMON
+
+
+Representative name for the entity: vegetables
+Entity type: OTHER
+Salience score: 0.00014053547056391835
+Mention text: vegetables
+Mention type: COMMON
+
+
+Representative name for the entity: activity
+Entity type: OTHER
+Salience score: 0.0001404585491400212
+Mention text: activity
+Mention type: COMMON
+
+
+Representative name for the entity: beehives
+Entity type: OTHER
+Salience score: 0.00013789153308607638
+Mention text: beehives
+Mention type: COMMON
+
+
+Representative name for the entity: experience
+Entity type: OTHER
+Salience score: 0.00013751954247709364
+Mention text: experience
+Mention type: COMMON
+
+
+Representative name for the entity: Republican
+Entity type: ORGANIZATION
+Salience score: 0.0001370652171317488
+mid: /m/07wbk
+wikipedia_url: https://en.wikipedia.org/wiki/Republican_Party_(United_States)
+Mention text: Republican
+Mention type: PROPER
+Mention text: Republican
+Mention type: PROPER
+
+
+Representative name for the entity: dogs
+Entity type: OTHER
+Salience score: 0.00013541101361624897
+Mention text: dogs
+Mention type: COMMON
+
+
+Representative name for the entity: sons
+Entity type: PERSON
+Salience score: 0.00013537924678530544
+Mention text: sons
+Mention type: COMMON
+
+
+Representative name for the entity: election
+Entity type: EVENT
+Salience score: 0.0001353480911348015
+Mention text: election
+Mention type: COMMON
+
+
+Representative name for the entity: life
+Entity type: OTHER
+Salience score: 0.00013531750300899148
+Mention text: life
+Mention type: COMMON
+
+
+Representative name for the entity: promise
+Entity type: OTHER
+Salience score: 0.00013503938680514693
+Mention text: promise
+Mention type: COMMON
+
+
+Representative name for the entity: example
+Entity type: OTHER
+Salience score: 0.00013501399371307343
+Mention text: example
+Mention type: COMMON
+
+
+Representative name for the entity: problems
+Entity type: OTHER
+Salience score: 0.0001349889935227111
+Mention text: problems
+Mention type: COMMON
+
+
+Representative name for the entity: kind
+Entity type: OTHER
+Salience score: 0.00013496435713022947
+Mention text: kind
+Mention type: COMMON
+
+
+Representative name for the entity: way
+Entity type: OTHER
+Salience score: 0.00013496435713022947
+Mention text: way
+Mention type: COMMON
+
+
+Representative name for the entity: light
+Entity type: OTHER
+Salience score: 0.00013486937677953392
+Mention text: light
+Mention type: COMMON
+
+
+Representative name for the entity: others
+Entity type: PERSON
+Salience score: 0.00013482387294061482
+Mention text: others
+Mention type: COMMON
+
+
+Representative name for the entity: topic
+Entity type: OTHER
+Salience score: 0.00013482387294061482
+Mention text: topic
+Mention type: COMMON
+
+
+Representative name for the entity: position
+Entity type: OTHER
+Salience score: 0.00013482387294061482
+Mention text: position
+Mention type: COMMON
+
+
+Representative name for the entity: race
+Entity type: EVENT
+Salience score: 0.00013422824849840254
+Mention text: race
+Mention type: COMMON
+
+
+Representative name for the entity: behalf
+Entity type: OTHER
+Salience score: 0.00013422824849840254
+Mention text: behalf
+Mention type: COMMON
+
+
+Representative name for the entity: talks
+Entity type: EVENT
+Salience score: 0.00013418639719020575
+Mention text: talks
+Mention type: COMMON
+
+
+Representative name for the entity: stage
+Entity type: LOCATION
+Salience score: 0.00013410579413175583
+Mention text: stage
+Mention type: COMMON
+
+
+Representative name for the entity: defeat
+Entity type: OTHER
+Salience score: 0.00013410579413175583
+Mention text: defeat
+Mention type: COMMON
+
+
+Representative name for the entity: earth
+Entity type: LOCATION
+Salience score: 0.00013395561836659908
+Mention text: earth
+Mention type: COMMON
+
+
+Representative name for the entity: privilege
+Entity type: OTHER
+Salience score: 0.00013392014079727232
+Mention text: privilege
+Mention type: COMMON
+
+
+Representative name for the entity: struggles
+Entity type: OTHER
+Salience score: 0.00013388541992753744
+Mention text: struggles
+Mention type: COMMON
+
+
+Representative name for the entity: narrative
+Entity type: OTHER
+Salience score: 0.00013385142665356398
+Mention text: narrative
+Mention type: COMMON
+
+
+Representative name for the entity: primaries
+Entity type: EVENT
+Salience score: 0.00013378549192566425
+Mention text: primaries
+Mention type: COMMON
+
+
+Representative name for the entity: vision
+Entity type: OTHER
+Salience score: 0.00013378549192566425
+Mention text: vision
+Mention type: COMMON
+
+
+Representative name for the entity: slaves
+Entity type: PERSON
+Salience score: 0.0001337535068159923
+Mention text: slaves
+Mention type: COMMON
+
+
+Representative name for the entity: University of Chicago
+Entity type: ORGANIZATION
+Salience score: 0.0001332121464656666
+wikipedia_url: https://en.wikipedia.org/wiki/University_of_Chicago
+mid: /m/07wrz
+Mention text: University of Chicago
+Mention type: PROPER
+
+
+Representative name for the entity: first lady
+Entity type: PERSON
+Salience score: 0.00013301483704708517
+Mention text: first lady
+Mention type: COMMON
+
+
+Representative name for the entity: first lady
+Entity type: PERSON
+Salience score: 0.0001329798687947914
+Mention text: first lady
+Mention type: COMMON
+
+
+Representative name for the entity: service
+Entity type: OTHER
+Salience score: 0.00013225359725765884
+Mention text: service
+Mention type: COMMON
+
+
+Representative name for the entity: readers
+Entity type: PERSON
+Salience score: 0.00013067641702946275
+Mention text: readers
+Mention type: COMMON
+
+
+Representative name for the entity: food
+Entity type: OTHER
+Salience score: 0.0001281216536881402
+Mention text: food
+Mention type: COMMON
+
+
+Representative name for the entity: attention
+Entity type: OTHER
+Salience score: 0.00012776641233358532
+Mention text: attention
+Mention type: COMMON
+
+
+Representative name for the entity: honor
+Entity type: OTHER
+Salience score: 0.000124971687910147
+Mention text: honor
+Mention type: COMMON
+
+
+Representative name for the entity: storytelling
+Entity type: OTHER
+Salience score: 0.00012423218868207186
+Mention text: storytelling
+Mention type: COMMON
+
+
+Representative name for the entity: clash
+Entity type: EVENT
+Salience score: 0.00012421926658134907
+Mention text: clash
+Mention type: COMMON
+
+
+Representative name for the entity: factory
+Entity type: LOCATION
+Salience score: 0.00012421926658134907
+Mention text: factory
+Mention type: COMMON
+
+
+Representative name for the entity: shelters
+Entity type: LOCATION
+Salience score: 0.00012347630399744958
+Mention text: shelters
+Mention type: COMMON
+
+
+Representative name for the entity: importance
+Entity type: OTHER
+Salience score: 0.00012345850700512528
+Mention text: importance
+Mention type: COMMON
+
+
+Representative name for the entity: guests
+Entity type: PERSON
+Salience score: 0.00012344092829152942
+Mention text: guests
+Mention type: COMMON
+
+
+Representative name for the entity: diet
+Entity type: OTHER
+Salience score: 0.00012344092829152942
+Mention text: diet
+Mention type: COMMON
+
+
+Representative name for the entity: agenda
+Entity type: OTHER
+Salience score: 0.00012340638204477727
+Mention text: agenda
+Mention type: COMMON
+
+
+Representative name for the entity: top
+Entity type: OTHER
+Salience score: 0.00012340638204477727
+Mention text: top
+Mention type: COMMON
+
+
+Representative name for the entity: causes
+Entity type: OTHER
+Salience score: 0.00012338939995970577
+Mention text: causes
+Mention type: COMMON
+
+
+Representative name for the entity: initiative
+Entity type: OTHER
+Salience score: 0.00012337260704953223
+Mention text: initiative
+Mention type: COMMON
+
+
+Representative name for the entity: kids
+Entity type: PERSON
+Salience score: 0.00012337260704953223
+Mention text: kids
+Mention type: COMMON
+
+
+Representative name for the entity: sports organizations
+Entity type: ORGANIZATION
+Salience score: 0.00012335600331425667
+Mention text: sports organizations
+Mention type: COMMON
+
+
+Representative name for the entity: team
+Entity type: ORGANIZATION
+Salience score: 0.00012335600331425667
+Mention text: team
+Mention type: COMMON
+
+
+Representative name for the entity: many
+Entity type: OTHER
+Salience score: 0.00012333958875387907
+Mention text: many
+Mention type: COMMON
+
+
+Representative name for the entity: parents
+Entity type: PERSON
+Salience score: 0.00011835593613795936
+Mention text: parents
+Mention type: COMMON
+
+
+Representative name for the entity: obligations
+Entity type: OTHER
+Salience score: 0.00011835593613795936
+Mention text: obligations
+Mention type: COMMON
+
+
+Representative name for the entity: Public Allies
+Entity type: ORGANIZATION
+Salience score: 0.0001180827894131653
+wikipedia_url: https://en.wikipedia.org/wiki/Public_Allies
+mid: /m/02xb9hd
+Mention text: Public Allies
+Mention type: PROPER
+
+
+Representative name for the entity: number
+Entity type: OTHER
+Salience score: 0.00011642192839644849
+Mention text: number
+Mention type: COMMON
+
+
+Representative name for the entity: list
+Entity type: OTHER
+Salience score: 0.00011579101555980742
+Mention text: list
+Mention type: COMMON
+
+
+Representative name for the entity: term
+Entity type: EVENT
+Salience score: 0.00011577786790439859
+Mention text: term
+Mention type: COMMON
+
+
+Representative name for the entity: memoir
+Entity type: WORK_OF_ART
+Salience score: 0.00011575194366741925
+Mention text: memoir
+Mention type: COMMON
+
+
+Representative name for the entity: voice
+Entity type: OTHER
+Salience score: 0.00011573915980989113
+Mention text: voice
+Mention type: COMMON
+
+
+Representative name for the entity: portraits
+Entity type: WORK_OF_ART
+Salience score: 0.00011570148490136489
+Mention text: portraits
+Mention type: COMMON
+
+
+Representative name for the entity: efforts
+Entity type: OTHER
+Salience score: 0.00011568914487725124
+Mention text: efforts
+Mention type: COMMON
+
+
+Representative name for the entity: effort
+Entity type: OTHER
+Salience score: 0.00011565277236513793
+Mention text: effort
+Mention type: COMMON
+
+
+Representative name for the entity: memoir
+Entity type: WORK_OF_ART
+Salience score: 0.00011562903091544285
+Mention text: memoir
+Mention type: COMMON
+
+
+Representative name for the entity: documentary
+Entity type: WORK_OF_ART
+Salience score: 0.00011562903091544285
+Mention text: documentary
+Mention type: COMMON
+
+
+Representative name for the entity: The Harvard 100
+Entity type: OTHER
+Salience score: 0.000114082133222837
+Mention text: The Harvard 100
+Mention type: PROPER
+Mention text: list
+Mention type: COMMON
+
+
+Representative name for the entity: Olympic
+Entity type: EVENT
+Salience score: 0.00011399014329072088
+mid: /m/05nd_
+wikipedia_url: https://en.wikipedia.org/wiki/Olympic_Games
+Mention text: Olympic
+Mention type: PROPER
+Mention text: Olympic
+Mention type: PROPER
+Mention text: Olympic
+Mention type: PROPER
+
+
+Representative name for the entity: Sasha
+Entity type: PERSON
+Salience score: 0.00010635796934366226
+mid: /m/02nqgyw
+Mention text: Sasha
+Mention type: PROPER
+Mention text: Sasha
+Mention type: PROPER
+Mention text: Obama
+Mention type: PROPER
+Mention text: President
+Mention type: COMMON
+Mention text: Obama
+Mention type: PROPER
+Mention text: President
+Mention type: COMMON
+Mention text: Obama
+Mention type: PROPER
+Mention text: Sasha Obama
+Mention type: PROPER
+
+
+Representative name for the entity: dress
+Entity type: CONSUMER_GOOD
+Salience score: 0.00010557664791122079
+Mention text: dress
+Mention type: COMMON
+
+
+Representative name for the entity: praise
+Entity type: OTHER
+Salience score: 0.00010557664791122079
+Mention text: praise
+Mention type: COMMON
+
+
+Representative name for the entity: dress
+Entity type: OTHER
+Salience score: 0.0001055076063494198
+Mention text: dress
+Mention type: COMMON
+
+
+Representative name for the entity: power
+Entity type: OTHER
+Salience score: 0.0001054853928508237
+Mention text: power
+Mention type: COMMON
+
+
+Representative name for the entity: business interests
+Entity type: OTHER
+Salience score: 0.00010547443525865674
+Mention text: business interests
+Mention type: COMMON
+
+
+Representative name for the entity: centerpiece
+Entity type: OTHER
+Salience score: 0.00010545278200879693
+Mention text: centerpiece
+Mention type: COMMON
+
+
+Representative name for the entity: children
+Entity type: PERSON
+Salience score: 0.00010486674000276253
+Mention text: children
+Mention type: COMMON
+
+
+Representative name for the entity: opportunity
+Entity type: OTHER
+Salience score: 0.00010399606981081888
+Mention text: opportunity
+Mention type: COMMON
+
+
+Representative name for the entity: nominee
+Entity type: PERSON
+Salience score: 0.00010273985390085727
+Mention text: nominee
+Mention type: COMMON
+
+
+Representative name for the entity: health care workers
+Entity type: PERSON
+Salience score: 0.00010099521750817075
+Mention text: health care workers
+Mention type: COMMON
+
+
+Representative name for the entity: world
+Entity type: LOCATION
+Salience score: 0.0001008785839076154
+Mention text: world
+Mention type: COMMON
+
+
+Representative name for the entity: party
+Entity type: ORGANIZATION
+Salience score: 0.00010082417429657653
+Mention text: party
+Mention type: COMMON
+
+
+Representative name for the entity: participation
+Entity type: OTHER
+Salience score: 0.00010080655920319259
+Mention text: participation
+Mention type: COMMON
+
+
+Representative name for the entity: Washington, D.C.
+Entity type: LOCATION
+Salience score: 9.914115798892453e-05
+mid: /m/0rh6k
+wikipedia_url: https://en.wikipedia.org/wiki/Washington,_D.C.
+Mention text: Washington, D.C.
+Mention type: PROPER
+Mention text: Washington, D.C.
+Mention type: PROPER
+Mention text: Washington, D.C.
+Mention type: PROPER
+
+
+Representative name for the entity: audio version
+Entity type: OTHER
+Salience score: 9.736054198583588e-05
+Mention text: audio version
+Mention type: COMMON
+
+
+Representative name for the entity: stories
+Entity type: WORK_OF_ART
+Salience score: 9.576912270858884e-05
+Mention text: stories
+Mention type: COMMON
+
+
+Representative name for the entity: clothes
+Entity type: OTHER
+Salience score: 9.273135947296396e-05
+Mention text: clothes
+Mention type: COMMON
+
+
+Representative name for the entity: inauguration ceremony
+Entity type: EVENT
+Salience score: 9.273135947296396e-05
+Mention text: inauguration ceremony
+Mention type: COMMON
+
+
+Representative name for the entity: events
+Entity type: EVENT
+Salience score: 9.272092574974522e-05
+Mention text: events
+Mention type: COMMON
+
+
+Representative name for the entity: roots
+Entity type: OTHER
+Salience score: 9.270034934161231e-05
+Mention text: roots
+Mention type: COMMON
+
+
+Representative name for the entity: journey
+Entity type: OTHER
+Salience score: 9.269020665669814e-05
+Mention text: journey
+Mention type: COMMON
+
+
+Representative name for the entity: spoken word album
+Entity type: WORK_OF_ART
+Salience score: 9.268014400731772e-05
+Mention text: spoken word album
+Mention type: COMMON
+
+
+Representative name for the entity: sea
+Entity type: LOCATION
+Salience score: 9.266029519494623e-05
+Mention text: sea
+Mention type: COMMON
+
+
+Representative name for the entity: flowers
+Entity type: OTHER
+Salience score: 9.266029519494623e-05
+Mention text: flowers
+Mention type: COMMON
+
+
+Representative name for the entity: artists
+Entity type: PERSON
+Salience score: 9.266029519494623e-05
+Mention text: artists
+Mention type: COMMON
+
+
+Representative name for the entity: viewers
+Entity type: PERSON
+Salience score: 9.266029519494623e-05
+Mention text: viewers
+Mention type: COMMON
+
+
+Representative name for the entity: chair
+Entity type: CONSUMER_GOOD
+Salience score: 9.266029519494623e-05
+Mention text: chair
+Mention type: COMMON
+
+
+Representative name for the entity: greenery
+Entity type: OTHER
+Salience score: 9.266029519494623e-05
+Mention text: greenery
+Mention type: COMMON
+
+
+Representative name for the entity: deal
+Entity type: OTHER
+Salience score: 9.265050175599754e-05
+Mention text: deal
+Mention type: COMMON
+
+
+Representative name for the entity: company
+Entity type: ORGANIZATION
+Salience score: 9.265050175599754e-05
+Mention text: company
+Mention type: COMMON
+
+
+Representative name for the entity: films
+Entity type: WORK_OF_ART
+Salience score: 9.265050175599754e-05
+Mention text: films
+Mention type: COMMON
+
+
+Representative name for the entity: launch
+Entity type: EVENT
+Salience score: 9.263116226065904e-05
+Mention text: launch
+Mention type: COMMON
+
+
+Representative name for the entity: cultures
+Entity type: OTHER
+Salience score: 9.263116226065904e-05
+Mention text: cultures
+Mention type: COMMON
+
+
+Representative name for the entity: release
+Entity type: EVENT
+Salience score: 9.263116226065904e-05
+Mention text: release
+Mention type: COMMON
+
+
+Representative name for the entity: glass
+Entity type: OTHER
+Salience score: 9.263116226065904e-05
+Mention text: glass
+Mention type: COMMON
+
+
+Representative name for the entity: critics
+Entity type: PERSON
+Salience score: 9.262160892831162e-05
+Mention text: critics
+Mention type: COMMON
+
+
+Representative name for the entity: documentary feature
+Entity type: OTHER
+Salience score: 9.262160892831162e-05
+Mention text: documentary feature
+Mention type: COMMON
+
+
+Representative name for the entity: tour
+Entity type: EVENT
+Salience score: 9.261214290745556e-05
+Mention text: tour
+Mention type: COMMON
+
+
+Representative name for the entity: name
+Entity type: OTHER
+Salience score: 9.261214290745556e-05
+Mention text: name
+Mention type: COMMON
+
+
+Representative name for the entity: Let's Move
+Entity type: WORK_OF_ART
+Salience score: 9.099520684685558e-05
+mid: /m/0cp1s0w
+wikipedia_url: https://en.wikipedia.org/wiki/Let's_Move!
+Mention text: Let's Move
+Mention type: PROPER
+
+
+Representative name for the entity: president
+Entity type: PERSON
+Salience score: 8.891422476153821e-05
+Mention text: president
+Mention type: COMMON
+
+
+Representative name for the entity: books
+Entity type: WORK_OF_ART
+Salience score: 8.687422814546153e-05
+Mention text: books
+Mention type: COMMON
+
+
+Representative name for the entity: children
+Entity type: PERSON
+Salience score: 8.423945837421343e-05
+Mention text: children
+Mention type: COMMON
+
+
+Representative name for the entity: South Lawn
+Entity type: LOCATION
+Salience score: 8.302098285639659e-05
+mid: /m/03nrdd9
+wikipedia_url: https://en.wikipedia.org/wiki/South_Lawn
+Mention text: South Lawn
+Mention type: PROPER
+
+
+Representative name for the entity: world champion figure skater
+Entity type: PERSON
+Salience score: 8.271000115200877e-05
+Mention text: world champion figure skater
+Mention type: COMMON
+
+
+Representative name for the entity: some
+Entity type: OTHER
+Salience score: 8.186326886061579e-05
+Mention text: some
+Mention type: COMMON
+
+
+Representative name for the entity: office
+Entity type: OTHER
+Salience score: 8.07902033557184e-05
+Mention text: office
+Mention type: COMMON
+
+
+Representative name for the entity: term
+Entity type: EVENT
+Salience score: 8.078286191448569e-05
+Mention text: term
+Mention type: COMMON
+
+
+Representative name for the entity: office
+Entity type: OTHER
+Salience score: 8.076115773292258e-05
+Mention text: office
+Mention type: COMMON
+
+
+Representative name for the entity: woman
+Entity type: PERSON
+Salience score: 8.075402729446068e-05
+Mention text: woman
+Mention type: COMMON
+
+
+Representative name for the entity: FACT CARD
+Entity type: OTHER
+Salience score: 8.025919669307768e-05
+Mention text: FACT CARD
+Mention type: COMMON
+
+
+Representative name for the entity: Obama Foundation
+Entity type: ORGANIZATION
+Salience score: 7.974418986123055e-05
+wikipedia_url: https://en.wikipedia.org/wiki/Obama_Foundation
+mid: /g/11ggngtg_7
+Mention text: Obama Foundation
+Mention type: PROPER
+
+
+Representative name for the entity: Twitter
+Entity type: OTHER
+Salience score: 7.965999975567684e-05
+Mention text: Twitter
+Mention type: PROPER
+
+
+Representative name for the entity: Hollywood
+Entity type: OTHER
+Salience score: 7.964664837345481e-05
+Mention text: Hollywood
+Mention type: PROPER
+
+
+Representative name for the entity: McCormick Place
+Entity type: LOCATION
+Salience score: 7.922241638880223e-05
+wikipedia_url: https://en.wikipedia.org/wiki/McCormick_Place
+mid: /m/0c7mh
+Mention text: McCormick Place
+Mention type: PROPER
+
+
+Representative name for the entity: American Dream
+Entity type: OTHER
+Salience score: 7.909222767921165e-05
+mid: /m/020swz
+wikipedia_url: https://en.wikipedia.org/wiki/American_Dream
+Mention text: American Dream
+Mention type: PROPER
+
+
+Representative name for the entity: Latino
+Entity type: PERSON
+Salience score: 7.909222767921165e-05
+Mention text: Latino
+Mention type: PROPER
+
+
+Representative name for the entity: The Washington Post
+Entity type: ORGANIZATION
+Salience score: 7.907213876023889e-05
+mid: /m/0px38
+wikipedia_url: https://en.wikipedia.org/wiki/The_Washington_Post
+Mention text: The Washington Post
+Mention type: PROPER
+
+
+Representative name for the entity: First Lady
+Entity type: PERSON
+Salience score: 7.855044532334432e-05
+mid: /m/02xy5
+wikipedia_url: https://en.wikipedia.org/wiki/First_Lady_of_the_United_States
+Mention text: First Lady
+Mention type: PROPER
+
+
+Representative name for the entity: hope
+Entity type: OTHER
+Salience score: 7.377172005362809e-05
+Mention text: hope
+Mention type: COMMON
+
+
+Representative name for the entity: accuracy
+Entity type: OTHER
+Salience score: 7.374964479822665e-05
+Mention text: accuracy
+Mention type: COMMON
+
+
+Representative name for the entity: fairness
+Entity type: OTHER
+Salience score: 7.374964479822665e-05
+Mention text: fairness
+Mention type: COMMON
+
+
+Representative name for the entity: politics
+Entity type: OTHER
+Salience score: 7.363390614045784e-05
+Mention text: politics
+Mention type: COMMON
+
+
+Representative name for the entity: role
+Entity type: OTHER
+Salience score: 7.363390614045784e-05
+Mention text: role
+Mention type: COMMON
+
+
+Representative name for the entity: Mayor
+Entity type: PERSON
+Salience score: 7.362122414633632e-05
+Mention text: Mayor
+Mention type: COMMON
+
+
+Representative name for the entity: Paralympic
+Entity type: EVENT
+Salience score: 7.286193431355059e-05
+mid: /m/0hrfx
+wikipedia_url: https://en.wikipedia.org/wiki/Paralympic_Games
+Mention text: Paralympic
+Mention type: PROPER
+
+
+Representative name for the entity: family
+Entity type: PERSON
+Salience score: 7.219193503260612e-05
+Mention text: family
+Mention type: COMMON
+
+
+Representative name for the entity: African American
+Entity type: PERSON
+Salience score: 7.218639802886173e-05
+wikipedia_url: https://en.wikipedia.org/wiki/African_Americans
+mid: /m/0x67
+Mention text: African American
+Mention type: PROPER
+Mention text: African American
+Mention type: PROPER
+
+
+Representative name for the entity: message
+Entity type: OTHER
+Salience score: 7.197662489488721e-05
+Mention text: message
+Mention type: COMMON
+
+
+Representative name for the entity: daughters
+Entity type: PERSON
+Salience score: 7.019096665317193e-05
+Mention text: daughters
+Mention type: COMMON
+
+
+Representative name for the entity: school
+Entity type: ORGANIZATION
+Salience score: 7.014961011009291e-05
+Mention text: school
+Mention type: COMMON
+
+
+Representative name for the entity: support
+Entity type: OTHER
+Salience score: 6.974343705223873e-05
+Mention text: support
+Mention type: COMMON
+
+
+Representative name for the entity: husband
+Entity type: PERSON
+Salience score: 6.805662997066975e-05
+Mention text: husband
+Mention type: COMMON
+
+
+Representative name for the entity: Penguin Random House
+Entity type: ORGANIZATION
+Salience score: 6.606044917134568e-05
+mid: /m/018_d0
+wikipedia_url: https://en.wikipedia.org/wiki/Random_House
+Mention text: Penguin Random House
+Mention type: PROPER
+
+
+Representative name for the entity: statement
+Entity type: WORK_OF_ART
+Salience score: 6.588838004972786e-05
+Mention text: statement
+Mention type: COMMON
+
+
+Representative name for the entity: childhood
+Entity type: OTHER
+Salience score: 6.586288509424776e-05
+Mention text: childhood
+Mention type: COMMON
+
+
+Representative name for the entity: benefit concert
+Entity type: EVENT
+Salience score: 6.478848081314936e-05
+Mention text: benefit concert
+Mention type: COMMON
+
+
+Representative name for the entity: coronavirus
+Entity type: OTHER
+Salience score: 6.478848081314936e-05
+Mention text: coronavirus
+Mention type: COMMON
+
+
+Representative name for the entity: website
+Entity type: OTHER
+Salience score: 6.47439737804234e-05
+Mention text: website
+Mention type: COMMON
+
+
+Representative name for the entity: newsletter
+Entity type: WORK_OF_ART
+Salience score: 6.47136548650451e-05
+Mention text: newsletter
+Mention type: COMMON
+
+
+Representative name for the entity: seat
+Entity type: OTHER
+Salience score: 6.468445644713938e-05
+Mention text: seat
+Mention type: COMMON
+
+
+Representative name for the entity: medalist
+Entity type: PERSON
+Salience score: 6.465079786721617e-05
+Mention text: medalist
+Mention type: COMMON
+
+
+Representative name for the entity: part
+Entity type: OTHER
+Salience score: 6.344111898215488e-05
+Mention text: part
+Mention type: COMMON
+
+
+Representative name for the entity: work
+Entity type: OTHER
+Salience score: 6.343294080579653e-05
+Mention text: work
+Mention type: COMMON
+
+
+Representative name for the entity: Higher Ground Productions
+Entity type: WORK_OF_ART
+Salience score: 6.232069426914677e-05
+wikipedia_url: https://en.wikipedia.org/wiki/Higher_Ground_Productions
+mid: /g/11gr6vzlq7
+Mention text: Higher Ground Productions
+Mention type: PROPER
+
+
+Representative name for the entity: Chinese
+Entity type: LOCATION
+Salience score: 6.189303530845791e-05
+Mention text: Chinese
+Mention type: PROPER
+
+
+Representative name for the entity: times
+Entity type: OTHER
+Salience score: 6.0732170823030174e-05
+Mention text: times
+Mention type: COMMON
+
+
+Representative name for the entity: community gardens
+Entity type: LOCATION
+Salience score: 5.7850029406836256e-05
+Mention text: community gardens
+Mention type: COMMON
+
+
+Representative name for the entity: vegetable garden
+Entity type: LOCATION
+Salience score: 5.7850029406836256e-05
+Mention text: vegetable garden
+Mention type: COMMON
+
+
+Representative name for the entity: priority
+Entity type: OTHER
+Salience score: 5.707698437618092e-05
+Mention text: priority
+Mention type: COMMON
+
+
+Representative name for the entity: priority
+Entity type: OTHER
+Salience score: 5.571527435677126e-05
+Mention text: priority
+Mention type: COMMON
+
+
+Representative name for the entity: J. Crew
+Entity type: ORGANIZATION
+Salience score: 5.4779531637905166e-05
+wikipedia_url: https://en.wikipedia.org/wiki/J.Crew
+mid: /m/06pz1w
+Mention text: J. Crew
+Mention type: PROPER
+
+
+Representative name for the entity: Kate Spade
+Entity type: PERSON
+Salience score: 5.4779531637905166e-05
+mid: /m/06bkdx
+wikipedia_url: https://en.wikipedia.org/wiki/Kate_Spade
+Mention text: Kate Spade
+Mention type: PROPER
+
+
+Representative name for the entity: Thom Browne
+Entity type: PERSON
+Salience score: 5.4779531637905166e-05
+mid: /m/02x37gg
+wikipedia_url: https://en.wikipedia.org/wiki/Thom_Browne
+Mention text: Thom Browne
+Mention type: PROPER
+
+
+Representative name for the entity: Jason Wu
+Entity type: PERSON
+Salience score: 5.477336890180595e-05
+wikipedia_url: https://en.wikipedia.org/wiki/Jason_Wu
+mid: /m/0523n3q
+Mention text: Jason Wu
+Mention type: PROPER
+
+
+Representative name for the entity: Grammy
+Entity type: OTHER
+Salience score: 5.474927820614539e-05
+wikipedia_url: https://en.wikipedia.org/wiki/Grammy_Awards
+mid: /m/0c4ys
+Mention text: Grammy
+Mention type: PROPER
+
+
+Representative name for the entity: Smithsonian
+Entity type: PERSON
+Salience score: 5.474338831845671e-05
+wikipedia_url: https://en.wikipedia.org/wiki/Smithsonian_Institution
+mid: /m/0hfyj
+Mention text: Smithsonian
+Mention type: PROPER
+
+
+Representative name for the entity: Kehinde Wiley
+Entity type: PERSON
+Salience score: 5.473754936247133e-05
+mid: /m/07czpt
+wikipedia_url: https://en.wikipedia.org/wiki/Kehinde_Wiley
+Mention text: Kehinde Wiley
+Mention type: PROPER
+
+
+Representative name for the entity: Amy Sherald
+Entity type: PERSON
+Salience score: 5.473754936247133e-05
+mid: /g/11dynv5pcz
+wikipedia_url: https://en.wikipedia.org/wiki/Amy_Sherald
+Mention text: Amy Sherald
+Mention type: PROPER
+
+
+Representative name for the entity: Ohio
+Entity type: LOCATION
+Salience score: 5.4720338084734976e-05
+wikipedia_url: https://en.wikipedia.org/wiki/Ohio
+mid: /m/05kkh
+Mention text: Ohio
+Mention type: PROPER
+
+
+Representative name for the entity: Dayton
+Entity type: LOCATION
+Salience score: 5.4720338084734976e-05
+mid: /m/029cr
+wikipedia_url: https://en.wikipedia.org/wiki/Dayton,_Ohio
+Mention text: Dayton
+Mention type: PROPER
+
+
+Representative name for the entity: Academy Award
+Entity type: OTHER
+Salience score: 5.4714699217583984e-05
+wikipedia_url: https://en.wikipedia.org/wiki/Academy_Awards
+mid: /m/0g_w
+Mention text: Academy Award
+Mention type: PROPER
+
+
+Representative name for the entity: sport
+Entity type: OTHER
+Salience score: 5.4583138989983127e-05
+Mention text: sport
+Mention type: COMMON
+
+
+Representative name for the entity: health
+Entity type: OTHER
+Salience score: 5.4562024160986766e-05
+Mention text: health
+Mention type: COMMON
+
+
+Representative name for the entity: book
+Entity type: WORK_OF_ART
+Salience score: 5.4562024160986766e-05
+Mention text: book
+Mention type: COMMON
+
+
+Representative name for the entity: Biography.com
+Entity type: ORGANIZATION
+Salience score: 5.4373140301322564e-05
+Mention text: Biography.com
+Mention type: PROPER
+
+
+Representative name for the entity: book
+Entity type: WORK_OF_ART
+Salience score: 5.131628495291807e-05
+Mention text: book
+Mention type: COMMON
+
+
+Representative name for the entity: portraits
+Entity type: WORK_OF_ART
+Salience score: 5.131537182023749e-05
+Mention text: portraits
+Mention type: COMMON
+
+
+Representative name for the entity: experience
+Entity type: OTHER
+Salience score: 5.0805469072656706e-05
+Mention text: experience
+Mention type: COMMON
+
+
+Representative name for the entity: food
+Entity type: OTHER
+Salience score: 5.079898255644366e-05
+Mention text: food
+Mention type: COMMON
+
+
+Representative name for the entity: magazine
+Entity type: WORK_OF_ART
+Salience score: 5.07434961036779e-05
+Mention text: magazine
+Mention type: COMMON
+
+
+Representative name for the entity: magazine
+Entity type: WORK_OF_ART
+Salience score: 5.073762804386206e-05
+Mention text: magazine
+Mention type: COMMON
+
+
+Representative name for the entity: list
+Entity type: OTHER
+Salience score: 5.073181455372833e-05
+Mention text: list
+Mention type: COMMON
+
+
+Representative name for the entity: magazine
+Entity type: WORK_OF_ART
+Salience score: 5.073181455372833e-05
+Mention text: magazine
+Mention type: COMMON
+
+
+Representative name for the entity: world
+Entity type: OTHER
+Salience score: 5.0159542297478765e-05
+Mention text: world
+Mention type: COMMON
+
+
+Representative name for the entity: girls
+Entity type: PERSON
+Salience score: 4.952622839482501e-05
+Mention text: girls
+Mention type: COMMON
+
+
+Representative name for the entity: message
+Entity type: OTHER
+Salience score: 4.633985008695163e-05
+Mention text: message
+Mention type: COMMON
+
+
+Representative name for the entity: print
+Entity type: OTHER
+Salience score: 4.633985008695163e-05
+Mention text: print
+Mention type: COMMON
+
+
+Representative name for the entity: childhood obesity
+Entity type: OTHER
+Salience score: 4.632796117221005e-05
+Mention text: childhood obesity
+Mention type: COMMON
+
+
+Representative name for the entity: spotlight
+Entity type: OTHER
+Salience score: 4.628275928553194e-05
+Mention text: spotlight
+Mention type: COMMON
+
+
+Representative name for the entity: role
+Entity type: OTHER
+Salience score: 4.628275928553194e-05
+Mention text: role
+Mention type: COMMON
+
+
+Representative name for the entity: fashion
+Entity type: OTHER
+Salience score: 4.628275928553194e-05
+Mention text: fashion
+Mention type: COMMON
+
+
+Representative name for the entity: one
+Entity type: OTHER
+Salience score: 4.627735688700341e-05
+Mention text: one
+Mention type: COMMON
+
+
+Representative name for the entity: number
+Entity type: OTHER
+Salience score: 4.6272005420178175e-05
+Mention text: number
+Mention type: COMMON
+
+
+Representative name for the entity: Michelle Kwan
+Entity type: PERSON
+Salience score: 4.5941029384266585e-05
+mid: /m/011zg9
+wikipedia_url: https://en.wikipedia.org/wiki/Michelle_Kwan
+Mention text: Michelle Kwan
+Mention type: PROPER
+
+
+Representative name for the entity: One World: Together at Home
+Entity type: WORK_OF_ART
+Salience score: 4.3579027988016605e-05
+mid: /g/11fww6fjsy
+Mention text: One World: Together at Home
+Mention type: PROPER
+
+
+Representative name for the entity: Spotify
+Entity type: CONSUMER_GOOD
+Salience score: 4.357030047685839e-05
+mid: /m/04yhd6c
+wikipedia_url: https://en.wikipedia.org/wiki/Spotify
+Mention text: Spotify
+Mention type: PROPER
+
+
+Representative name for the entity: Betty Ford
+Entity type: PERSON
+Salience score: 4.3493855628184974e-05
+mid: /m/01qh2w
+wikipedia_url: https://en.wikipedia.org/wiki/Betty_Ford
+Mention text: Betty Ford
+Mention type: PROPER
+
+
+Representative name for the entity: eating
+Entity type: OTHER
+Salience score: 4.069685019203462e-05
+Mention text: eating
+Mention type: COMMON
+
+
+Representative name for the entity: mission
+Entity type: OTHER
+Salience score: 4.069685019203462e-05
+Mention text: mission
+Mention type: COMMON
+
+
+Representative name for the entity: protection
+Entity type: OTHER
+Salience score: 4.066616020281799e-05
+Mention text: protection
+Mention type: COMMON
+
+
+Representative name for the entity: wake
+Entity type: OTHER
+Salience score: 4.066616020281799e-05
+Mention text: wake
+Mention type: COMMON
+
+
+Representative name for the entity: bed
+Entity type: OTHER
+Salience score: 4.066122346557677e-05
+Mention text: bed
+Mention type: COMMON
+
+
+Representative name for the entity: campaign style
+Entity type: OTHER
+Salience score: 4.064670793013647e-05
+Mention text: campaign style
+Mention type: COMMON
+
+
+Representative name for the entity: sense
+Entity type: OTHER
+Salience score: 4.064670793013647e-05
+Mention text: sense
+Mention type: COMMON
+
+
+Representative name for the entity: alumni
+Entity type: PERSON
+Salience score: 4.063726373715326e-05
+Mention text: alumni
+Mention type: COMMON
+
+
+Representative name for the entity: cover
+Entity type: OTHER
+Salience score: 4.0632607124280185e-05
+Mention text: cover
+Mention type: COMMON
+
+
+Representative name for the entity: row
+Entity type: OTHER
+Salience score: 4.0632607124280185e-05
+Mention text: row
+Mention type: COMMON
+
+
+Representative name for the entity: People
+Entity type: PERSON
+Salience score: 3.88554617529735e-05
+Mention text: People
+Mention type: PROPER
+
+
+Representative name for the entity: Lady Gaga
+Entity type: PERSON
+Salience score: 3.8272206438705325e-05
+mid: /m/0478__m
+wikipedia_url: https://en.wikipedia.org/wiki/Lady_Gaga
+Mention text: Lady Gaga
+Mention type: PROPER
+
+
+Representative name for the entity: Laura Bush
+Entity type: PERSON
+Salience score: 3.8272206438705325e-05
+mid: /m/04g8d
+wikipedia_url: https://en.wikipedia.org/wiki/Laura_Bush
+Mention text: Laura Bush
+Mention type: PROPER
+
+
+Representative name for the entity: PBS
+Entity type: ORGANIZATION
+Salience score: 3.826835745712742e-05
+mid: /m/05xbx
+wikipedia_url: https://en.wikipedia.org/wiki/PBS
+Mention text: PBS
+Mention type: PROPER
+
+
+Representative name for the entity: Biography.com Editors
+Entity type: OTHER
+Salience score: 3.824958184850402e-05
+Mention text: Biography.com Editors
+Mention type: PROPER
+
+
+Representative name for the entity: A&E Television Networks
+Entity type: ORGANIZATION
+Salience score: 3.823866791208275e-05
+wikipedia_url: https://en.wikipedia.org/wiki/A&E_Networks
+mid: /m/06c2_t
+Mention text: A&amp;E Television Networks
+Mention type: PROPER
+
+
+Representative name for the entity: Latina Supreme Court Justice
+Entity type: WORK_OF_ART
+Salience score: 3.8204034353839234e-05
+Mention text: Latina Supreme Court Justice
+Mention type: PROPER
+
+
+Representative name for the entity: Sonia Sotomayor
+Entity type: PERSON
+Salience score: 3.8204034353839234e-05
+wikipedia_url: https://en.wikipedia.org/wiki/Sonia_Sotomayor
+mid: /m/06lvrr
+Mention text: Sonia Sotomayor
+Mention type: PROPER
+
+
+Representative name for the entity: Gardens Across America
+Entity type: ORGANIZATION
+Salience score: 3.417337211431004e-05
+Mention text: Gardens Across America
+Mention type: PROPER
+
+
+Representative name for the entity: Secret Service
+Entity type: ORGANIZATION
+Salience score: 3.415200626477599e-05
+wikipedia_url: https://en.wikipedia.org/wiki/United_States_Secret_Service
+mid: /m/0fynw
+Mention text: Secret Service
+Mention type: PROPER
+
+
+Representative name for the entity: World's Most Inspiring Women
+Entity type: PERSON
+Salience score: 3.413168451515958e-05
+Mention text: World's Most Inspiring Women
+Mention type: PROPER
+
+
+Representative name for the entity: Vanity Fair
+Entity type: ORGANIZATION
+Salience score: 2.733067231019959e-05
+wikipedia_url: https://en.wikipedia.org/wiki/Vanity_Fair_(magazine)
+mid: /m/01q2nh
+Mention text: Vanity Fair
+Mention type: PROPER
+
+
+Representative name for the entity: parents
+Entity type: PERSON
+Salience score: 2.6278799850842915e-05
+Mention text: parents
+Mention type: COMMON
+
+
+Representative name for the entity: American Grown: The Story of the White House Kitchen Garden
+Entity type: WORK_OF_ART
+Salience score: 2.4282364393002354e-05
+Mention text: American Grown: The Story of the White House Kitchen Garden
+Mention type: PROPER
+
+
+Representative name for the entity: Essence
+Entity type: OTHER
+Salience score: 2.400795892754104e-05
+Mention text: Essence
+Mention type: PROPER
+
+
+Representative name for the entity: Vogue
+Entity type: OTHER
+Salience score: 2.4002431018743664e-05
+wikipedia_url: https://en.wikipedia.org/wiki/Vogue_(magazine)
+mid: /m/01y5zy
+Mention text: Vogue
+Mention type: PROPER
+
+
+Representative name for the entity: Reuters
+Entity type: ORGANIZATION
+Salience score: 1.7234240658581257e-05
+wikipedia_url: https://en.wikipedia.org/wiki/Reuters
+mid: /m/0ps53
+Mention text: Reuters
+Mention type: PROPER
+
+
+Representative name for the entity: 2009
+Entity type: DATE
+Salience score: 0.0
+year: 2009
+Mention text: 2009
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 2017
+Entity type: DATE
+Salience score: 0.0
+year: 2017
+Mention text: 2017
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 2018
+Entity type: DATE
+Salience score: 0.0
+year: 2018
+Mention text: 2018
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: January 17, 1964
+Entity type: DATE
+Salience score: 0.0
+year: 1964
+month: 1
+day: 17
+Mention text: January 17, 1964
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 1981
+Entity type: DATE
+Salience score: 0.0
+year: 1981
+Mention text: 1981
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 1985
+Entity type: DATE
+Salience score: 0.0
+year: 1985
+Mention text: 1985
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 1988
+Entity type: DATE
+Salience score: 0.0
+year: 1988
+Mention text: 1988
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: October 3, 1992
+Entity type: DATE
+Salience score: 0.0
+year: 1992
+month: 10
+day: 3
+Mention text: October 3, 1992
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 1989
+Entity type: DATE
+Salience score: 0.0
+year: 1989
+Mention text: 1989
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 1988
+Entity type: DATE
+Salience score: 0.0
+year: 1988
+Mention text: 1988
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 1991
+Entity type: DATE
+Salience score: 0.0
+year: 1991
+Mention text: 1991
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 1993
+Entity type: DATE
+Salience score: 0.0
+year: 1993
+Mention text: 1993
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 1996
+Entity type: DATE
+Salience score: 0.0
+year: 1996
+Mention text: 1996
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 2002
+Entity type: DATE
+Salience score: 0.0
+year: 2002
+Mention text: 2002
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: May 2005
+Entity type: DATE
+Salience score: 0.0
+year: 2005
+month: 5
+Mention text: May 2005
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 2004
+Entity type: DATE
+Salience score: 0.0
+year: 2004
+Mention text: 2004
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 2007
+Entity type: DATE
+Salience score: 0.0
+year: 2007
+Mention text: 2007
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: January 20, 2009
+Entity type: DATE
+Salience score: 0.0
+year: 2009
+day: 20
+month: 1
+Mention text: January 20, 2009
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 2012
+Entity type: DATE
+Salience score: 0.0
+year: 2012
+Mention text: 2012
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: November 6, 2012
+Entity type: DATE
+Salience score: 0.0
+month: 11
+day: 6
+year: 2012
+Mention text: November 6, 2012
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: September 2012
+Entity type: DATE
+Salience score: 0.0
+month: 9
+year: 2012
+Mention text: September 2012
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: July 2016
+Entity type: DATE
+Salience score: 0.0
+year: 2016
+month: 7
+Mention text: July 2016
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 2008
+Entity type: DATE
+Salience score: 0.0
+year: 2008
+Mention text: 2008
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: January 13, 2017
+Entity type: DATE
+Salience score: 0.0
+year: 2017
+day: 13
+month: 1
+Mention text: January 13, 2017
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: November 2018
+Entity type: DATE
+Salience score: 0.0
+month: 11
+year: 2018
+Mention text: November 2018
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: March 2009
+Entity type: DATE
+Salience score: 0.0
+month: 3
+year: 2009
+Mention text: March 2009
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 2012
+Entity type: DATE
+Salience score: 0.0
+year: 2012
+Mention text: 2012
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 2012
+Entity type: DATE
+Salience score: 0.0
+year: 2012
+Mention text: 2012
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 1998
+Entity type: DATE
+Salience score: 0.0
+year: 1998
+Mention text: 1998
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 2001
+Entity type: DATE
+Salience score: 0.0
+year: 2001
+Mention text: 2001
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 2008
+Entity type: DATE
+Salience score: 0.0
+year: 2008
+Mention text: 2008
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: May 2006
+Entity type: DATE
+Salience score: 0.0
+year: 2006
+month: 5
+Mention text: May 2006
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: September 2007
+Entity type: DATE
+Salience score: 0.0
+month: 9
+year: 2007
+Mention text: September 2007
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 2008
+Entity type: DATE
+Salience score: 0.0
+year: 2008
+Mention text: 2008
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: January 21, 2013
+Entity type: DATE
+Salience score: 0.0
+month: 1
+day: 21
+year: 2013
+Mention text: January 21, 2013
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 2018
+Entity type: DATE
+Salience score: 0.0
+year: 2018
+Mention text: 2018
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: February 12, 2018
+Entity type: DATE
+Salience score: 0.0
+year: 2018
+day: 12
+month: 2
+Mention text: February 12, 2018
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: May 2018
+Entity type: DATE
+Salience score: 0.0
+year: 2018
+month: 5
+Mention text: May 2018
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: August 2019
+Entity type: DATE
+Salience score: 0.0
+year: 2019
+month: 8
+Mention text: August 2019
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 2015
+Entity type: DATE
+Salience score: 0.0
+year: 2015
+Mention text: 2015
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: February 2020
+Entity type: DATE
+Salience score: 0.0
+month: 2
+year: 2020
+Mention text: February 2020
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 2020
+Entity type: DATE
+Salience score: 0.0
+year: 2020
+Mention text: 2020
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 2020
+Entity type: DATE
+Salience score: 0.0
+year: 2020
+Mention text: 2020
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: June 21, 2021
+Entity type: DATE
+Salience score: 0.0
+month: 6
+year: 2021
+day: 21
+Mention text: June 21, 2021
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: April 2, 2014
+Entity type: DATE
+Salience score: 0.0
+month: 4
+day: 2
+year: 2014
+Mention text: April 2, 2014
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 2008
+Entity type: DATE
+Salience score: 0.0
+year: 2008
+Mention text: 2008
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 2012
+Entity type: DATE
+Salience score: 0.0
+year: 2012
+Mention text: 2012
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 2001
+Entity type: DATE
+Salience score: 0.0
+year: 2001
+Mention text: 2001
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 2016
+Entity type: DATE
+Salience score: 0.0
+year: 2016
+Mention text: 2016
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: May 26, 2009
+Entity type: DATE
+Salience score: 0.0
+month: 5
+day: 26
+year: 2009
+Mention text: May 26, 2009
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 2011
+Entity type: DATE
+Salience score: 0.0
+year: 2011
+Mention text: 2011
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 2019
+Entity type: DATE
+Salience score: 0.0
+year: 2019
+Mention text: 2019
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 02138
+Entity type: ADDRESS
+Salience score: 0.0
+postal_code: 02138
+country: US
+locality: Cambridge
+broad_region: Massachusetts
+Mention text: 02138
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 25
+Entity type: NUMBER
+Salience score: 0.0
+value: 25
+Mention text: 25
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 2006
+Entity type: NUMBER
+Salience score: 0.0
+value: 2006
+Mention text: 2006
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 2021
+Entity type: NUMBER
+Salience score: 0.0
+value: 2021
+Mention text: 2021
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 2
+Entity type: NUMBER
+Salience score: 0.0
+value: 2
+Mention text: 2
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 44
+Entity type: NUMBER
+Salience score: 0.0
+value: 44
+Mention text: 44
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 2001
+Entity type: NUMBER
+Salience score: 0.0
+value: 2001
+Mention text: 2001
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 21
+Entity type: NUMBER
+Salience score: 0.0
+value: 21
+Mention text: 21
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 2008
+Entity type: NUMBER
+Salience score: 0.0
+value: 2008
+Mention text: 2008
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 26
+Entity type: NUMBER
+Salience score: 0.0
+value: 26
+Mention text: 26
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 2019
+Entity type: NUMBER
+Salience score: 0.0
+value: 2019
+Mention text: 2019
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 2012
+Entity type: NUMBER
+Salience score: 0.0
+value: 2012
+Mention text: 2012
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 1992
+Entity type: NUMBER
+Salience score: 0.0
+value: 1992
+Mention text: 1992
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 2018
+Entity type: NUMBER
+Salience score: 0.0
+value: 2018
+Mention text: 2018
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 1998
+Entity type: NUMBER
+Salience score: 0.0
+value: 1998
+Mention text: 1998
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 21
+Entity type: NUMBER
+Salience score: 0.0
+value: 21
+Mention text: 21
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 2007
+Entity type: NUMBER
+Salience score: 0.0
+value: 2007
+Mention text: 2007
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 2018
+Entity type: NUMBER
+Salience score: 0.0
+value: 2018
+Mention text: 2018
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 2012
+Entity type: NUMBER
+Salience score: 0.0
+value: 2012
+Mention text: 2012
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: four
+Entity type: NUMBER
+Salience score: 0.0
+value: 4
+Mention text: four
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: two
+Entity type: NUMBER
+Salience score: 0.0
+value: 2
+Mention text: two
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 2019
+Entity type: NUMBER
+Salience score: 0.0
+value: 2019
+Mention text: 2019
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: two
+Entity type: NUMBER
+Salience score: 0.0
+value: 2
+Mention text: two
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 1988
+Entity type: NUMBER
+Salience score: 0.0
+value: 1988
+Mention text: 1988
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 2005
+Entity type: NUMBER
+Salience score: 0.0
+value: 2005
+Mention text: 2005
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 2018
+Entity type: NUMBER
+Salience score: 0.0
+value: 2018
+Mention text: 2018
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 17
+Entity type: NUMBER
+Salience score: 0.0
+value: 17
+Mention text: 17
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 2001
+Entity type: NUMBER
+Salience score: 0.0
+value: 2001
+Mention text: 2001
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 2009
+Entity type: NUMBER
+Salience score: 0.0
+value: 2009
+Mention text: 2009
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 2020
+Entity type: NUMBER
+Salience score: 0.0
+value: 2020
+Mention text: 2020
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 2009
+Entity type: NUMBER
+Salience score: 0.0
+value: 2009
+Mention text: 2009
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 2012
+Entity type: NUMBER
+Salience score: 0.0
+value: 2012
+Mention text: 2012
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 02138
+Entity type: NUMBER
+Salience score: 0.0
+value: 2138
+Mention text: 02138
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 2018
+Entity type: NUMBER
+Salience score: 0.0
+value: 2018
+Mention text: 2018
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 1991
+Entity type: NUMBER
+Salience score: 0.0
+value: 1991
+Mention text: 1991
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 2004
+Entity type: NUMBER
+Salience score: 0.0
+value: 2004
+Mention text: 2004
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 2016
+Entity type: NUMBER
+Salience score: 0.0
+value: 2016
+Mention text: 2016
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 2009
+Entity type: NUMBER
+Salience score: 0.0
+value: 2009
+Mention text: 2009
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 1993
+Entity type: NUMBER
+Salience score: 0.0
+value: 1993
+Mention text: 1993
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: two
+Entity type: NUMBER
+Salience score: 0.0
+value: 2
+Mention text: two
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 2009
+Entity type: NUMBER
+Salience score: 0.0
+value: 2009
+Mention text: 2009
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 1,100
+Entity type: NUMBER
+Salience score: 0.0
+value: 1100
+Mention text: 1,100
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 12
+Entity type: NUMBER
+Salience score: 0.0
+value: 12
+Mention text: 12
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 2014
+Entity type: NUMBER
+Salience score: 0.0
+value: 2014
+Mention text: 2014
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 1981
+Entity type: NUMBER
+Salience score: 0.0
+value: 1981
+Mention text: 1981
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 2017
+Entity type: NUMBER
+Salience score: 0.0
+value: 2017
+Mention text: 2017
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 2018
+Entity type: NUMBER
+Salience score: 0.0
+value: 2018
+Mention text: 2018
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 2012
+Entity type: NUMBER
+Salience score: 0.0
+value: 2012
+Mention text: 2012
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 2013
+Entity type: NUMBER
+Salience score: 0.0
+value: 2013
+Mention text: 2013
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 2020
+Entity type: NUMBER
+Salience score: 0.0
+value: 2020
+Mention text: 2020
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 2002
+Entity type: NUMBER
+Salience score: 0.0
+value: 2002
+Mention text: 2002
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 2008
+Entity type: NUMBER
+Salience score: 0.0
+value: 2008
+Mention text: 2008
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 44
+Entity type: NUMBER
+Salience score: 0.0
+value: 44
+Mention text: 44
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 13
+Entity type: NUMBER
+Salience score: 0.0
+value: 13
+Mention text: 13
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: one
+Entity type: NUMBER
+Salience score: 0.0
+value: 1
+Mention text: one
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 21
+Entity type: NUMBER
+Salience score: 0.0
+value: 21
+Mention text: 21
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 2015
+Entity type: NUMBER
+Salience score: 0.0
+value: 2015
+Mention text: 2015
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 1985
+Entity type: NUMBER
+Salience score: 0.0
+value: 1985
+Mention text: 1985
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 3
+Entity type: NUMBER
+Salience score: 0.0
+value: 3
+Mention text: 3
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 23
+Entity type: NUMBER
+Salience score: 0.0
+value: 23
+Mention text: 23
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 2016
+Entity type: NUMBER
+Salience score: 0.0
+value: 2016
+Mention text: 2016
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 6
+Entity type: NUMBER
+Salience score: 0.0
+value: 6
+Mention text: 6
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 58
+Entity type: NUMBER
+Salience score: 0.0
+value: 58
+Mention text: 58
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 2012
+Entity type: NUMBER
+Salience score: 0.0
+value: 2012
+Mention text: 2012
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 2017
+Entity type: NUMBER
+Salience score: 0.0
+value: 2017
+Mention text: 2017
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 2008
+Entity type: NUMBER
+Salience score: 0.0
+value: 2008
+Mention text: 2008
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 1964
+Entity type: NUMBER
+Salience score: 0.0
+value: 1964
+Mention text: 1964
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: five
+Entity type: NUMBER
+Salience score: 0.0
+value: 5
+Mention text: five
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 2011
+Entity type: NUMBER
+Salience score: 0.0
+value: 2011
+Mention text: 2011
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: two
+Entity type: NUMBER
+Salience score: 0.0
+value: 2
+Mention text: two
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: Fourteen
+Entity type: NUMBER
+Salience score: 0.0
+value: 14
+Mention text: Fourteen
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 2008
+Entity type: NUMBER
+Salience score: 0.0
+value: 2008
+Mention text: 2008
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 100
+Entity type: NUMBER
+Salience score: 0.0
+value: 100
+Mention text: 100
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 2020
+Entity type: NUMBER
+Salience score: 0.0
+value: 2020
+Mention text: 2020
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 44
+Entity type: NUMBER
+Salience score: 0.0
+value: 44
+Mention text: 44
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 2007
+Entity type: NUMBER
+Salience score: 0.0
+value: 2007
+Mention text: 2007
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 20
+Entity type: NUMBER
+Salience score: 0.0
+value: 20
+Mention text: 20
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 1.7 million
+Entity type: NUMBER
+Salience score: 0.0
+value: 1700000.000000
+Mention text: 1.7 million
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 1996
+Entity type: NUMBER
+Salience score: 0.0
+value: 1996
+Mention text: 1996
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: two
+Entity type: NUMBER
+Salience score: 0.0
+value: 2
+Mention text: two
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 2012
+Entity type: NUMBER
+Salience score: 0.0
+value: 2012
+Mention text: 2012
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 1988
+Entity type: NUMBER
+Salience score: 0.0
+value: 1988
+Mention text: 1988
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: One
+Entity type: NUMBER
+Salience score: 0.0
+value: 1
+Mention text: One
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: two
+Entity type: NUMBER
+Salience score: 0.0
+value: 2
+Mention text: two
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 1989
+Entity type: NUMBER
+Salience score: 0.0
+value: 1989
+Mention text: 1989
+Mention type: TYPE_UNKNOWN
+
+
+Language of the text: en
+
+D:\Gocha\learn>

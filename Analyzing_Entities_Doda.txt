@@ -1,0 +1,5361 @@
+product: Analyzing Entities (https://cloud.google.com/natural-language/docs/analyzing-entities)
+link: https://en.wikipedia.org/wiki/Doda_(singer)
+
+
+
+
+D:\Gocha\learn>python essential_words2.py
+Enter the web address to get the essential wordshttps://en.wikipedia.org/wiki/Doda_(singer)
+Representative name for the entity: Dorota Rabczewska-Stępień
+Entity type: PERSON
+Salience score: 0.0720861405134201
+mid: /m/03xpggh
+wikipedia_url: https://en.wikipedia.org/wiki/Doda_(singer)
+Mention text: Dorota Rabczewska-Stępień
+Mention type: PROPER
+Mention text: singer-songwriter
+Mention type: COMMON
+Mention text: Dorota
+Mention type: PROPER
+Mention text: Dorota
+Mention type: PROPER
+Mention text: Doda
+Mention type: PROPER
+Mention text: Doda
+Mention type: PROPER
+Mention text: Doda
+Mention type: PROPER
+Mention text: Doda
+Mention type: PROPER
+Mention text: Doda
+Mention type: PROPER
+Mention text: Doda
+Mention type: PROPER
+Mention text: Doda
+Mention type: PROPER
+Mention text: Doda
+Mention type: PROPER
+Mention text: Doda
+Mention type: PROPER
+Mention text: Doda
+Mention type: PROPER
+Mention text: Doda
+Mention type: PROPER
+Mention text: Doda
+Mention type: PROPER
+Mention text: Doda
+Mention type: PROPER
+Mention text: Doda
+Mention type: PROPER
+Mention text: Doda
+Mention type: PROPER
+Mention text: Doda
+Mention type: PROPER
+Mention text: Doda
+Mention type: PROPER
+Mention text: Doda
+Mention type: PROPER
+Mention text: Doda
+Mention type: PROPER
+Mention text: Doda
+Mention type: PROPER
+Mention text: Doda
+Mention type: PROPER
+Mention text: Doda
+Mention type: PROPER
+Mention text: Doda
+Mention type: PROPER
+Mention text: Doda
+Mention type: PROPER
+Mention text: Doda
+Mention type: PROPER
+Mention text: Doda
+Mention type: PROPER
+Mention text: Doda
+Mention type: PROPER
+Mention text: Doda
+Mention type: PROPER
+Mention text: Doda
+Mention type: PROPER
+Mention text: Doda
+Mention type: PROPER
+Mention text: Doda
+Mention type: PROPER
+Mention text: Doda
+Mention type: PROPER
+Mention text: Doda
+Mention type: PROPER
+Mention text: Doda
+Mention type: PROPER
+Mention text: Doda
+Mention type: PROPER
+Mention text: Doda
+Mention type: PROPER
+Mention text: Doda
+Mention type: PROPER
+Mention text: Doda
+Mention type: PROPER
+Mention text: Dorota Rabczewska
+Mention type: PROPER
+Mention text: Doda
+Mention type: PROPER
+Mention text: Doda
+Mention type: PROPER
+Mention text: Doda
+Mention type: PROPER
+Mention text: Doda
+Mention type: PROPER
+Mention text: Doda
+Mention type: PROPER
+Mention text: Doda
+Mention type: PROPER
+
+
+Representative name for the entity: Polish
+Entity type: LOCATION
+Salience score: 0.048088669776916504
+mid: /m/05qqm
+wikipedia_url: https://en.wikipedia.org/wiki/Polish_language
+Mention text: Polish
+Mention type: PROPER
+Mention text: Polish
+Mention type: PROPER
+Mention text: Polish
+Mention type: PROPER
+Mention text: Polish
+Mention type: PROPER
+Mention text: Polish
+Mention type: PROPER
+Mention text: Polish
+Mention type: PROPER
+Mention text: Polish
+Mention type: PROPER
+Mention text: Polish
+Mention type: PROPER
+Mention text: Polish
+Mention type: PROPER
+Mention text: Polish
+Mention type: PROPER
+Mention text: Polish
+Mention type: PROPER
+Mention text: Polish
+Mention type: PROPER
+Mention text: Polish
+Mention type: PROPER
+Mention text: Polish
+Mention type: PROPER
+Mention text: Polish
+Mention type: PROPER
+Mention text: Polish
+Mention type: PROPER
+Mention text: Polish
+Mention type: PROPER
+Mention text: Polish
+Mention type: PROPER
+Mention text: Polish
+Mention type: PROPER
+Mention text: Polish
+Mention type: PROPER
+Mention text: Polish
+Mention type: PROPER
+
+
+Representative name for the entity: Virgin
+Entity type: ORGANIZATION
+Salience score: 0.027314482256770134
+wikipedia_url: https://en.wikipedia.org/wiki/Virgin_(band)
+mid: /m/01n5_s1
+Mention text: rock band
+Mention type: COMMON
+Mention text: Virgin
+Mention type: PROPER
+Mention text: Virgin
+Mention type: PROPER
+Mention text: Virgin
+Mention type: PROPER
+Mention text: Virgin
+Mention type: PROPER
+Mention text: hard rock band
+Mention type: COMMON
+Mention text: Virgin
+Mention type: PROPER
+Mention text: Virgin
+Mention type: PROPER
+Mention text: Virgin
+Mention type: PROPER
+Mention text: Virgin
+Mention type: PROPER
+
+
+Representative name for the entity: Poland
+Entity type: LOCATION
+Salience score: 0.012957058846950531
+mid: /m/05qhw
+wikipedia_url: https://en.wikipedia.org/wiki/Poland
+Mention text: Poland
+Mention type: PROPER
+Mention text: Poland
+Mention type: PROPER
+Mention text: Poland
+Mention type: PROPER
+Mention text: Poland
+Mention type: PROPER
+Mention text: Poland
+Mention type: PROPER
+Mention text: Poland
+Mention type: PROPER
+Mention text: Poland
+Mention type: PROPER
+Mention text: Poland
+Mention type: PROPER
+Mention text: Poland
+Mention type: PROPER
+Mention text: Poland
+Mention type: PROPER
+
+
+Representative name for the entity: studio album
+Entity type: WORK_OF_ART
+Salience score: 0.010061413049697876
+Mention text: studio album
+Mention type: COMMON
+Mention text: studio album
+Mention type: COMMON
+
+
+Representative name for the entity: album
+Entity type: WORK_OF_ART
+Salience score: 0.009003296494483948
+Mention text: album
+Mention type: COMMON
+Mention text: album
+Mention type: COMMON
+Mention text: album
+Mention type: COMMON
+Mention text: album
+Mention type: COMMON
+
+
+Representative name for the entity: Diamond Bitch
+Entity type: WORK_OF_ART
+Salience score: 0.008228815160691738
+wikipedia_url: https://en.wikipedia.org/wiki/Diamond_Bitch
+mid: /m/03xzfz3
+Mention text: Diamond Bitch
+Mention type: PROPER
+Mention text: Diamond Bitch
+Mention type: PROPER
+Mention text: studio album
+Mention type: COMMON
+Mention text: Diamond Bitch
+Mention type: PROPER
+Mention text: Diamond Bitch
+Mention type: PROPER
+Mention text: Diamond Bitch
+Mention type: PROPER
+
+
+Representative name for the entity: Radosław Majdan
+Entity type: PERSON
+Salience score: 0.008024093694984913
+mid: /m/08r593
+wikipedia_url: https://en.wikipedia.org/wiki/Radosław_Majdan
+Mention text: husband
+Mention type: COMMON
+Mention text: Radosław Majdan
+Mention type: PROPER
+Mention text: goalkeeper
+Mention type: COMMON
+Mention text: Radosław Majdan
+Mention type: PROPER
+
+
+Representative name for the entity: studio album
+Entity type: WORK_OF_ART
+Salience score: 0.008000521920621395
+Mention text: studio album
+Mention type: COMMON
+Mention text: studio album
+Mention type: COMMON
+
+
+Representative name for the entity: recipient
+Entity type: PERSON
+Salience score: 0.006493294145911932
+Mention text: recipient
+Mention type: COMMON
+
+
+Representative name for the entity: feature film
+Entity type: WORK_OF_ART
+Salience score: 0.0054618604481220245
+Mention text: feature film
+Mention type: COMMON
+Mention text: feature film
+Mention type: COMMON
+
+
+Representative name for the entity: one
+Entity type: PERSON
+Salience score: 0.005436095874756575
+Mention text: one
+Mention type: COMMON
+
+
+Representative name for the entity: Ficca
+Entity type: PERSON
+Salience score: 0.004667977336794138
+mid: /m/03g22rw
+wikipedia_url: https://en.wikipedia.org/wiki/Ficca
+Mention text: Ficca
+Mention type: PROPER
+Mention text: Ficca
+Mention type: PROPER
+Mention text: Ficca
+Mention type: PROPER
+Mention text: Ficca
+Mention type: PROPER
+
+
+Representative name for the entity: Viva!
+Entity type: ORGANIZATION
+Salience score: 0.003467902773991227
+Mention text: magazine
+Mention type: COMMON
+Mention text: Viva!
+Mention type: PROPER
+
+
+Representative name for the entity: breakthrough
+Entity type: EVENT
+Salience score: 0.003423792775720358
+Mention text: breakthrough
+Mention type: COMMON
+
+
+Representative name for the entity: producer
+Entity type: PERSON
+Salience score: 0.0032820571213960648
+Mention text: producer
+Mention type: COMMON
+
+
+Representative name for the entity: Dżaga
+Entity type: WORK_OF_ART
+Salience score: 0.0031006482895463705
+mid: /g/1q5jd2gf9
+Mention text: lead single
+Mention type: COMMON
+Mention text: Dżaga
+Mention type: PROPER
+Mention text: Dżaga
+Mention type: PROPER
+
+
+Representative name for the entity: studio albums
+Entity type: WORK_OF_ART
+Salience score: 0.003033703425899148
+Mention text: studio albums
+Mention type: COMMON
+
+
+Representative name for the entity: albums
+Entity type: WORK_OF_ART
+Salience score: 0.003025392070412636
+Mention text: albums
+Mention type: COMMON
+
+
+Representative name for the entity: band
+Entity type: ORGANIZATION
+Salience score: 0.0029809048864990473
+Mention text: band
+Mention type: COMMON
+
+
+Representative name for the entity: album
+Entity type: WORK_OF_ART
+Salience score: 0.0029790133703500032
+Mention text: album
+Mention type: COMMON
+Mention text: album
+Mention type: COMMON
+
+
+Representative name for the entity: Wanda
+Entity type: PERSON
+Salience score: 0.0029576136730611324
+Mention text: Wanda
+Mention type: PROPER
+
+
+Representative name for the entity: actress
+Entity type: PERSON
+Salience score: 0.002883089706301689
+Mention text: actress
+Mention type: COMMON
+
+
+Representative name for the entity: television personality
+Entity type: OTHER
+Salience score: 0.002883089706301689
+Mention text: television personality
+Mention type: COMMON
+
+
+Representative name for the entity: single
+Entity type: WORK_OF_ART
+Salience score: 0.002826460637152195
+Mention text: single
+Mention type: COMMON
+Mention text: ballad
+Mention type: COMMON
+
+
+Representative name for the entity: Viewers' Choice Award
+Entity type: OTHER
+Salience score: 0.0027283672243356705
+Mention text: Viewers' Choice Award
+Mention type: PROPER
+
+
+Representative name for the entity: singers
+Entity type: PERSON
+Salience score: 0.002689225599169731
+Mention text: singers
+Mention type: COMMON
+
+
+Representative name for the entity: group
+Entity type: ORGANIZATION
+Salience score: 0.0026608030311763287
+Mention text: group
+Mention type: COMMON
+
+
+Representative name for the entity: one
+Entity type: PERSON
+Salience score: 0.0023345299996435642
+Mention text: one
+Mention type: COMMON
+
+
+Representative name for the entity: debut
+Entity type: EVENT
+Salience score: 0.0023113726638257504
+Mention text: debut
+Mention type: COMMON
+Mention text: debut
+Mention type: COMMON
+
+
+Representative name for the entity: artists
+Entity type: PERSON
+Salience score: 0.0022641669493168592
+Mention text: artists
+Mention type: COMMON
+
+
+Representative name for the entity: Znak pokoju
+Entity type: WORK_OF_ART
+Salience score: 0.002251623198390007
+mid: /g/11c5s_58q4
+Mention text: single
+Mention type: COMMON
+Mention text: Znak pokoju
+Mention type: PROPER
+
+
+Representative name for the entity: Bimbo Tour
+Entity type: EVENT
+Salience score: 0.002209197962656617
+Mention text: concert tour
+Mention type: COMMON
+Mention text: Bimbo Tour
+Mention type: PROPER
+
+
+Representative name for the entity: music videos
+Entity type: WORK_OF_ART
+Salience score: 0.0021447327453643084
+Mention text: music videos
+Mention type: COMMON
+
+
+Representative name for the entity: artist
+Entity type: PERSON
+Salience score: 0.002131297718733549
+Mention text: artist
+Mention type: COMMON
+
+
+Representative name for the entity: collaboration
+Entity type: OTHER
+Salience score: 0.0021224028896540403
+Mention text: collaboration
+Mention type: COMMON
+
+
+Representative name for the entity: number
+Entity type: OTHER
+Salience score: 0.0019659698009490967
+Mention text: number
+Mention type: COMMON
+
+
+Representative name for the entity: group
+Entity type: ORGANIZATION
+Salience score: 0.001943931682035327
+Mention text: group
+Mention type: COMMON
+
+
+Representative name for the entity: XXX
+Entity type: OTHER
+Salience score: 0.001926554599776864
+Mention text: XXX
+Mention type: COMMON
+Mention text: XXX
+Mention type: COMMON
+Mention text: XXX
+Mention type: COMMON
+
+
+Representative name for the entity: Rafał
+Entity type: PERSON
+Salience score: 0.0019009601091966033
+Mention text: half-brother
+Mention type: COMMON
+Mention text: Rafał
+Mention type: PROPER
+Mention text: road manager
+Mention type: COMMON
+
+
+Representative name for the entity: list
+Entity type: OTHER
+Salience score: 0.0016951477155089378
+Mention text: list
+Mention type: COMMON
+
+
+Representative name for the entity: list
+Entity type: OTHER
+Salience score: 0.0016929514240473509
+Mention text: list
+Mention type: COMMON
+
+
+Representative name for the entity: lists
+Entity type: OTHER
+Salience score: 0.001687494688667357
+Mention text: lists
+Mention type: COMMON
+
+
+Representative name for the entity: Bimbo
+Entity type: ORGANIZATION
+Salience score: 0.0016696590464562178
+wikipedia_url: https://en.wikipedia.org/wiki/Bimbo_(Virgin_album)
+mid: /m/01n5_qz
+Mention text: Bimbo
+Mention type: PROPER
+Mention text: Bimbo
+Mention type: PROPER
+
+
+Representative name for the entity: winner
+Entity type: PERSON
+Salience score: 0.0016637827502563596
+Mention text: winner
+Mention type: COMMON
+
+
+Representative name for the entity: performances
+Entity type: EVENT
+Salience score: 0.001567131606861949
+Mention text: performances
+Mention type: COMMON
+
+
+Representative name for the entity: member
+Entity type: PERSON
+Salience score: 0.001561593497171998
+Mention text: member
+Mention type: COMMON
+
+
+Representative name for the entity: women
+Entity type: PERSON
+Salience score: 0.0015422739088535309
+Mention text: women
+Mention type: COMMON
+
+
+Representative name for the entity: women
+Entity type: PERSON
+Salience score: 0.0015391064807772636
+Mention text: women
+Mention type: COMMON
+
+
+Representative name for the entity: show business
+Entity type: OTHER
+Salience score: 0.0015377035597339272
+Mention text: show business
+Mention type: COMMON
+
+
+Representative name for the entity: Riotka Tour
+Entity type: EVENT
+Salience score: 0.001524232211522758
+Mention text: concert tour
+Mention type: COMMON
+Mention text: Riotka Tour
+Mention type: PROPER
+Mention text: Riotka Tour
+Mention type: PROPER
+
+
+Representative name for the entity: głównych
+Entity type: PERSON
+Salience score: 0.001513535506092012
+Mention text: głównych
+Mention type: COMMON
+Mention text: głównych
+Mention type: COMMON
+
+
+Representative name for the entity: victim
+Entity type: PERSON
+Salience score: 0.0014871928142383695
+Mention text: Some
+Mention type: COMMON
+Mention text: victim
+Mention type: COMMON
+
+
+Representative name for the entity: MTV Europe Music Award
+Entity type: OTHER
+Salience score: 0.0014504414284601808
+wikipedia_url: https://en.wikipedia.org/wiki/MTV_Europe_Music_Awards
+mid: /m/03k5w9
+Mention text: MTV Europe Music Award
+Mention type: PROPER
+Mention text: MTV Europe Music Awards
+Mention type: PROPER
+
+
+Representative name for the entity: terms
+Entity type: OTHER
+Salience score: 0.001383336610160768
+Mention text: terms
+Mention type: COMMON
+
+
+Representative name for the entity: prizes
+Entity type: OTHER
+Salience score: 0.001383336610160768
+Mention text: prizes
+Mention type: COMMON
+
+
+Representative name for the entity: fame
+Entity type: OTHER
+Salience score: 0.0013715856475755572
+Mention text: fame
+Mention type: COMMON
+
+
+Representative name for the entity: The Seven Temptations Tour
+Entity type: EVENT
+Salience score: 0.0013699752744287252
+mid: /g/120mys64
+wikipedia_url: https://es.wikipedia.org/wiki/The_Seven_Temptations_Tour
+Mention text: headling tour
+Mention type: COMMON
+Mention text: The Seven Temptations Tour
+Mention type: PROPER
+
+
+Representative name for the entity: Nie daj się
+Entity type: WORK_OF_ART
+Salience score: 0.001367416582070291
+mid: /g/1q5j2fr46
+Mention text: hit
+Mention type: COMMON
+Mention text: Nie daj się
+Mention type: PROPER
+
+
+Representative name for the entity: acting debut
+Entity type: OTHER
+Salience score: 0.0013621713733300567
+Mention text: acting debut
+Mention type: COMMON
+
+
+Representative name for the entity: history
+Entity type: OTHER
+Salience score: 0.0013579645892605186
+Mention text: history
+Mention type: COMMON
+
+
+Representative name for the entity: celebrities
+Entity type: PERSON
+Salience score: 0.0013518325285986066
+Mention text: celebrities
+Mention type: COMMON
+
+
+Representative name for the entity: stars
+Entity type: OTHER
+Salience score: 0.0013506001560017467
+Mention text: stars
+Mention type: COMMON
+
+
+Representative name for the entity: ranking
+Entity type: OTHER
+Salience score: 0.0013506001560017467
+Mention text: ranking
+Mention type: COMMON
+
+
+Representative name for the entity: Behemoth
+Entity type: ORGANIZATION
+Salience score: 0.0012960911262780428
+wikipedia_url: https://en.wikipedia.org/wiki/Behemoth_(band)
+mid: /m/01rgvm
+Mention text: Behemoth
+Mention type: PROPER
+Mention text: death metal group
+Mention type: COMMON
+Mention text: Behemoth
+Mention type: PROPER
+
+
+Representative name for the entity: album
+Entity type: WORK_OF_ART
+Salience score: 0.0011928483145311475
+Mention text: album
+Mention type: COMMON
+
+
+Representative name for the entity: album
+Entity type: WORK_OF_ART
+Salience score: 0.0011912460904568434
+Mention text: album
+Mention type: COMMON
+
+
+Representative name for the entity: Kac Wawa
+Entity type: WORK_OF_ART
+Salience score: 0.001142095890827477
+mid: /m/0m0nn4g
+wikipedia_url: https://en.wikipedia.org/wiki/Kac_Wawa
+Mention text: song
+Mention type: COMMON
+Mention text: Kac Wawa
+Mention type: PROPER
+
+
+Representative name for the entity: Poles
+Entity type: PERSON
+Salience score: 0.0011275061406195164
+Mention text: Poles
+Mention type: PROPER
+Mention text: Poles
+Mention type: PROPER
+
+
+Representative name for the entity: studio album
+Entity type: WORK_OF_ART
+Salience score: 0.0011227527866140008
+Mention text: studio album
+Mention type: COMMON
+
+
+Representative name for the entity: studio album
+Entity type: WORK_OF_ART
+Salience score: 0.001121126115322113
+Mention text: studio album
+Mention type: COMMON
+
+
+Representative name for the entity: group
+Entity type: ORGANIZATION
+Salience score: 0.0011048224987462163
+Mention text: group
+Mention type: COMMON
+
+
+Representative name for the entity: Serce na dłoni
+Entity type: WORK_OF_ART
+Salience score: 0.001094602164812386
+mid: /m/0mync5d
+wikipedia_url: https://ru.wikipedia.org/wiki/Сердце_на_ладони
+Mention text: film
+Mention type: COMMON
+Mention text: Serce na dłoni
+Mention type: PROPER
+
+
+Representative name for the entity: Asterix and the Vikings
+Entity type: WORK_OF_ART
+Salience score: 0.0010861671762540936
+mid: /m/0ck650
+wikipedia_url: https://en.wikipedia.org/wiki/Asterix_and_the_Vikings
+Mention text: film
+Mention type: COMMON
+Mention text: Asterix and the Vikings
+Mention type: PROPER
+
+
+Representative name for the entity: Szansa
+Entity type: WORK_OF_ART
+Salience score: 0.001035033375956118
+mid: /g/11c5swfqzj
+Mention text: Szansa
+Mention type: PROPER
+
+
+Representative name for the entity: singles
+Entity type: WORK_OF_ART
+Salience score: 0.001005911035463214
+Mention text: singles
+Mention type: COMMON
+
+
+Representative name for the entity: Poles
+Entity type: LOCATION
+Salience score: 0.001001770724542439
+Mention text: Poles
+Mention type: PROPER
+
+
+Representative name for the entity: copies
+Entity type: CONSUMER_GOOD
+Salience score: 0.00098811078350991
+Mention text: copies
+Mention type: COMMON
+
+
+Representative name for the entity: disbandment
+Entity type: OTHER
+Salience score: 0.0009664422832429409
+Mention text: disbandment
+Mention type: COMMON
+
+
+Representative name for the entity: studio album
+Entity type: WORK_OF_ART
+Salience score: 0.0009562289924360812
+Mention text: studio album
+Mention type: COMMON
+
+
+Representative name for the entity: reissue
+Entity type: OTHER
+Salience score: 0.0009291231981478631
+Mention text: reissue
+Mention type: COMMON
+
+
+Representative name for the entity: Aniela
+Entity type: PERSON
+Salience score: 0.0009266309789381921
+Mention text: Aniela
+Mention type: PROPER
+
+
+Representative name for the entity: Grand Prix
+Entity type: ORGANIZATION
+Salience score: 0.0009262068197131157
+Mention text: Grand Prix
+Mention type: PROPER
+
+
+Representative name for the entity: Warsaw
+Entity type: LOCATION
+Salience score: 0.0009160980698652565
+wikipedia_url: https://en.wikipedia.org/wiki/Warsaw
+mid: /m/081m_
+Mention text: Warsaw
+Mention type: PROPER
+Mention text: Warsaw
+Mention type: PROPER
+Mention text: Warsaw
+Mention type: PROPER
+
+
+Representative name for the entity: one
+Entity type: OTHER
+Salience score: 0.0008805973338894546
+Mention text: one
+Mention type: COMMON
+
+
+Representative name for the entity: one
+Entity type: OTHER
+Salience score: 0.0008764549274928868
+Mention text: one
+Mention type: COMMON
+
+
+Representative name for the entity: Choni
+Entity type: LOCATION
+Salience score: 0.0008622634341008961
+mid: /g/11c5wydv5r
+wikipedia_url: https://pl.wikipedia.org/wiki/Choni_(album)
+Mention text: Choni
+Mention type: PROPER
+Mention text: Choni
+Mention type: PROPER
+
+
+Representative name for the entity: Pitbull
+Entity type: PERSON
+Salience score: 0.0008606285555288196
+wikipedia_url: https://en.wikipedia.org/wiki/Pitbull_(rapper)
+mid: /m/03f0qd7
+Mention text: Pitbull
+Mention type: PROPER
+Mention text: Pitbull
+Mention type: PROPER
+
+
+Representative name for the entity: electro-ballad
+Entity type: WORK_OF_ART
+Salience score: 0.0008584554889239371
+Mention text: single
+Mention type: COMMON
+Mention text: electro-ballad
+Mention type: COMMON
+
+
+Representative name for the entity: pokus głównych
+Entity type: OTHER
+Salience score: 0.0008538560941815376
+Mention text: pokus głównych
+Mention type: PROPER
+Mention text: pokus głównych
+Mention type: PROPER
+
+
+Representative name for the entity: album
+Entity type: WORK_OF_ART
+Salience score: 0.00085024832515046
+Mention text: album
+Mention type: COMMON
+
+
+Representative name for the entity: Riotka
+Entity type: WORK_OF_ART
+Salience score: 0.0008385224500671029
+mid: /g/11b6vl4cyw
+wikipedia_url: https://pl.wikipedia.org/wiki/Riotka
+Mention text: Riotka
+Mention type: PROPER
+Mention text: Riotka
+Mention type: PROPER
+
+
+Representative name for the entity: Dog
+Entity type: PERSON
+Salience score: 0.0008190057124011219
+Mention text: Dog
+Mention type: PROPER
+
+
+Representative name for the entity: couple
+Entity type: PERSON
+Salience score: 0.0008158212876878679
+Mention text: couple
+Mention type: COMMON
+
+
+Representative name for the entity: singles
+Entity type: WORK_OF_ART
+Salience score: 0.0008073754725046456
+Mention text: singles
+Mention type: COMMON
+
+
+Representative name for the entity: studio album
+Entity type: WORK_OF_ART
+Salience score: 0.0008052836637943983
+Mention text: studio album
+Mention type: COMMON
+
+
+Representative name for the entity: CNN
+Entity type: ORGANIZATION
+Salience score: 0.0008024382987059653
+mid: /m/0gsgr
+wikipedia_url: https://en.wikipedia.org/wiki/CNN
+Mention text: CNN
+Mention type: PROPER
+
+
+Representative name for the entity: Machina
+Entity type: PERSON
+Salience score: 0.0008013980695977807
+Mention text: Machina
+Mention type: PROPER
+
+
+Representative name for the entity: Wprost
+Entity type: OTHER
+Salience score: 0.000799601140897721
+wikipedia_url: https://en.wikipedia.org/wiki/Wprost
+mid: /m/066lsr
+Mention text: Wprost
+Mention type: PROPER
+
+
+Representative name for the entity: Forbes
+Entity type: ORGANIZATION
+Salience score: 0.000798085005953908
+Mention text: Forbes
+Mention type: PROPER
+
+
+Representative name for the entity: The Guardian
+Entity type: WORK_OF_ART
+Salience score: 0.0007974074105732143
+mid: /m/0cnn5
+wikipedia_url: https://en.wikipedia.org/wiki/The_Guardian
+Mention text: The Guardian
+Mention type: PROPER
+
+
+Representative name for the entity: Helen Pidd
+Entity type: PERSON
+Salience score: 0.0007974074105732143
+wikipedia_url: https://en.wikipedia.org/wiki/Helen_Pidd
+mid: /m/0vzs7j4
+Mention text: Helen Pidd
+Mention type: PROPER
+
+
+Representative name for the entity: artists
+Entity type: PERSON
+Salience score: 0.0007952548912726343
+Mention text: artists
+Mention type: COMMON
+
+
+Representative name for the entity: music video
+Entity type: WORK_OF_ART
+Salience score: 0.0007881787605583668
+Mention text: music video
+Mention type: COMMON
+
+
+Representative name for the entity: band
+Entity type: ORGANIZATION
+Salience score: 0.0007568348664790392
+Mention text: band
+Mention type: COMMON
+
+
+Representative name for the entity: version
+Entity type: CONSUMER_GOOD
+Salience score: 0.0007568348664790392
+Mention text: version
+Mention type: COMMON
+
+
+Representative name for the entity: hit
+Entity type: WORK_OF_ART
+Salience score: 0.0007555025513283908
+Mention text: hit
+Mention type: COMMON
+
+
+Representative name for the entity: studio album
+Entity type: WORK_OF_ART
+Salience score: 0.0007534004980698228
+Mention text: studio album
+Mention type: COMMON
+
+
+Representative name for the entity: single
+Entity type: WORK_OF_ART
+Salience score: 0.0007374912966042757
+Mention text: single
+Mention type: COMMON
+
+
+Representative name for the entity: Polish Album Sales Chart
+Entity type: WORK_OF_ART
+Salience score: 0.0007287575281225145
+Mention text: Polish Album Sales Chart
+Mention type: PROPER
+Mention text: Polish Album Sales Chart
+Mention type: PROPER
+Mention text: Polish Album Sales Chart
+Mention type: PROPER
+
+
+Representative name for the entity: number
+Entity type: OTHER
+Salience score: 0.000719425908755511
+Mention text: number
+Mention type: COMMON
+
+
+Representative name for the entity: career
+Entity type: OTHER
+Salience score: 0.0006817492539994419
+Mention text: career
+Mention type: COMMON
+
+
+Representative name for the entity: debut
+Entity type: EVENT
+Salience score: 0.0006813398213125765
+Mention text: debut
+Mention type: COMMON
+
+
+Representative name for the entity: single
+Entity type: WORK_OF_ART
+Salience score: 0.0006802810821682215
+Mention text: single
+Mention type: COMMON
+
+
+Representative name for the entity: single
+Entity type: WORK_OF_ART
+Salience score: 0.0006787299062125385
+Mention text: single
+Mention type: COMMON
+
+
+Representative name for the entity: ballads
+Entity type: WORK_OF_ART
+Salience score: 0.0006778153474442661
+Mention text: ballads
+Mention type: COMMON
+
+
+Representative name for the entity: single
+Entity type: WORK_OF_ART
+Salience score: 0.0006773155182600021
+Mention text: single
+Mention type: COMMON
+
+
+Representative name for the entity: power-ballad
+Entity type: OTHER
+Salience score: 0.000677309581078589
+Mention text: power-ballad
+Mention type: COMMON
+
+
+Representative name for the entity: Błażej Szychowski
+Entity type: PERSON
+Salience score: 0.0006758591625839472
+Mention text: choreographer
+Mention type: COMMON
+Mention text: Błażej Szychowski
+Mention type: PROPER
+
+
+Representative name for the entity: reunion
+Entity type: EVENT
+Salience score: 0.0006694234907627106
+Mention text: reunion
+Mention type: COMMON
+
+
+Representative name for the entity: concert tour
+Entity type: EVENT
+Salience score: 0.0006621156353503466
+Mention text: concert tour
+Mention type: COMMON
+
+
+Representative name for the entity: concert tour
+Entity type: EVENT
+Salience score: 0.0006596653838641942
+Mention text: concert tour
+Mention type: COMMON
+
+
+Representative name for the entity: part
+Entity type: OTHER
+Salience score: 0.0006367650348693132
+Mention text: part
+Mention type: COMMON
+
+
+Representative name for the entity: youth
+Entity type: OTHER
+Salience score: 0.0006360176485031843
+Mention text: youth
+Mention type: COMMON
+
+
+Representative name for the entity: concerts
+Entity type: EVENT
+Salience score: 0.0006205871468409896
+Mention text: concerts
+Mention type: COMMON
+
+
+Representative name for the entity: song
+Entity type: WORK_OF_ART
+Salience score: 0.000615956902038306
+Mention text: song
+Mention type: COMMON
+
+
+Representative name for the entity: award
+Entity type: OTHER
+Salience score: 0.0006075885612517595
+Mention text: award
+Mention type: COMMON
+
+
+Representative name for the entity: award
+Entity type: OTHER
+Salience score: 0.0006075885612517595
+Mention text: award
+Mention type: COMMON
+
+
+Representative name for the entity: version
+Entity type: WORK_OF_ART
+Salience score: 0.0006068954826332629
+Mention text: version
+Mention type: COMMON
+
+
+Representative name for the entity: Daleko od noszy
+Entity type: WORK_OF_ART
+Salience score: 0.0006013318779878318
+wikipedia_url: https://pl.wikipedia.org/wiki/Daleko_od_noszy
+mid: /m/07cg46h
+Mention text: TV series
+Mention type: COMMON
+Mention text: Daleko od noszy
+Mention type: PROPER
+
+
+Representative name for the entity: Grzegorz
+Entity type: PERSON
+Salience score: 0.0006006822804920375
+Mention text: half-brother
+Mention type: COMMON
+Mention text: Grzegorz
+Mention type: PROPER
+
+
+Representative name for the entity: song
+Entity type: WORK_OF_ART
+Salience score: 0.0005903237615711987
+Mention text: song
+Mention type: COMMON
+
+
+Representative name for the entity: Artist
+Entity type: PERSON
+Salience score: 0.0005888643790967762
+Mention text: Artist
+Mention type: COMMON
+
+
+Representative name for the entity: reality TV series
+Entity type: WORK_OF_ART
+Salience score: 0.0005770295392721891
+Mention text: reality TV</a> series
+Mention type: COMMON
+
+
+Representative name for the entity: prosecutor
+Entity type: PERSON
+Salience score: 0.0005646786303259432
+Mention text: prosecutor
+Mention type: COMMON
+
+
+Representative name for the entity: To Ty
+Entity type: PERSON
+Salience score: 0.0005585316685028374
+mid: /g/11c5stjxm0
+Mention text: To Ty
+Mention type: PROPER
+
+
+Representative name for the entity: award
+Entity type: OTHER
+Salience score: 0.0005553840310312808
+Mention text: award
+Mention type: COMMON
+
+
+Representative name for the entity: concert album
+Entity type: WORK_OF_ART
+Salience score: 0.0005535659147426486
+Mention text: concert album
+Mention type: COMMON
+
+
+Representative name for the entity: band
+Entity type: ORGANIZATION
+Salience score: 0.0005467610899358988
+Mention text: band
+Mention type: COMMON
+
+
+Representative name for the entity: Songs
+Entity type: WORK_OF_ART
+Salience score: 0.0005409915465861559
+Mention text: Songs
+Mention type: COMMON
+
+
+Representative name for the entity: music video
+Entity type: WORK_OF_ART
+Salience score: 0.000533004873432219
+Mention text: music video
+Mention type: COMMON
+
+
+Representative name for the entity: Paulina
+Entity type: PERSON
+Salience score: 0.0005275552393868566
+Mention text: Paulina
+Mention type: PROPER
+Mention text: half-sister
+Mention type: COMMON
+
+
+Representative name for the entity: couple
+Entity type: PERSON
+Salience score: 0.0005235995049588382
+Mention text: couple
+Mention type: COMMON
+
+
+Representative name for the entity: hit
+Entity type: WORK_OF_ART
+Salience score: 0.0005118270637467504
+Mention text: hit
+Mention type: COMMON
+
+
+Representative name for the entity: hit
+Entity type: WORK_OF_ART
+Salience score: 0.0005106980097480118
+Mention text: hit
+Mention type: COMMON
+
+
+Representative name for the entity: athletics
+Entity type: OTHER
+Salience score: 0.0005094395601190627
+Mention text: athletics
+Mention type: COMMON
+
+
+Representative name for the entity: bronze
+Entity type: OTHER
+Salience score: 0.0005087422905489802
+Mention text: bronze
+Mention type: COMMON
+
+
+Representative name for the entity: sports
+Entity type: OTHER
+Salience score: 0.0005084210424683988
+Mention text: sports
+Mention type: COMMON
+
+
+Representative name for the entity: teenager
+Entity type: PERSON
+Salience score: 0.0005081156850792468
+Mention text: teenager
+Mention type: COMMON
+
+
+Representative name for the entity: hit
+Entity type: WORK_OF_ART
+Salience score: 0.0005079828551970422
+Mention text: hit
+Mention type: COMMON
+
+
+Representative name for the entity: coaches
+Entity type: PERSON
+Salience score: 0.0005078246467746794
+Mention text: coaches
+Mention type: COMMON
+
+
+Representative name for the entity: lessons
+Entity type: OTHER
+Salience score: 0.0005078246467746794
+Mention text: lessons
+Mention type: COMMON
+
+
+Representative name for the entity: version
+Entity type: WORK_OF_ART
+Salience score: 0.0005076620727777481
+Mention text: version
+Mention type: COMMON
+
+
+Representative name for the entity: vocalist
+Entity type: PERSON
+Salience score: 0.0005075467634014785
+Mention text: vocalist
+Mention type: COMMON
+
+
+Representative name for the entity: age
+Entity type: OTHER
+Salience score: 0.0005075467634014785
+Mention text: age
+Mention type: COMMON
+
+
+Representative name for the entity: sex
+Entity type: EVENT
+Salience score: 0.0005056845839135349
+Mention text: sex
+Mention type: COMMON
+
+
+Representative name for the entity: line-up
+Entity type: EVENT
+Salience score: 0.0005051097250543535
+Mention text: line-up
+Mention type: COMMON
+
+
+Representative name for the entity: Bimbo Virgin
+Entity type: PERSON
+Salience score: 0.000499779125675559
+Mention text: Bimbo</i> Virgin
+Mention type: PROPER
+
+
+Representative name for the entity: artist
+Entity type: PERSON
+Salience score: 0.00048784358659759164
+Mention text: artist
+Mention type: COMMON
+
+
+Representative name for the entity: chart
+Entity type: OTHER
+Salience score: 0.0004876242019236088
+Mention text: chart
+Mention type: COMMON
+
+
+Representative name for the entity: radio charts
+Entity type: OTHER
+Salience score: 0.00048728749970905483
+Mention text: radio charts
+Mention type: COMMON
+
+
+Representative name for the entity: number
+Entity type: OTHER
+Salience score: 0.0004827847587876022
+Mention text: number
+Mention type: COMMON
+
+
+Representative name for the entity: group
+Entity type: ORGANIZATION
+Salience score: 0.0004823839699383825
+Mention text: group
+Mention type: COMMON
+
+
+Representative name for the entity: single
+Entity type: WORK_OF_ART
+Salience score: 0.0004820088215637952
+Mention text: single
+Mention type: COMMON
+
+
+Representative name for the entity: Video of the Year
+Entity type: EVENT
+Salience score: 0.0004818943270947784
+Mention text: Video of the Year
+Mention type: PROPER
+Mention text: Video of the Year
+Mention type: PROPER
+
+
+Representative name for the entity: version
+Entity type: WORK_OF_ART
+Salience score: 0.0004803813644684851
+Mention text: version
+Mention type: COMMON
+
+
+Representative name for the entity: hit
+Entity type: WORK_OF_ART
+Salience score: 0.00047720232396386564
+Mention text: hit
+Mention type: COMMON
+
+
+Representative name for the entity: European Top 100 Albums
+Entity type: WORK_OF_ART
+Salience score: 0.00047709394129924476
+wikipedia_url: https://en.wikipedia.org/wiki/European_Top_100_Albums
+mid: /m/02z1m05
+Mention text: European Top 100 Albums
+Mention type: PROPER
+
+
+Representative name for the entity: Adam Darski
+Entity type: PERSON
+Salience score: 0.0004707618209067732
+wikipedia_url: https://en.wikipedia.org/wiki/Adam_Darski
+mid: /m/01wn0cq
+Mention text: frontman
+Mention type: COMMON
+Mention text: Adam Darski
+Mention type: PROPER
+Mention text: Darski
+Mention type: PROPER
+Mention text: Darski
+Mention type: PROPER
+
+
+Representative name for the entity: sales
+Entity type: OTHER
+Salience score: 0.0004598662198986858
+Mention text: sales
+Mention type: COMMON
+
+
+Representative name for the entity: career
+Entity type: OTHER
+Salience score: 0.0004595545178744942
+Mention text: career
+Mention type: COMMON
+
+
+Representative name for the entity: Ficca Tour
+Entity type: EVENT
+Salience score: 0.00045909947948530316
+Mention text: Ficca Tour
+Mention type: PROPER
+
+
+Representative name for the entity: language
+Entity type: OTHER
+Salience score: 0.0004587118746712804
+Mention text: language
+Mention type: COMMON
+
+
+Representative name for the entity: language
+Entity type: OTHER
+Salience score: 0.0004586256400216371
+Mention text: language
+Mention type: COMMON
+
+
+Representative name for the entity: Diamond Tour
+Entity type: EVENT
+Salience score: 0.0004574003105517477
+Mention text: Diamond Tour
+Mention type: PROPER
+
+
+Representative name for the entity: radio
+Entity type: OTHER
+Salience score: 0.0004565649142023176
+Mention text: radio
+Mention type: COMMON
+
+
+Representative name for the entity: career
+Entity type: OTHER
+Salience score: 0.0004561027744784951
+Mention text: career
+Mention type: COMMON
+
+
+Representative name for the entity: language
+Entity type: OTHER
+Salience score: 0.0004558147629722953
+Mention text: language
+Mention type: COMMON
+
+
+Representative name for the entity: Best Artist Superjedynka Award
+Entity type: OTHER
+Salience score: 0.0004478644405025989
+Mention text: Best Artist Superjedynka Award
+Mention type: PROPER
+
+
+Representative name for the entity: głównych
+Entity type: OTHER
+Salience score: 0.0004451936692930758
+Mention text: głównych
+Mention type: COMMON
+
+
+Representative name for the entity: singles
+Entity type: WORK_OF_ART
+Salience score: 0.0004449517873581499
+Mention text: singles
+Mention type: COMMON
+
+
+Representative name for the entity: world
+Entity type: LOCATION
+Salience score: 0.00044491610606200993
+Mention text: world
+Mention type: COMMON
+
+
+Representative name for the entity: single
+Entity type: WORK_OF_ART
+Salience score: 0.00043843721505254507
+Mention text: single
+Mention type: COMMON
+
+
+Representative name for the entity: certification
+Entity type: OTHER
+Salience score: 0.00043090866529382765
+Mention text: certification
+Mention type: COMMON
+
+
+Representative name for the entity: units
+Entity type: CONSUMER_GOOD
+Salience score: 0.0004281566943973303
+Mention text: units
+Mention type: COMMON
+
+
+Representative name for the entity: place
+Entity type: OTHER
+Salience score: 0.00042594020487740636
+Mention text: place
+Mention type: COMMON
+
+
+Representative name for the entity: manager
+Entity type: PERSON
+Salience score: 0.0004237694083712995
+Mention text: manager
+Mention type: COMMON
+
+
+Representative name for the entity: Emil Haidar
+Entity type: PERSON
+Salience score: 0.00041987665463238955
+mid: /g/11fktmyyxt
+Mention text: businessman
+Mention type: COMMON
+Mention text: Emil Haidar
+Mention type: PROPER
+
+
+Representative name for the entity: Emil Stępień
+Entity type: PERSON
+Salience score: 0.0004197971138637513
+mid: /g/11gh32lg5b
+wikipedia_url: https://pl.wikipedia.org/wiki/Emil_Stępień
+Mention text: film producer
+Mention type: COMMON
+Mention text: Emil Stępień
+Mention type: PROPER
+
+
+Representative name for the entity: people
+Entity type: PERSON
+Salience score: 0.0004189882311038673
+Mention text: people
+Mention type: COMMON
+
+
+Representative name for the entity: Universal Music
+Entity type: ORGANIZATION
+Salience score: 0.0004018360050395131
+Mention text: Universal Music
+Mention type: PROPER
+Mention text: Universal Music
+Mention type: PROPER
+
+
+Representative name for the entity: DVD
+Entity type: CONSUMER_GOOD
+Salience score: 0.00039949335041455925
+Mention text: DVD
+Mention type: COMMON
+Mention text: DVD
+Mention type: COMMON
+
+
+Representative name for the entity: record
+Entity type: OTHER
+Salience score: 0.0003981319023296237
+Mention text: record
+Mention type: COMMON
+
+
+Representative name for the entity: Rock'n'Roll Palace Tour
+Entity type: EVENT
+Salience score: 0.0003933662665076554
+mid: /g/122c1ctx
+wikipedia_url: https://pl.wikipedia.org/wiki/Rock’n’Roll_Palace_Tour
+Mention text: Rock'n'Roll Palace Tour
+Mention type: PROPER
+
+
+Representative name for the entity: leukaemia
+Entity type: OTHER
+Salience score: 0.0003893544781021774
+Mention text: leukaemia
+Mention type: COMMON
+
+
+Representative name for the entity: illness
+Entity type: OTHER
+Salience score: 0.0003893544781021774
+Mention text: illness
+Mention type: COMMON
+
+
+Representative name for the entity: leader
+Entity type: PERSON
+Salience score: 0.0003893544781021774
+Mention text: leader
+Mention type: COMMON
+
+
+Representative name for the entity: premiere
+Entity type: EVENT
+Salience score: 0.0003893544781021774
+Mention text: premiere
+Mention type: COMMON
+
+
+Representative name for the entity: spine surgery
+Entity type: OTHER
+Salience score: 0.0003870397340506315
+Mention text: spine surgery
+Mention type: COMMON
+
+
+Representative name for the entity: surgery
+Entity type: EVENT
+Salience score: 0.0003869220381602645
+Mention text: surgery
+Mention type: COMMON
+
+
+Representative name for the entity: guitarist
+Entity type: PERSON
+Salience score: 0.000386374129448086
+Mention text: guitarist
+Mention type: COMMON
+
+
+Representative name for the entity: material
+Entity type: OTHER
+Salience score: 0.00038635553210042417
+Mention text: material
+Mention type: COMMON
+
+
+Representative name for the entity: VIVA Comet Awards
+Entity type: OTHER
+Salience score: 0.0003860604774672538
+mid: /m/0gtkst9
+wikipedia_url: https://de.wikipedia.org/wiki/Comet_(Musikpreis)
+Mention text: VIVA Comet Awards
+Mention type: PROPER
+Mention text: VIVA Comet Awards
+Mention type: PROPER
+Mention text: VIVA Comet Award
+Mention type: PROPER
+
+
+Representative name for the entity: concert
+Entity type: EVENT
+Salience score: 0.0003805542946793139
+Mention text: concert
+Mention type: COMMON
+
+
+Representative name for the entity: National Festival of Polish Song in Opole
+Entity type: EVENT
+Salience score: 0.00038036322803236544
+mid: /m/03m6bqd
+wikipedia_url: https://en.wikipedia.org/wiki/National_Festival_of_Polish_Song_in_Opole
+Mention text: National Festival of Polish Song in Opole
+Mention type: PROPER
+Mention text: National Festival of Polish Song in Opole
+Mention type: PROPER
+
+
+Representative name for the entity: radio airplay
+Entity type: OTHER
+Salience score: 0.0003782723506446928
+Mention text: radio airplay
+Mention type: COMMON
+
+
+Representative name for the entity: manager
+Entity type: PERSON
+Salience score: 0.00037300586700439453
+Mention text: manager
+Mention type: COMMON
+
+
+Representative name for the entity: Nie zawiedź mnie
+Entity type: WORK_OF_ART
+Salience score: 0.00037284550489857793
+mid: /g/11c5srn31p
+Mention text: Nie zawiedź mnie
+Mention type: PROPER
+
+
+Representative name for the entity: Sopot International Song Festival
+Entity type: EVENT
+Salience score: 0.00037256721407175064
+mid: /m/03kxl9
+wikipedia_url: https://en.wikipedia.org/wiki/Sopot_International_Song_Festival
+Mention text: Sopot International Song Festival
+Mention type: PROPER
+
+
+Representative name for the entity: Włodzimierz Cimoszewicz
+Entity type: PERSON
+Salience score: 0.0003684496332425624
+mid: /m/02yvnt
+wikipedia_url: https://en.wikipedia.org/wiki/Włodzimierz_Cimoszewicz
+Mention text: Włodzimierz Cimoszewicz
+Mention type: PROPER
+Mention text: politician
+Mention type: COMMON
+
+
+Representative name for the entity: Jerzy Vetulani
+Entity type: PERSON
+Salience score: 0.0003684496332425624
+mid: /m/0fqrxdj
+wikipedia_url: https://en.wikipedia.org/wiki/Jerzy_Vetulani
+Mention text: Jerzy Vetulani
+Mention type: PROPER
+Mention text: pharmacologist
+Mention type: COMMON
+
+
+Representative name for the entity: Wojciech Krysztofiak
+Entity type: PERSON
+Salience score: 0.0003684496332425624
+wikipedia_url: https://pl.wikipedia.org/wiki/Wojciech_Krysztofiak
+mid: /m/0bw0fyj
+Mention text: Wojciech Krysztofiak
+Mention type: PROPER
+Mention text: logician
+Mention type: COMMON
+
+
+Representative name for the entity: reissue
+Entity type: OTHER
+Salience score: 0.0003668323624879122
+Mention text: reissue
+Mention type: COMMON
+
+
+Representative name for the entity: aka Nergal
+Entity type: PERSON
+Salience score: 0.00035788302193395793
+Mention text: Nergal
+Mention type: PROPER
+Mention text: aka Nergal
+Mention type: PROPER
+
+
+Representative name for the entity: copies
+Entity type: CONSUMER_GOOD
+Salience score: 0.00035694066900759935
+Mention text: copies
+Mention type: COMMON
+
+
+Representative name for the entity: magazine
+Entity type: WORK_OF_ART
+Salience score: 0.0003565275692380965
+Mention text: magazine
+Mention type: COMMON
+
+
+Representative name for the entity: comedy movie
+Entity type: WORK_OF_ART
+Salience score: 0.00035647163167595863
+Mention text: comedy movie
+Mention type: COMMON
+
+
+Representative name for the entity: English
+Entity type: LOCATION
+Salience score: 0.0003557300369720906
+mid: /m/02h40lc
+wikipedia_url: https://en.wikipedia.org/wiki/English_language
+Mention text: English
+Mention type: PROPER
+Mention text: English
+Mention type: PROPER
+Mention text: English
+Mention type: PROPER
+
+
+Representative name for the entity: The Bar
+Entity type: OTHER
+Salience score: 0.0003513827105052769
+Mention text: The Bar
+Mention type: PROPER
+
+
+Representative name for the entity: death metal band
+Entity type: OTHER
+Salience score: 0.0003503221378196031
+Mention text: death metal</a> band
+Mention type: COMMON
+
+
+Representative name for the entity: World on Fire World Tour
+Entity type: ORGANIZATION
+Salience score: 0.0003440884465817362
+wikipedia_url: https://en.wikipedia.org/wiki/World_on_Fire_World_Tour
+mid: /g/11b6p0xvw9
+Mention text: World on Fire World Tour
+Mention type: PROPER
+
+
+Representative name for the entity: cameo
+Entity type: OTHER
+Salience score: 0.00034255694481544197
+Mention text: cameo
+Mention type: COMMON
+
+
+Representative name for the entity: Voivodeship Championships
+Entity type: OTHER
+Salience score: 0.0003424530441407114
+Mention text: Voivodeship</a> Championships
+Mention type: PROPER
+
+
+Representative name for the entity: row
+Entity type: OTHER
+Salience score: 0.00034234425402246416
+Mention text: row
+Mention type: COMMON
+
+
+Representative name for the entity: category
+Entity type: OTHER
+Salience score: 0.00034227571450173855
+Mention text: category
+Mention type: COMMON
+
+
+Representative name for the entity: Polish Championships
+Entity type: EVENT
+Salience score: 0.00034222507383674383
+wikipedia_url: https://en.wikipedia.org/wiki/Polish_Figure_Skating_Championships
+mid: /m/02pmjz2
+Mention text: Polish Championships
+Mention type: PROPER
+
+
+Representative name for the entity: Buffo Theatre
+Entity type: LOCATION
+Salience score: 0.0003418035339564085
+Mention text: Buffo Theatre
+Mention type: PROPER
+
+
+Representative name for the entity: Metro
+Entity type: LOCATION
+Salience score: 0.0003418035339564085
+Mention text: Metro
+Mention type: PROPER
+
+
+Representative name for the entity: pop-rock sound
+Entity type: OTHER
+Salience score: 0.0003403573064133525
+Mention text: pop-rock sound
+Mention type: COMMON
+
+
+Representative name for the entity: bajki
+Entity type: OTHER
+Salience score: 0.0003401307621970773
+Mention text: bajki
+Mention type: COMMON
+
+
+Representative name for the entity: disc
+Entity type: OTHER
+Salience score: 0.00034002197207883
+Mention text: disc
+Mention type: COMMON
+
+
+Representative name for the entity: hiatus
+Entity type: EVENT
+Salience score: 0.00034002197207883
+Mention text: hiatus
+Mention type: COMMON
+
+
+Representative name for the entity: problem
+Entity type: OTHER
+Salience score: 0.00034002197207883
+Mention text: problem
+Mention type: COMMON
+
+
+Representative name for the entity: hospital
+Entity type: LOCATION
+Salience score: 0.00034002197207883
+Mention text: hospital
+Mention type: COMMON
+
+
+Representative name for the entity: voice role
+Entity type: OTHER
+Salience score: 0.0003399159759283066
+Mention text: voice role
+Mention type: COMMON
+
+
+Representative name for the entity: return
+Entity type: OTHER
+Salience score: 0.0003399159759283066
+Mention text: return
+Mention type: COMMON
+
+
+Representative name for the entity: ways
+Entity type: OTHER
+Salience score: 0.0003394232480786741
+Mention text: ways
+Mention type: COMMON
+
+
+Representative name for the entity: contract
+Entity type: OTHER
+Salience score: 0.00033924152376130223
+Mention text: contract
+Mention type: COMMON
+
+
+Representative name for the entity: collaboration
+Entity type: OTHER
+Salience score: 0.0003349794715177268
+Mention text: collaboration
+Mention type: COMMON
+
+
+Representative name for the entity: single
+Entity type: WORK_OF_ART
+Salience score: 0.00033398481900803745
+Mention text: single
+Mention type: COMMON
+
+
+Representative name for the entity: district court
+Entity type: ORGANIZATION
+Salience score: 0.0003299853706266731
+Mention text: district court
+Mention type: COMMON
+
+
+Representative name for the entity: temptation
+Entity type: OTHER
+Salience score: 0.00032945649581961334
+Mention text: temptation
+Mention type: COMMON
+
+
+Representative name for the entity: World Music Award
+Entity type: OTHER
+Salience score: 0.0003284765698481351
+mid: /m/056p5p
+wikipedia_url: https://en.wikipedia.org/wiki/World_Music_Awards
+Mention text: World Music Award
+Mention type: PROPER
+
+
+Representative name for the entity: Best Song
+Entity type: WORK_OF_ART
+Salience score: 0.00031945103546604514
+Mention text: Best Song
+Mention type: PROPER
+
+
+Representative name for the entity: Chelcee Grimes
+Entity type: PERSON
+Salience score: 0.00031395372934639454
+wikipedia_url: https://en.wikipedia.org/wiki/Chelcee_Grimes
+mid: /m/0hqzgf1
+Mention text: Chelcee Grimes
+Mention type: PROPER
+
+
+Representative name for the entity: electro-rock music style
+Entity type: OTHER
+Salience score: 0.00031359121203422546
+Mention text: electro-rock music style
+Mention type: COMMON
+
+
+Representative name for the entity: covers
+Entity type: OTHER
+Salience score: 0.00031353565282188356
+Mention text: covers
+Mention type: COMMON
+
+
+Representative name for the entity: title
+Entity type: OTHER
+Salience score: 0.00031342689180746675
+Mention text: title
+Mention type: COMMON
+
+
+Representative name for the entity: channel
+Entity type: OTHER
+Salience score: 0.000313321128487587
+Mention text: channel
+Mention type: COMMON
+
+
+Representative name for the entity: website
+Entity type: OTHER
+Salience score: 0.000313321128487587
+Mention text: website
+Mention type: COMMON
+
+
+Representative name for the entity: demos
+Entity type: WORK_OF_ART
+Salience score: 0.000313321128487587
+Mention text: demos
+Mention type: COMMON
+
+
+Representative name for the entity: nomination
+Entity type: OTHER
+Salience score: 0.00031326935277320445
+Mention text: nomination
+Mention type: COMMON
+
+
+Representative name for the entity: half
+Entity type: OTHER
+Salience score: 0.0003132182464469224
+Mention text: half
+Mention type: COMMON
+
+
+Representative name for the entity: edition
+Entity type: EVENT
+Salience score: 0.00031311807106249034
+Mention text: edition
+Mention type: COMMON
+
+
+Representative name for the entity: columnist
+Entity type: PERSON
+Salience score: 0.00031311807106249034
+Mention text: columnist
+Mention type: COMMON
+
+
+Representative name for the entity: issues
+Entity type: OTHER
+Salience score: 0.00031311807106249034
+Mention text: issues
+Mention type: COMMON
+
+
+Representative name for the entity: name
+Entity type: OTHER
+Salience score: 0.0003130689437966794
+Mention text: name
+Mention type: COMMON
+
+
+Representative name for the entity: theme
+Entity type: OTHER
+Salience score: 0.0003130689437966794
+Mention text: theme
+Mention type: COMMON
+
+
+Representative name for the entity: impersonator
+Entity type: PERSON
+Salience score: 0.0003128785756416619
+Mention text: impersonator
+Mention type: COMMON
+
+
+Representative name for the entity: best friend
+Entity type: PERSON
+Salience score: 0.0003128785756416619
+Mention text: best friend
+Mention type: COMMON
+
+
+Representative name for the entity: guest
+Entity type: PERSON
+Salience score: 0.0003042432654183358
+Mention text: guest
+Mention type: COMMON
+
+
+Representative name for the entity: Ciechanów
+Entity type: LOCATION
+Salience score: 0.00030119347502477467
+wikipedia_url: https://en.wikipedia.org/wiki/Ciechanów
+mid: /m/022mb4
+Mention text: Ciechanów
+Mention type: PROPER
+
+
+Representative name for the entity: Elżbieta Zapendowska
+Entity type: PERSON
+Salience score: 0.00030001450795680285
+mid: /m/0v34sn8
+wikipedia_url: https://pl.wikipedia.org/wiki/Elżbieta_Zapendowska
+Mention text: Elżbieta Zapendowska
+Mention type: PROPER
+
+
+Representative name for the entity: Mam tylko Ciebie
+Entity type: WORK_OF_ART
+Salience score: 0.000299542531138286
+mid: /g/11c5ssznqj
+Mention text: Mam tylko Ciebie
+Mention type: PROPER
+
+
+Representative name for the entity: Kolejny raz
+Entity type: PERSON
+Salience score: 0.00029863324016332626
+mid: /g/11csrp7m5_
+Mention text: Kolejny raz
+Mention type: PROPER
+
+
+Representative name for the entity: place
+Entity type: OTHER
+Salience score: 0.0002954129013232887
+Mention text: place
+Mention type: COMMON
+
+
+Representative name for the entity: relationship
+Entity type: OTHER
+Salience score: 0.0002928501053247601
+Mention text: relationship
+Mention type: COMMON
+
+
+Representative name for the entity: Video of the Year
+Entity type: WORK_OF_ART
+Salience score: 0.00028825263143517077
+Mention text: Video of the Year
+Mention type: PROPER
+
+
+Representative name for the entity: guitar
+Entity type: OTHER
+Salience score: 0.00026766242808662355
+Mention text: guitar
+Mention type: COMMON
+
+
+Representative name for the entity: play
+Entity type: WORK_OF_ART
+Salience score: 0.0002676305593922734
+Mention text: play
+Mention type: COMMON
+
+
+Representative name for the entity: gold
+Entity type: OTHER
+Salience score: 0.0002675061987247318
+Mention text: gold
+Mention type: COMMON
+
+
+Representative name for the entity: Dog
+Entity type: OTHER
+Salience score: 0.0002673864073585719
+Mention text: Dog
+Mention type: COMMON
+
+
+Representative name for the entity: performance
+Entity type: OTHER
+Salience score: 0.0002673571289051324
+Mention text: performance
+Mention type: COMMON
+
+
+Representative name for the entity: husband
+Entity type: PERSON
+Salience score: 0.000267159310169518
+Mention text: husband
+Mention type: COMMON
+
+
+Representative name for the entity: goalkeeper
+Entity type: PERSON
+Salience score: 0.000267159310169518
+Mention text: goalkeeper
+Mention type: COMMON
+
+
+Representative name for the entity: Wkręceni
+Entity type: WORK_OF_ART
+Salience score: 0.00026408463600091636
+mid: /g/1yqccmxpw
+wikipedia_url: https://pl.wikipedia.org/wiki/Wkręceni
+Mention text: comedy movie
+Mention type: COMMON
+Mention text: Wkręceni
+Mention type: PROPER
+
+
+Representative name for the entity: World
+Entity type: ORGANIZATION
+Salience score: 0.0002630941744428128
+Mention text: World
+Mention type: PROPER
+
+
+Representative name for the entity: Let's Get It Started
+Entity type: WORK_OF_ART
+Salience score: 0.00026127323508262634
+Mention text: Let's Get It Started
+Mention type: PROPER
+
+
+Representative name for the entity: Bad Girls
+Entity type: WORK_OF_ART
+Salience score: 0.00025991915026679635
+Mention text: Bad Girls
+Mention type: PROPER
+Mention text: Bad Girls
+Mention type: PROPER
+
+
+Representative name for the entity: reviews
+Entity type: WORK_OF_ART
+Salience score: 0.000259116233792156
+Mention text: reviews
+Mention type: COMMON
+
+
+Representative name for the entity: weed
+Entity type: OTHER
+Salience score: 0.00024919334100559354
+Mention text: weed
+Mention type: COMMON
+
+
+Representative name for the entity: album
+Entity type: WORK_OF_ART
+Salience score: 0.00024297554045915604
+Mention text: album
+Mention type: COMMON
+
+
+Representative name for the entity: studio album
+Entity type: WORK_OF_ART
+Salience score: 0.0002425932907499373
+Mention text: studio album
+Mention type: COMMON
+
+
+Representative name for the entity: office
+Entity type: ORGANIZATION
+Salience score: 0.0002401540259597823
+Mention text: office
+Mention type: COMMON
+
+
+Representative name for the entity: weightlifter
+Entity type: OTHER
+Salience score: 0.00023472734028473496
+Mention text: weightlifter
+Mention type: COMMON
+
+
+Representative name for the entity: mother
+Entity type: PERSON
+Salience score: 0.0002347025292692706
+Mention text: mother
+Mention type: COMMON
+
+
+Representative name for the entity: father
+Entity type: PERSON
+Salience score: 0.0002346535329706967
+Mention text: father
+Mention type: COMMON
+
+
+Representative name for the entity: vacation
+Entity type: EVENT
+Salience score: 0.00023460538068320602
+Mention text: vacation
+Mention type: COMMON
+
+
+Representative name for the entity: Fokus
+Entity type: PERSON
+Salience score: 0.00023212394444271922
+mid: /m/0fqcp0b
+wikipedia_url: https://pl.wikipedia.org/wiki/Fokus
+Mention text: Fokus
+Mention type: PROPER
+Mention text: rap legend
+Mention type: COMMON
+
+
+Representative name for the entity: founder
+Entity type: PERSON
+Salience score: 0.00023163988953456283
+Mention text: founder
+Mention type: COMMON
+
+
+Representative name for the entity: The 7 Temptations
+Entity type: ORGANIZATION
+Salience score: 0.00023117531964089721
+mid: /g/121011r1
+wikipedia_url: https://ru.wikipedia.org/wiki/The_7_Temptations
+Mention text: The 7 Temptations
+Mention type: PROPER
+
+
+Representative name for the entity: Best Polish Act
+Entity type: WORK_OF_ART
+Salience score: 0.00023023707035463303
+mid: /m/09gj742
+wikipedia_url: https://en.wikipedia.org/wiki/MTV_Europe_Music_Award_for_Best_Polish_Act
+Mention text: Best Polish Act
+Mention type: PROPER
+
+
+Representative name for the entity: Best European Act
+Entity type: WORK_OF_ART
+Salience score: 0.00023023707035463303
+mid: /m/07_50ht
+wikipedia_url: https://en.wikipedia.org/wiki/MTV_Europe_Music_Award_for_Best_European_Act
+Mention text: Best European Act
+Mention type: PROPER
+
+
+Representative name for the entity: judgment
+Entity type: OTHER
+Salience score: 0.00022023695055395365
+Mention text: judgment
+Mention type: COMMON
+
+
+Representative name for the entity: court
+Entity type: ORGANIZATION
+Salience score: 0.00021981836471240968
+Mention text: court
+Mention type: COMMON
+
+
+Representative name for the entity: court
+Entity type: ORGANIZATION
+Salience score: 0.0002197785652242601
+Mention text: court
+Mention type: COMMON
+
+
+Representative name for the entity: songs
+Entity type: WORK_OF_ART
+Salience score: 0.00021927755733486265
+Mention text: songs
+Mention type: COMMON
+
+
+Representative name for the entity: My Way or No Way
+Entity type: OTHER
+Salience score: 0.00021072423260193318
+Mention text: My Way or No Way
+Mention type: PROPER
+
+
+Representative name for the entity: Singing in the Chains
+Entity type: WORK_OF_ART
+Salience score: 0.00021072423260193318
+Mention text: Singing in the Chains
+Mention type: PROPER
+
+
+Representative name for the entity: transplant
+Entity type: OTHER
+Salience score: 0.00020614967797882855
+Mention text: transplant
+Mention type: COMMON
+
+
+Representative name for the entity: public
+Entity type: PERSON
+Salience score: 0.00020483291882555932
+Mention text: public
+Mention type: COMMON
+
+
+Representative name for the entity: couple
+Entity type: PERSON
+Salience score: 0.00020481296814978123
+Mention text: couple
+Mention type: COMMON
+
+
+Representative name for the entity: relationship
+Entity type: OTHER
+Salience score: 0.0002047735615633428
+Mention text: relationship
+Mention type: COMMON
+
+
+Representative name for the entity: relationship
+Entity type: OTHER
+Salience score: 0.000204715586733073
+Mention text: relationship
+Mention type: COMMON
+
+
+Representative name for the entity: public
+Entity type: PERSON
+Salience score: 0.000204715586733073
+Mention text: public
+Mention type: COMMON
+
+
+Representative name for the entity: television interview
+Entity type: EVENT
+Salience score: 0.0002046776789939031
+Mention text: television interview
+Mention type: COMMON
+
+
+Representative name for the entity: publicists
+Entity type: PERSON
+Salience score: 0.00020460353698581457
+Mention text: publicists
+Mention type: COMMON
+
+
+Representative name for the entity: singles
+Entity type: WORK_OF_ART
+Salience score: 0.00020445737754926085
+Mention text: singles
+Mention type: COMMON
+
+
+Representative name for the entity: YouTube
+Entity type: OTHER
+Salience score: 0.00020404811948537827
+mid: /m/09jcvs
+wikipedia_url: https://en.wikipedia.org/wiki/YouTube
+Mention text: YouTube
+Mention type: PROPER
+Mention text: YouTube
+Mention type: PROPER
+
+
+Representative name for the entity: Billboard
+Entity type: ORGANIZATION
+Salience score: 0.00020264081831555814
+wikipedia_url: https://en.wikipedia.org/wiki/Billboard_(magazine)
+mid: /m/0c7fr
+Mention text: Billboard
+Mention type: PROPER
+
+
+Representative name for the entity: Krzysztof Zanussi
+Entity type: PERSON
+Salience score: 0.0002023684501182288
+mid: /m/01hxlr
+wikipedia_url: https://en.wikipedia.org/wiki/Krzysztof_Zanussi
+Mention text: Krzysztof Zanussi
+Mention type: PROPER
+
+
+Representative name for the entity: Dziękuję
+Entity type: WORK_OF_ART
+Salience score: 0.00020232585666235536
+mid: /g/1s05szyph
+Mention text: Dziękuję
+Mention type: PROPER
+
+
+Representative name for the entity: Rany
+Entity type: PERSON
+Salience score: 0.00020232585666235536
+mid: /g/1s05z0blg
+Mention text: Rany
+Mention type: PROPER
+
+
+Representative name for the entity: Abba
+Entity type: ORGANIZATION
+Salience score: 0.00020080813555978239
+mid: /m/0kjh
+wikipedia_url: https://en.wikipedia.org/wiki/ABBA
+Mention text: Abba
+Mention type: PROPER
+
+
+Representative name for the entity: Polish Society of the Phonographic Industry
+Entity type: ORGANIZATION
+Salience score: 0.00020057255460415035
+wikipedia_url: https://en.wikipedia.org/wiki/Polish_Society_of_the_Phonographic_Industry
+mid: /m/04q2682
+Mention text: Polish Society of the Phonographic Industry
+Mention type: PROPER
+Mention text: ZPAV
+Mention type: PROPER
+Mention text: ZPAV
+Mention type: PROPER
+Mention text: ZPAV
+Mention type: PROPER
+Mention text: ZPAV
+Mention type: PROPER
+Mention text: ZPAV
+Mention type: PROPER
+
+
+Representative name for the entity: Tomasz Lubert
+Entity type: PERSON
+Salience score: 0.00020046277495566756
+mid: /m/0_qxtjf
+wikipedia_url: https://pl.wikipedia.org/wiki/Tomasz_Lubert
+Mention text: Tomasz Lubert
+Mention type: PROPER
+
+
+Representative name for the entity: Katharsis
+Entity type: ORGANIZATION
+Salience score: 0.00020030683663208038
+Mention text: Katharsis
+Mention type: PROPER
+
+
+Representative name for the entity: United States
+Entity type: LOCATION
+Salience score: 0.00020025701087433845
+mid: /m/09c7w0
+wikipedia_url: https://en.wikipedia.org/wiki/United_States
+Mention text: United States
+Mention type: PROPER
+
+
+Representative name for the entity: Germany
+Entity type: LOCATION
+Salience score: 0.00020025701087433845
+mid: /m/0345h
+wikipedia_url: https://en.wikipedia.org/wiki/Germany
+Mention text: Germany
+Mention type: PROPER
+
+
+Representative name for the entity: United Kingdom
+Entity type: LOCATION
+Salience score: 0.00020025701087433845
+mid: /m/07ssc
+wikipedia_url: https://en.wikipedia.org/wiki/United_Kingdom
+Mention text: United Kingdom
+Mention type: PROPER
+
+
+Representative name for the entity: leukemia
+Entity type: OTHER
+Salience score: 0.00018682419613469392
+Mention text: leukemia
+Mention type: COMMON
+
+
+Representative name for the entity: transplant
+Entity type: OTHER
+Salience score: 0.00018682419613469392
+Mention text: transplant
+Mention type: COMMON
+
+
+Representative name for the entity: illness
+Entity type: OTHER
+Salience score: 0.00018680586072150618
+Mention text: illness
+Mention type: COMMON
+
+
+Representative name for the entity: members
+Entity type: PERSON
+Salience score: 0.00018659666238818318
+Mention text: members
+Mention type: COMMON
+
+
+Representative name for the entity: appeal
+Entity type: OTHER
+Salience score: 0.00018538828589953482
+Mention text: appeal
+Mention type: COMMON
+
+
+Representative name for the entity: Maxim
+Entity type: ORGANIZATION
+Salience score: 0.0001849757827585563
+Mention text: Maxim
+Mention type: PROPER
+
+
+Representative name for the entity: Playboy USA
+Entity type: OTHER
+Salience score: 0.0001849757827585563
+Mention text: Playboy USA
+Mention type: PROPER
+
+
+Representative name for the entity: Tokio Hotel
+Entity type: ORGANIZATION
+Salience score: 0.00018488982459530234
+mid: /m/07kt1v
+wikipedia_url: https://en.wikipedia.org/wiki/Tokio_Hotel
+Mention text: Tokio Hotel
+Mention type: PROPER
+
+
+Representative name for the entity: Twa Energia
+Entity type: WORK_OF_ART
+Salience score: 0.00018483427993487567
+mid: /g/112yfdlkp
+wikipedia_url: https://pl.wikipedia.org/wiki/Twa_energia
+Mention text: Twa Energia
+Mention type: PROPER
+
+
+Representative name for the entity: bone marrow
+Entity type: OTHER
+Salience score: 0.00018227830878458917
+Mention text: bone marrow
+Mention type: COMMON
+
+
+Representative name for the entity: Slash
+Entity type: ORGANIZATION
+Salience score: 0.00017863212269730866
+wikipedia_url: https://en.wikipedia.org/wiki/Slash_(musician)
+mid: /m/01vv6_6
+Mention text: Slash
+Mention type: PROPER
+Mention text: Slash
+Mention type: PROPER
+
+
+Representative name for the entity: first
+Entity type: OTHER
+Salience score: 0.00017808383563533425
+Mention text: first
+Mention type: COMMON
+
+
+Representative name for the entity: Paweł Rabczewski
+Entity type: PERSON
+Salience score: 0.00017312639101874083
+mid: /m/0v28nrz
+Mention text: Paweł Rabczewski
+Mention type: PROPER
+
+
+Representative name for the entity: concerts
+Entity type: OTHER
+Salience score: 0.00016686708841007203
+Mention text: concerts
+Mention type: COMMON
+
+
+Representative name for the entity: marrow donations
+Entity type: OTHER
+Salience score: 0.00016405893256887794
+Mention text: marrow donations
+Mention type: COMMON
+
+
+Representative name for the entity: response
+Entity type: EVENT
+Salience score: 0.00016405893256887794
+Mention text: response
+Mention type: COMMON
+
+
+Representative name for the entity: engagement
+Entity type: OTHER
+Salience score: 0.0001640429545659572
+Mention text: engagement
+Mention type: COMMON
+
+
+Representative name for the entity: ceremony
+Entity type: EVENT
+Salience score: 0.00016398030857089907
+Mention text: ceremony
+Mention type: COMMON
+
+
+Representative name for the entity: divorce
+Entity type: OTHER
+Salience score: 0.00016394972044508904
+Mention text: divorce
+Mention type: COMMON
+
+
+Representative name for the entity: dinosaurs
+Entity type: OTHER
+Salience score: 0.00016393458645325154
+Mention text: dinosaurs
+Mention type: COMMON
+
+
+Representative name for the entity: something
+Entity type: OTHER
+Salience score: 0.00016393458645325154
+Mention text: something
+Mention type: COMMON
+
+
+Representative name for the entity: sensibilities
+Entity type: OTHER
+Salience score: 0.00016393458645325154
+Mention text: sensibilities
+Mention type: COMMON
+
+
+Representative name for the entity: wine
+Entity type: CONSUMER_GOOD
+Salience score: 0.00016393458645325154
+Mention text: wine
+Mention type: COMMON
+
+
+Representative name for the entity: crime
+Entity type: OTHER
+Salience score: 0.00016393458645325154
+Mention text: crime
+Mention type: COMMON
+
+
+Representative name for the entity: złoty
+Entity type: OTHER
+Salience score: 0.0001639195834286511
+Mention text: złoty
+Mention type: COMMON
+
+
+Representative name for the entity: verdict
+Entity type: OTHER
+Salience score: 0.00016388988296967
+Mention text: verdict
+Mention type: COMMON
+
+
+Representative name for the entity: consideration
+Entity type: OTHER
+Salience score: 0.00016386063362006098
+Mention text: consideration
+Mention type: COMMON
+
+
+Representative name for the entity: case
+Entity type: OTHER
+Salience score: 0.00016386063362006098
+Mention text: case
+Mention type: COMMON
+
+
+Representative name for the entity: jurisdiction
+Entity type: OTHER
+Salience score: 0.00016386063362006098
+Mention text: jurisdiction
+Mention type: COMMON
+
+
+Representative name for the entity: Słownik Ptaszków Polskich
+Entity type: OTHER
+Salience score: 0.0001629615289857611
+Mention text: Słownik Ptaszków Polskich
+Mention type: PROPER
+
+
+Representative name for the entity: artists
+Entity type: PERSON
+Salience score: 0.0001609081809874624
+Mention text: artists
+Mention type: COMMON
+
+
+Representative name for the entity: music video
+Entity type: WORK_OF_ART
+Salience score: 0.0001609081809874624
+Mention text: music video
+Mention type: COMMON
+
+
+Representative name for the entity: IMKA Theatre
+Entity type: LOCATION
+Salience score: 0.0001581020187586546
+mid: /g/11bt_h0p3d
+wikipedia_url: https://pl.wikipedia.org/wiki/Teatr_IMKA
+Mention text: IMKA Theatre
+Mention type: PROPER
+
+
+Representative name for the entity: version
+Entity type: WORK_OF_ART
+Salience score: 0.00015400367556139827
+Mention text: version
+Mention type: COMMON
+
+
+Representative name for the entity: versions
+Entity type: CONSUMER_GOOD
+Salience score: 0.00015386748418677598
+Mention text: versions
+Mention type: COMMON
+
+
+Representative name for the entity: single
+Entity type: WORK_OF_ART
+Salience score: 0.0001466051471652463
+Mention text: single
+Mention type: COMMON
+
+
+Representative name for the entity: single
+Entity type: WORK_OF_ART
+Salience score: 0.00014652912796009332
+Mention text: single
+Mention type: COMMON
+
+
+Representative name for the entity: Sweet Child o' Mine
+Entity type: WORK_OF_ART
+Salience score: 0.00013886651140637696
+wikipedia_url: https://en.wikipedia.org/wiki/Sweet_Child_o'_Mine
+mid: /m/02y0cl
+Mention text: Sweet Child o' Mine
+Mention type: PROPER
+
+
+Representative name for the entity: Angelica
+Entity type: PERSON
+Salience score: 0.00013884998043067753
+Mention text: Angelica
+Mention type: PROPER
+
+
+Representative name for the entity: Kopiuj-wklej
+Entity type: WORK_OF_ART
+Salience score: 0.00013878545723855495
+mid: /g/11c5qlrvgn
+Mention text: Kopiuj-wklej
+Mention type: PROPER
+
+
+Representative name for the entity: Reanimacja
+Entity type: OTHER
+Salience score: 0.00013875409786123782
+mid: /g/120qwdp3
+wikipedia_url: https://en.wikipedia.org/wiki/Resuscitation
+Mention text: Reanimacja
+Mention type: PROPER
+
+
+Representative name for the entity: Władysław Pasikowski
+Entity type: PERSON
+Salience score: 0.0001387233060086146
+mid: /m/02qlp0d
+wikipedia_url: https://en.wikipedia.org/wiki/Władysław_Pasikowski
+Mention text: Władysław Pasikowski
+Mention type: PROPER
+
+
+Representative name for the entity: Israel
+Entity type: LOCATION
+Salience score: 0.00013859129103366286
+mid: /m/03spz
+wikipedia_url: https://en.wikipedia.org/wiki/Israel
+Mention text: Israel
+Mention type: PROPER
+
+
+Representative name for the entity: Jerusalem
+Entity type: LOCATION
+Salience score: 0.00013859129103366286
+mid: /m/0430_
+wikipedia_url: https://en.wikipedia.org/wiki/Jerusalem
+Mention text: Jerusalem
+Mention type: PROPER
+
+
+Representative name for the entity: career
+Entity type: OTHER
+Salience score: 0.00013834628043696284
+Mention text: career
+Mention type: COMMON
+
+
+Representative name for the entity: single
+Entity type: WORK_OF_ART
+Salience score: 0.0001378857996314764
+Mention text: single
+Mention type: COMMON
+
+
+Representative name for the entity: Fly High Tour
+Entity type: EVENT
+Salience score: 0.00013398277224041522
+mid: /g/12dpx6nf7
+wikipedia_url: https://pl.wikipedia.org/wiki/Fly_High_Tour
+Mention text: Fly High Tour
+Mention type: PROPER
+Mention text: Fly High Tour
+Mention type: PROPER
+
+
+Representative name for the entity: Hard Heart
+Entity type: WORK_OF_ART
+Salience score: 0.00013052622671239078
+mid: /g/11c1p71pxf
+Mention text: Hard Heart
+Mention type: PROPER
+
+
+Representative name for the entity: European Court of Human Rights
+Entity type: ORGANIZATION
+Salience score: 0.00012980880273971707
+mid: /m/0bq2z
+wikipedia_url: https://en.wikipedia.org/wiki/European_Court_of_Human_Rights
+Mention text: European Court of Human Rights
+Mention type: PROPER
+
+
+Representative name for the entity: gold certification
+Entity type: OTHER
+Salience score: 0.00012949714437127113
+Mention text: gold certification
+Mention type: COMMON
+
+
+Representative name for the entity: TV
+Entity type: OTHER
+Salience score: 0.0001288771309191361
+Mention text: TV
+Mention type: COMMON
+
+
+Representative name for the entity: internet
+Entity type: OTHER
+Salience score: 0.00012885878095403314
+Mention text: internet
+Mention type: COMMON
+
+
+Representative name for the entity: direction
+Entity type: OTHER
+Salience score: 0.00011797975457739085
+Mention text: direction
+Mention type: COMMON
+
+
+Representative name for the entity: premiere
+Entity type: EVENT
+Salience score: 0.00011751761485356838
+Mention text: premiere
+Mention type: COMMON
+
+
+Representative name for the entity: views
+Entity type: OTHER
+Salience score: 0.00011751761485356838
+Mention text: views
+Mention type: COMMON
+
+
+Representative name for the entity: part
+Entity type: EVENT
+Salience score: 0.00011748472024919465
+Mention text: part
+Mention type: COMMON
+
+
+Representative name for the entity: EMI Music Poland
+Entity type: ORGANIZATION
+Salience score: 0.00011099674156866968
+mid: /m/0nkkn1_
+wikipedia_url: https://en.wikipedia.org/wiki/EMI_Music_Poland
+Mention text: EMI Music Poland
+Mention type: PROPER
+
+
+Representative name for the entity: violence
+Entity type: OTHER
+Salience score: 0.00010322190792066976
+Mention text: violence
+Mention type: COMMON
+
+
+Representative name for the entity: scenes
+Entity type: OTHER
+Salience score: 0.00010322190792066976
+Mention text: scenes
+Mention type: COMMON
+
+
+Representative name for the entity: popularity
+Entity type: OTHER
+Salience score: 0.00010320721048628911
+Mention text: popularity
+Mention type: COMMON
+
+
+Representative name for the entity: record deal
+Entity type: OTHER
+Salience score: 0.0001031783249345608
+Mention text: record deal
+Mention type: COMMON
+
+
+Representative name for the entity: Marbella
+Entity type: LOCATION
+Salience score: 9.68683380051516e-05
+wikipedia_url: https://en.wikipedia.org/wiki/Marbella
+mid: /m/0295f8
+Mention text: Marbella
+Mention type: PROPER
+
+
+Representative name for the entity: Spain
+Entity type: LOCATION
+Salience score: 9.68683380051516e-05
+mid: /m/06mkj
+wikipedia_url: https://en.wikipedia.org/wiki/Spain
+Mention text: Spain
+Mention type: PROPER
+
+
+Representative name for the entity: Bible
+Entity type: WORK_OF_ART
+Salience score: 9.684132237453014e-05
+Mention text: Bible
+Mention type: PROPER
+
+
+Representative name for the entity: Warszawa-Mokotów
+Entity type: PERSON
+Salience score: 9.683246025815606e-05
+Mention text: Warszawa-Mokotów
+Mention type: PROPER
+
+
+Representative name for the entity: Palikot's Movement
+Entity type: ORGANIZATION
+Salience score: 9.680624498287216e-05
+wikipedia_url: https://fr.wikipedia.org/wiki/Mouvement_Palikot
+mid: /m/0g53ncq
+Mention text: Palikot's Movement
+Mention type: PROPER
+
+
+Representative name for the entity: Warner Music Poland
+Entity type: ORGANIZATION
+Salience score: 9.102231706492603e-05
+mid: /m/011x47g1
+wikipedia_url: https://en.wikipedia.org/wiki/Warner_Music_Poland
+Mention text: Warner Music Poland
+Mention type: PROPER
+Mention text: Warner Music
+Mention type: PROPER
+
+
+Representative name for the entity: Not Over You
+Entity type: WORK_OF_ART
+Salience score: 8.659248851472512e-05
+mid: /g/11b7_swwmw
+Mention text: Not Over You
+Mention type: PROPER
+
+
+Representative name for the entity: Nie pytaj mnie
+Entity type: OTHER
+Salience score: 8.074068318819627e-05
+mid: /g/11bvvymtlp
+Mention text: Nie pytaj mnie
+Mention type: PROPER
+Mention text: Nie pytaj mnie
+Mention type: PROPER
+
+
+Representative name for the entity: Electrode
+Entity type: OTHER
+Salience score: 7.610954344272614e-05
+mid: /m/02qk9
+wikipedia_url: https://en.wikipedia.org/wiki/Electrode
+Mention text: Electrode
+Mention type: PROPER
+
+
+Representative name for the entity: Wkręceni (High Life
+Entity type: OTHER
+Salience score: 6.938210572116077e-05
+mid: /g/1ydxpxzq9
+wikipedia_url: https://pl.wikipedia.org/wiki/Wkręceni_(High_Life)
+Mention text: Wkręceni (High Life
+Mention type: PROPER
+
+
+Representative name for the entity: Mira
+Entity type: CONSUMER_GOOD
+Salience score: 6.789531471440569e-05
+Mention text: Mira
+Mention type: PROPER
+
+
+Representative name for the entity: Fuck It
+Entity type: WORK_OF_ART
+Salience score: 6.09842682024464e-05
+Mention text: Fuck It
+Mention type: PROPER
+
+
+Representative name for the entity: haunty
+Entity type: PERSON
+Salience score: 6.0958220274187624e-05
+Mention text: haunty
+Mention type: PROPER
+
+
+Representative name for the entity: Doda Live
+Entity type: ORGANIZATION
+Salience score: 6.094134732848033e-05
+Mention text: Doda Live
+Mention type: PROPER
+
+
+Representative name for the entity: New Year's Eve
+Entity type: EVENT
+Salience score: 6.0916740039829165e-05
+wikipedia_url: https://en.wikipedia.org/wiki/New_Year's_Eve
+mid: /m/01pl3y
+Mention text: New Year's Eve
+Mention type: PROPER
+
+
+Representative name for the entity: Kylie Minogue
+Entity type: PERSON
+Salience score: 6.086984649300575e-05
+wikipedia_url: https://en.wikipedia.org/wiki/Kylie_Minogue
+mid: /m/049qx
+Mention text: Kylie Minogue
+Mention type: PROPER
+
+
+Representative name for the entity: The Saturdays
+Entity type: WORK_OF_ART
+Salience score: 6.086984649300575e-05
+wikipedia_url: https://en.wikipedia.org/wiki/The_Saturdays
+mid: /m/043kkg9
+Mention text: The Saturdays
+Mention type: PROPER
+
+
+Representative name for the entity: 15 February 1984
+Entity type: DATE
+Salience score: 0.0
+day: 15
+year: 1984
+month: 2
+Mention text: 15 February 1984
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 2002
+Entity type: DATE
+Salience score: 0.0
+year: 2002
+Mention text: 2002
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 2004
+Entity type: DATE
+Salience score: 0.0
+year: 2004
+Mention text: 2004
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 2005
+Entity type: DATE
+Salience score: 0.0
+year: 2005
+Mention text: 2005
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 2007
+Entity type: DATE
+Salience score: 0.0
+year: 2007
+Mention text: 2007
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 2007
+Entity type: DATE
+Salience score: 0.0
+year: 2007
+Mention text: 2007
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 2011
+Entity type: DATE
+Salience score: 0.0
+year: 2011
+Mention text: 2011
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 2016
+Entity type: DATE
+Salience score: 0.0
+year: 2016
+Mention text: 2016
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 2018
+Entity type: DATE
+Salience score: 0.0
+year: 2018
+Mention text: 2018
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 2008
+Entity type: DATE
+Salience score: 0.0
+year: 2008
+Mention text: 2008
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 2010
+Entity type: DATE
+Salience score: 0.0
+year: 2010
+Mention text: 2010
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 2011
+Entity type: DATE
+Salience score: 0.0
+year: 2011
+Mention text: 2011
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 2011
+Entity type: DATE
+Salience score: 0.0
+year: 2011
+Mention text: 2011
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 2019
+Entity type: DATE
+Salience score: 0.0
+year: 2019
+Mention text: 2019
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 2015
+Entity type: DATE
+Salience score: 0.0
+year: 2015
+Mention text: 2015
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 2017
+Entity type: DATE
+Salience score: 0.0
+year: 2017
+Mention text: 2017
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 2006
+Entity type: DATE
+Salience score: 0.0
+year: 2006
+Mention text: 2006
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 2014
+Entity type: DATE
+Salience score: 0.0
+year: 2014
+Mention text: 2014
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 2011
+Entity type: DATE
+Salience score: 0.0
+year: 2011
+Mention text: 2011
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 1998
+Entity type: DATE
+Salience score: 0.0
+year: 1998
+Mention text: 1998
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 2002
+Entity type: DATE
+Salience score: 0.0
+year: 2002
+Mention text: 2002
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 17 May 2004
+Entity type: DATE
+Salience score: 0.0
+month: 5
+year: 2004
+day: 17
+Mention text: 17 May 2004
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 17 October 2005
+Entity type: DATE
+Salience score: 0.0
+month: 10
+day: 17
+year: 2005
+Mention text: 17 October 2005
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: April 2006
+Entity type: DATE
+Salience score: 0.0
+year: 2006
+month: 4
+Mention text: April 2006
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 2006
+Entity type: DATE
+Salience score: 0.0
+year: 2006
+Mention text: 2006
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 1 January 2007
+Entity type: DATE
+Salience score: 0.0
+month: 1
+day: 1
+year: 2007
+Mention text: 1 January 2007
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 2007
+Entity type: DATE
+Salience score: 0.0
+year: 2007
+Mention text: 2007
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 27 July
+Entity type: DATE
+Salience score: 0.0
+month: 7
+day: 27
+Mention text: 27 July
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: June 2008
+Entity type: DATE
+Salience score: 0.0
+year: 2008
+month: 6
+Mention text: June 2008
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: August 2008
+Entity type: DATE
+Salience score: 0.0
+month: 8
+year: 2008
+Mention text: August 2008
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 2009
+Entity type: DATE
+Salience score: 0.0
+year: 2009
+Mention text: 2009
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 2009
+Entity type: DATE
+Salience score: 0.0
+year: 2009
+Mention text: 2009
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 2008
+Entity type: DATE
+Salience score: 0.0
+year: 2008
+Mention text: 2008
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: March 2010
+Entity type: DATE
+Salience score: 0.0
+month: 3
+year: 2010
+Mention text: March 2010
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: June 2010
+Entity type: DATE
+Salience score: 0.0
+year: 2010
+month: 6
+Mention text: June 2010
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 2011
+Entity type: DATE
+Salience score: 0.0
+year: 2011
+Mention text: 2011
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 30 May 2011
+Entity type: DATE
+Salience score: 0.0
+month: 5
+day: 30
+year: 2011
+Mention text: 30 May 2011
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 2014
+Entity type: DATE
+Salience score: 0.0
+year: 2014
+Mention text: 2014
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: May 2011
+Entity type: DATE
+Salience score: 0.0
+year: 2011
+month: 5
+Mention text: May 2011
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: November 2011
+Entity type: DATE
+Salience score: 0.0
+year: 2011
+month: 11
+Mention text: November 2011
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: February 2012
+Entity type: DATE
+Salience score: 0.0
+year: 2012
+month: 2
+Mention text: February 2012
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 2012
+Entity type: DATE
+Salience score: 0.0
+year: 2012
+Mention text: 2012
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 2013
+Entity type: DATE
+Salience score: 0.0
+year: 2013
+Mention text: 2013
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: December 2012
+Entity type: DATE
+Salience score: 0.0
+month: 12
+year: 2012
+Mention text: December 2012
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 2014
+Entity type: DATE
+Salience score: 0.0
+year: 2014
+Mention text: 2014
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: May 2013
+Entity type: DATE
+Salience score: 0.0
+year: 2013
+month: 5
+Mention text: May 2013
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: October 2013
+Entity type: DATE
+Salience score: 0.0
+month: 10
+year: 2013
+Mention text: October 2013
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: December 2014
+Entity type: DATE
+Salience score: 0.0
+month: 12
+year: 2014
+Mention text: December 2014
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 2014
+Entity type: DATE
+Salience score: 0.0
+year: 2014
+Mention text: 2014
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: May 2015
+Entity type: DATE
+Salience score: 0.0
+year: 2015
+month: 5
+Mention text: May 2015
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: November 2016
+Entity type: DATE
+Salience score: 0.0
+year: 2016
+month: 11
+Mention text: November 2016
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 2017
+Entity type: DATE
+Salience score: 0.0
+year: 2017
+Mention text: 2017
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 25 June 2015
+Entity type: DATE
+Salience score: 0.0
+month: 6
+year: 2015
+day: 25
+Mention text: 25 June 2015
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: October 2015
+Entity type: DATE
+Salience score: 0.0
+year: 2015
+month: 10
+Mention text: October 2015
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 20 November 2015
+Entity type: DATE
+Salience score: 0.0
+month: 11
+day: 20
+year: 2015
+Mention text: 20 November 2015
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: May 2016
+Entity type: DATE
+Salience score: 0.0
+month: 5
+year: 2016
+Mention text: May 2016
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: August 2016
+Entity type: DATE
+Salience score: 0.0
+month: 8
+year: 2016
+Mention text: August 2016
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 2017
+Entity type: DATE
+Salience score: 0.0
+year: 2017
+Mention text: 2017
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 2019
+Entity type: DATE
+Salience score: 0.0
+year: 2019
+Mention text: 2019
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 2003
+Entity type: DATE
+Salience score: 0.0
+year: 2003
+Mention text: 2003
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 5 March 2005
+Entity type: DATE
+Salience score: 0.0
+year: 2005
+month: 3
+day: 5
+Mention text: 5 March 2005
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: May 2008
+Entity type: DATE
+Salience score: 0.0
+month: 5
+year: 2008
+Mention text: May 2008
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 9 May 2009
+Entity type: DATE
+Salience score: 0.0
+year: 2009
+month: 5
+day: 9
+Mention text: 9 May 2009
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: December 2009
+Entity type: DATE
+Salience score: 0.0
+year: 2009
+month: 12
+Mention text: December 2009
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: March 2011
+Entity type: DATE
+Salience score: 0.0
+month: 3
+year: 2011
+Mention text: March 2011
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 2014
+Entity type: DATE
+Salience score: 0.0
+year: 2014
+Mention text: 2014
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: July 2015
+Entity type: DATE
+Salience score: 0.0
+year: 2015
+month: 7
+Mention text: July 2015
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 14 April 2018
+Entity type: DATE
+Salience score: 0.0
+day: 14
+year: 2018
+month: 4
+Mention text: 14 April 2018
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 2021
+Entity type: DATE
+Salience score: 0.0
+year: 2021
+Mention text: 2021
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: May 2010
+Entity type: DATE
+Salience score: 0.0
+month: 5
+year: 2010
+Mention text: May 2010
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: January 2012
+Entity type: DATE
+Salience score: 0.0
+month: 1
+year: 2012
+Mention text: January 2012
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: June 2012
+Entity type: DATE
+Salience score: 0.0
+month: 6
+year: 2012
+Mention text: June 2012
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 2017
+Entity type: DATE
+Salience score: 0.0
+year: 2017
+Mention text: 2017
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 5,000 <a href="/wiki/Polish_z%C5%82oty" title="Polish złoty">złoty
+Entity type: PRICE
+Salience score: 0.0
+currency: PLN
+value: 5000.000000
+Mention text: 5,000 <a href="/wiki/Polish_z%C5%82oty" title="Polish złoty">złoty
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 1998
+Entity type: NUMBER
+Salience score: 0.0
+value: 1998
+Mention text: 1998
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 2014
+Entity type: NUMBER
+Salience score: 0.0
+value: 2014
+Mention text: 2014
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 5
+Entity type: NUMBER
+Salience score: 0.0
+value: 5
+Mention text: 5
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 100
+Entity type: NUMBER
+Salience score: 0.0
+value: 100
+Mention text: 100
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 2011
+Entity type: NUMBER
+Salience score: 0.0
+value: 2011
+Mention text: 2011
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 2011
+Entity type: NUMBER
+Salience score: 0.0
+value: 2011
+Mention text: 2011
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 2014
+Entity type: NUMBER
+Salience score: 0.0
+value: 2014
+Mention text: 2014
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 17
+Entity type: NUMBER
+Salience score: 0.0
+value: 17
+Mention text: 17
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 50
+Entity type: NUMBER
+Salience score: 0.0
+value: 50
+Mention text: 50
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 100
+Entity type: NUMBER
+Salience score: 0.0
+value: 100
+Mention text: 100
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 2017
+Entity type: NUMBER
+Salience score: 0.0
+value: 2017
+Mention text: 2017
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 2014
+Entity type: NUMBER
+Salience score: 0.0
+value: 2014
+Mention text: 2014
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 1
+Entity type: NUMBER
+Salience score: 0.0
+value: 1
+Mention text: 1
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 12
+Entity type: NUMBER
+Salience score: 0.0
+value: 12
+Mention text: 12
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 18
+Entity type: NUMBER
+Salience score: 0.0
+value: 18
+Mention text: 18
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 30
+Entity type: NUMBER
+Salience score: 0.0
+value: 30
+Mention text: 30
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 8
+Entity type: NUMBER
+Salience score: 0.0
+value: 8
+Mention text: 8
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 15
+Entity type: NUMBER
+Salience score: 0.0
+value: 15
+Mention text: 15
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 34
+Entity type: NUMBER
+Salience score: 0.0
+value: 34
+Mention text: 34
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 45,000
+Entity type: NUMBER
+Salience score: 0.0
+value: 45000
+Mention text: 45,000
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 17
+Entity type: NUMBER
+Salience score: 0.0
+value: 17
+Mention text: 17
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 2006
+Entity type: NUMBER
+Salience score: 0.0
+value: 2006
+Mention text: 2006
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 2013
+Entity type: NUMBER
+Salience score: 0.0
+value: 2013
+Mention text: 2013
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 2011
+Entity type: NUMBER
+Salience score: 0.0
+value: 2011
+Mention text: 2011
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 50
+Entity type: NUMBER
+Salience score: 0.0
+value: 50
+Mention text: 50
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 2005
+Entity type: NUMBER
+Salience score: 0.0
+value: 2005
+Mention text: 2005
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 7
+Entity type: NUMBER
+Salience score: 0.0
+value: 7
+Mention text: 7
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 2008
+Entity type: NUMBER
+Salience score: 0.0
+value: 2008
+Mention text: 2008
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 2019
+Entity type: NUMBER
+Salience score: 0.0
+value: 2019
+Mention text: 2019
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 33
+Entity type: NUMBER
+Salience score: 0.0
+value: 33
+Mention text: 33
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: One
+Entity type: NUMBER
+Salience score: 0.0
+value: 1
+Mention text: One
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: four
+Entity type: NUMBER
+Salience score: 0.0
+value: 4
+Mention text: four
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 3
+Entity type: NUMBER
+Salience score: 0.0
+value: 3
+Mention text: 3
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: twelve
+Entity type: NUMBER
+Salience score: 0.0
+value: 12
+Mention text: twelve
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 60
+Entity type: NUMBER
+Salience score: 0.0
+value: 60
+Mention text: 60
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 2
+Entity type: NUMBER
+Salience score: 0.0
+value: 2
+Mention text: 2
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 2016
+Entity type: NUMBER
+Salience score: 0.0
+value: 2016
+Mention text: 2016
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 2004
+Entity type: NUMBER
+Salience score: 0.0
+value: 2004
+Mention text: 2004
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 17
+Entity type: NUMBER
+Salience score: 0.0
+value: 17
+Mention text: 17
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 24
+Entity type: NUMBER
+Salience score: 0.0
+value: 24
+Mention text: 24
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: two
+Entity type: NUMBER
+Salience score: 0.0
+value: 2
+Mention text: two
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 5,000
+Entity type: NUMBER
+Salience score: 0.0
+value: 5000
+Mention text: 5,000
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 50
+Entity type: NUMBER
+Salience score: 0.0
+value: 50
+Mention text: 50
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 2006
+Entity type: NUMBER
+Salience score: 0.0
+value: 2006
+Mention text: 2006
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 2008
+Entity type: NUMBER
+Salience score: 0.0
+value: 2008
+Mention text: 2008
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 2002
+Entity type: NUMBER
+Salience score: 0.0
+value: 2002
+Mention text: 2002
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 100
+Entity type: NUMBER
+Salience score: 0.0
+value: 100
+Mention text: 100
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: ten
+Entity type: NUMBER
+Salience score: 0.0
+value: 10
+Mention text: ten
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 11
+Entity type: NUMBER
+Salience score: 0.0
+value: 11
+Mention text: 11
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 2015
+Entity type: NUMBER
+Salience score: 0.0
+value: 2015
+Mention text: 2015
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: two
+Entity type: NUMBER
+Salience score: 0.0
+value: 2
+Mention text: two
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: one
+Entity type: NUMBER
+Salience score: 0.0
+value: 1
+Mention text: one
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 10
+Entity type: NUMBER
+Salience score: 0.0
+value: 10
+Mention text: 10
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 24
+Entity type: NUMBER
+Salience score: 0.0
+value: 24
+Mention text: 24
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 2011
+Entity type: NUMBER
+Salience score: 0.0
+value: 2011
+Mention text: 2011
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 2009
+Entity type: NUMBER
+Salience score: 0.0
+value: 2009
+Mention text: 2009
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 20
+Entity type: NUMBER
+Salience score: 0.0
+value: 20
+Mention text: 20
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 2011
+Entity type: NUMBER
+Salience score: 0.0
+value: 2011
+Mention text: 2011
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 2005
+Entity type: NUMBER
+Salience score: 0.0
+value: 2005
+Mention text: 2005
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 20
+Entity type: NUMBER
+Salience score: 0.0
+value: 20
+Mention text: 20
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 5
+Entity type: NUMBER
+Salience score: 0.0
+value: 5
+Mention text: 5
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: one
+Entity type: NUMBER
+Salience score: 0.0
+value: 1
+Mention text: one
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: ten
+Entity type: NUMBER
+Salience score: 0.0
+value: 10
+Mention text: ten
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 10
+Entity type: NUMBER
+Salience score: 0.0
+value: 10
+Mention text: 10
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 13
+Entity type: NUMBER
+Salience score: 0.0
+value: 13
+Mention text: 13
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 31
+Entity type: NUMBER
+Salience score: 0.0
+value: 31
+Mention text: 31
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: five
+Entity type: NUMBER
+Salience score: 0.0
+value: 5
+Mention text: five
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: six
+Entity type: NUMBER
+Salience score: 0.0
+value: 6
+Mention text: six
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 32
+Entity type: NUMBER
+Salience score: 0.0
+value: 32
+Mention text: 32
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 9
+Entity type: NUMBER
+Salience score: 0.0
+value: 9
+Mention text: 9
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 7
+Entity type: NUMBER
+Salience score: 0.0
+value: 7
+Mention text: 7
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 2016
+Entity type: NUMBER
+Salience score: 0.0
+value: 2016
+Mention text: 2016
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 27
+Entity type: NUMBER
+Salience score: 0.0
+value: 27
+Mention text: 27
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 16
+Entity type: NUMBER
+Salience score: 0.0
+value: 16
+Mention text: 16
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 50
+Entity type: NUMBER
+Salience score: 0.0
+value: 50
+Mention text: 50
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: four
+Entity type: NUMBER
+Salience score: 0.0
+value: 4
+Mention text: four
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: two
+Entity type: NUMBER
+Salience score: 0.0
+value: 2
+Mention text: two
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 2010
+Entity type: NUMBER
+Salience score: 0.0
+value: 2010
+Mention text: 2010
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: one
+Entity type: NUMBER
+Salience score: 0.0
+value: 1
+Mention text: one
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 2011
+Entity type: NUMBER
+Salience score: 0.0
+value: 2011
+Mention text: 2011
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: one
+Entity type: NUMBER
+Salience score: 0.0
+value: 1
+Mention text: one
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 1984
+Entity type: NUMBER
+Salience score: 0.0
+value: 1984
+Mention text: 1984
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 2007
+Entity type: NUMBER
+Salience score: 0.0
+value: 2007
+Mention text: 2007
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 25
+Entity type: NUMBER
+Salience score: 0.0
+value: 25
+Mention text: 25
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 2011
+Entity type: NUMBER
+Salience score: 0.0
+value: 2011
+Mention text: 2011
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 23
+Entity type: NUMBER
+Salience score: 0.0
+value: 23
+Mention text: 23
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 2021
+Entity type: NUMBER
+Salience score: 0.0
+value: 2021
+Mention text: 2021
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 35
+Entity type: NUMBER
+Salience score: 0.0
+value: 35
+Mention text: 35
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 2015
+Entity type: NUMBER
+Salience score: 0.0
+value: 2015
+Mention text: 2015
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 14
+Entity type: NUMBER
+Salience score: 0.0
+value: 14
+Mention text: 14
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: three
+Entity type: NUMBER
+Salience score: 0.0
+value: 3
+Mention text: three
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 2006
+Entity type: NUMBER
+Salience score: 0.0
+value: 2006
+Mention text: 2006
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: one
+Entity type: NUMBER
+Salience score: 0.0
+value: 1
+Mention text: one
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: one
+Entity type: NUMBER
+Salience score: 0.0
+value: 1
+Mention text: one
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 10
+Entity type: NUMBER
+Salience score: 0.0
+value: 10
+Mention text: 10
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 2
+Entity type: NUMBER
+Salience score: 0.0
+value: 2
+Mention text: 2
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 2008
+Entity type: NUMBER
+Salience score: 0.0
+value: 2008
+Mention text: 2008
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 2003
+Entity type: NUMBER
+Salience score: 0.0
+value: 2003
+Mention text: 2003
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 18
+Entity type: NUMBER
+Salience score: 0.0
+value: 18
+Mention text: 18
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 30
+Entity type: NUMBER
+Salience score: 0.0
+value: 30
+Mention text: 30
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 4
+Entity type: NUMBER
+Salience score: 0.0
+value: 4
+Mention text: 4
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 2012
+Entity type: NUMBER
+Salience score: 0.0
+value: 2012
+Mention text: 2012
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 26
+Entity type: NUMBER
+Salience score: 0.0
+value: 26
+Mention text: 26
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 6
+Entity type: NUMBER
+Salience score: 0.0
+value: 6
+Mention text: 6
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 100
+Entity type: NUMBER
+Salience score: 0.0
+value: 100
+Mention text: 100
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: Seven
+Entity type: NUMBER
+Salience score: 0.0
+value: 7
+Mention text: Seven
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: sixteen
+Entity type: NUMBER
+Salience score: 0.0
+value: 16
+Mention text: sixteen
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 100,000
+Entity type: NUMBER
+Salience score: 0.0
+value: 100000
+Mention text: 100,000
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 2014
+Entity type: NUMBER
+Salience score: 0.0
+value: 2014
+Mention text: 2014
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 2013
+Entity type: NUMBER
+Salience score: 0.0
+value: 2013
+Mention text: 2013
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: Three
+Entity type: NUMBER
+Salience score: 0.0
+value: 3
+Mention text: Three
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 7
+Entity type: NUMBER
+Salience score: 0.0
+value: 7
+Mention text: 7
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 28
+Entity type: NUMBER
+Salience score: 0.0
+value: 28
+Mention text: 28
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 2019
+Entity type: NUMBER
+Salience score: 0.0
+value: 2019
+Mention text: 2019
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 27
+Entity type: NUMBER
+Salience score: 0.0
+value: 27
+Mention text: 27
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 2014
+Entity type: NUMBER
+Salience score: 0.0
+value: 2014
+Mention text: 2014
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 30
+Entity type: NUMBER
+Salience score: 0.0
+value: 30
+Mention text: 30
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 21
+Entity type: NUMBER
+Salience score: 0.0
+value: 21
+Mention text: 21
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 2009
+Entity type: NUMBER
+Salience score: 0.0
+value: 2009
+Mention text: 2009
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 2011
+Entity type: NUMBER
+Salience score: 0.0
+value: 2011
+Mention text: 2011
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 2017
+Entity type: NUMBER
+Salience score: 0.0
+value: 2017
+Mention text: 2017
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: two
+Entity type: NUMBER
+Salience score: 0.0
+value: 2
+Mention text: two
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 12
+Entity type: NUMBER
+Salience score: 0.0
+value: 12
+Mention text: 12
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 2012
+Entity type: NUMBER
+Salience score: 0.0
+value: 2012
+Mention text: 2012
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 2008
+Entity type: NUMBER
+Salience score: 0.0
+value: 2008
+Mention text: 2008
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 7
+Entity type: NUMBER
+Salience score: 0.0
+value: 7
+Mention text: 7
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 2013
+Entity type: NUMBER
+Salience score: 0.0
+value: 2013
+Mention text: 2013
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 2015
+Entity type: NUMBER
+Salience score: 0.0
+value: 2015
+Mention text: 2015
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: three
+Entity type: NUMBER
+Salience score: 0.0
+value: 3
+Mention text: three
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 2007
+Entity type: NUMBER
+Salience score: 0.0
+value: 2007
+Mention text: 2007
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 36
+Entity type: NUMBER
+Salience score: 0.0
+value: 36
+Mention text: 36
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: two
+Entity type: NUMBER
+Salience score: 0.0
+value: 2
+Mention text: two
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 7
+Entity type: NUMBER
+Salience score: 0.0
+value: 7
+Mention text: 7
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 2014
+Entity type: NUMBER
+Salience score: 0.0
+value: 2014
+Mention text: 2014
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 19
+Entity type: NUMBER
+Salience score: 0.0
+value: 19
+Mention text: 19
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 29
+Entity type: NUMBER
+Salience score: 0.0
+value: 29
+Mention text: 29
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 2015
+Entity type: NUMBER
+Salience score: 0.0
+value: 2015
+Mention text: 2015
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 16
+Entity type: NUMBER
+Salience score: 0.0
+value: 16
+Mention text: 16
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 100
+Entity type: NUMBER
+Salience score: 0.0
+value: 100
+Mention text: 100
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: two
+Entity type: NUMBER
+Salience score: 0.0
+value: 2
+Mention text: two
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 2009
+Entity type: NUMBER
+Salience score: 0.0
+value: 2009
+Mention text: 2009
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 7
+Entity type: NUMBER
+Salience score: 0.0
+value: 7
+Mention text: 7
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: one
+Entity type: NUMBER
+Salience score: 0.0
+value: 1
+Mention text: one
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 2017
+Entity type: NUMBER
+Salience score: 0.0
+value: 2017
+Mention text: 2017
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: one
+Entity type: NUMBER
+Salience score: 0.0
+value: 1
+Mention text: one
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 2015
+Entity type: NUMBER
+Salience score: 0.0
+value: 2015
+Mention text: 2015
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 2017
+Entity type: NUMBER
+Salience score: 0.0
+value: 2017
+Mention text: 2017
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 2009
+Entity type: NUMBER
+Salience score: 0.0
+value: 2009
+Mention text: 2009
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 2012
+Entity type: NUMBER
+Salience score: 0.0
+value: 2012
+Mention text: 2012
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 2008
+Entity type: NUMBER
+Salience score: 0.0
+value: 2008
+Mention text: 2008
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 2016
+Entity type: NUMBER
+Salience score: 0.0
+value: 2016
+Mention text: 2016
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 2010
+Entity type: NUMBER
+Salience score: 0.0
+value: 2010
+Mention text: 2010
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 2011
+Entity type: NUMBER
+Salience score: 0.0
+value: 2011
+Mention text: 2011
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: seven
+Entity type: NUMBER
+Salience score: 0.0
+value: 7
+Mention text: seven
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 2015
+Entity type: NUMBER
+Salience score: 0.0
+value: 2015
+Mention text: 2015
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 14
+Entity type: NUMBER
+Salience score: 0.0
+value: 14
+Mention text: 14
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 9
+Entity type: NUMBER
+Salience score: 0.0
+value: 9
+Mention text: 9
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 2007
+Entity type: NUMBER
+Salience score: 0.0
+value: 2007
+Mention text: 2007
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 15
+Entity type: NUMBER
+Salience score: 0.0
+value: 15
+Mention text: 15
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 2004
+Entity type: NUMBER
+Salience score: 0.0
+value: 2004
+Mention text: 2004
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: Two
+Entity type: NUMBER
+Salience score: 0.0
+value: 2
+Mention text: Two
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: nine
+Entity type: NUMBER
+Salience score: 0.0
+value: 9
+Mention text: nine
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 2018
+Entity type: NUMBER
+Salience score: 0.0
+value: 2018
+Mention text: 2018
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 2012
+Entity type: NUMBER
+Salience score: 0.0
+value: 2012
+Mention text: 2012
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 2016
+Entity type: NUMBER
+Salience score: 0.0
+value: 2016
+Mention text: 2016
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 2012
+Entity type: NUMBER
+Salience score: 0.0
+value: 2012
+Mention text: 2012
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 22
+Entity type: NUMBER
+Salience score: 0.0
+value: 22
+Mention text: 22
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 7
+Entity type: NUMBER
+Salience score: 0.0
+value: 7
+Mention text: 7
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 2005
+Entity type: NUMBER
+Salience score: 0.0
+value: 2005
+Mention text: 2005
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 25
+Entity type: NUMBER
+Salience score: 0.0
+value: 25
+Mention text: 25
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 2018
+Entity type: NUMBER
+Salience score: 0.0
+value: 2018
+Mention text: 2018
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 2007
+Entity type: NUMBER
+Salience score: 0.0
+value: 2007
+Mention text: 2007
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 2010
+Entity type: NUMBER
+Salience score: 0.0
+value: 2010
+Mention text: 2010
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 30,000
+Entity type: NUMBER
+Salience score: 0.0
+value: 30000
+Mention text: 30,000
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 2010
+Entity type: NUMBER
+Salience score: 0.0
+value: 2010
+Mention text: 2010
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: 2002
+Entity type: NUMBER
+Salience score: 0.0
+value: 2002
+Mention text: 2002
+Mention type: TYPE_UNKNOWN
+
+
+Representative name for the entity: one million
+Entity type: NUMBER
+Salience score: 0.0
+value: 1000000
+Mention text: one million
+Mention type: TYPE_UNKNOWN
+
+
+Language of the text: en
+
+D:\Gocha\learn>
